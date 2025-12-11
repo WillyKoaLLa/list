@@ -212,5 +212,7 @@ ipm.adblockplus.dev
 accessnoipa.mef.gov.it
 iphone-ld.apple.com
 www.ortovox.com
-
+koallawilly.twingate.com
+relays-do.twingate.com
+stun-alt.fra1.twingate.com
 
