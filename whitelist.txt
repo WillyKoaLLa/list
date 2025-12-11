@@ -216,5 +216,5 @@ koallawilly.twingate.com
 relays-do.twingate.com
 stun-alt.fra1.twingate.com
 pastebin.com
-
+app-api.alfabeto.fideuram.it
 
