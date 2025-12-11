@@ -210,4 +210,6 @@ mid4.linkedin.com
 abp.telemetry.adblockplus.org
 ipm.adblockplus.dev
 accessnoipa.mef.gov.it
+iphone-ld.apple.com
+
 
