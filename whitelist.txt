@@ -185,3 +185,7 @@ prisma.bancaifis.it
 koalla.duckdns.org
 wpad.reply.it
 variations.brave.com
+_9006._https.koallawilly.duckdns.org
+_9007._https.koallawilly.duckdns.org
+_9006._https.koalla.duckdns.org
+_9007._https.koalla.duckdns.org
