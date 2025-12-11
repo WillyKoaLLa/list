@@ -215,6 +215,6 @@ www.ortovox.com
 koallawilly.twingate.com
 relays-do.twingate.com
 stun-alt.fra1.twingate.com
-pastbin.com
+pastebin.com
 
 
