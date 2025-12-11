@@ -194,3 +194,10 @@ wpad.reply.eu
 www.reddit.com
 i.redd.it
 b.thumbs.redditmedia.com
+spc.n26.com
+tech26.de
+sessions.bugsnag.com
+prodregistryv2.org
+cloudflare-dns.com
+statsigapi.net
+
