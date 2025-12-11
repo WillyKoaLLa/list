@@ -219,6 +219,14 @@ pastebin.com
 app-api.alfabeto.fideuram.it
 init.ess.apple.com
 email.azionecontrolafame.it
+mobile-data.onetrust.io
+resources.digital-cloud.medallia.eu
+gate.centrico.tech
+api.pushio.com
+analytics.kaltura.com
+safebrowsing.google.com
+
+
 
 
 
