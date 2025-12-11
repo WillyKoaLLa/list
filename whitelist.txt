@@ -203,5 +203,6 @@ statsigapi.net
 fls-eu.amazon.it
 unagi.amazon.it
 a.tellonym.me
+clientservices.googleapis.com
 
 
