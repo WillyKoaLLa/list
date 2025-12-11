@@ -211,5 +211,6 @@ abp.telemetry.adblockplus.org
 ipm.adblockplus.dev
 accessnoipa.mef.gov.it
 iphone-ld.apple.com
+www.ortovox.com
 
 
