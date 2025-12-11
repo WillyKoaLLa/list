@@ -180,3 +180,6 @@ lightstep.kaizen.nvidia.com
 arc.msn.com
 firebase-settings.crashlytics.com
 n.connections.brother.com
+dit.whatsapp.net
+_ldap._tcp.dc._msdcs.work.reply.eu
+prisma.bancaifis.it
