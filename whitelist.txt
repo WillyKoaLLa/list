@@ -205,5 +205,7 @@ unagi.amazon.it
 a.tellonym.me
 clientservices.googleapis.com
 geo.svc.ui.com
-
-
+graph-fallback.instagram.com
+mid4.linkedin.com
+abp.telemetry.adblockplus.org
+ipm.adblockplus.dev
