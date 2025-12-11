@@ -183,3 +183,4 @@ n.connections.brother.com
 dit.whatsapp.net
 _ldap._tcp.dc._msdcs.work.reply.eu
 prisma.bancaifis.it
+koalla.duckdns.org
