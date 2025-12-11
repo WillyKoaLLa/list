@@ -178,3 +178,4 @@ crashes.owhealth.com
 crashes.infra.owhealth.com.cdn.cloudflare.net
 lightstep.kaizen.nvidia.com
 arc.msn.com
+firebase-settings.crashlytics.com
