@@ -191,3 +191,4 @@ _9006._https.koalla.duckdns.org
 _9007._https.koalla.duckdns.org
 duckdns.org
 wpad.reply.eu
+reddit.com
