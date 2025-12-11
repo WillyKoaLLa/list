@@ -184,3 +184,4 @@ _ldap._tcp.dc._msdcs.work.reply.eu
 prisma.bancaifis.it
 koalla.duckdns.org
 wpad.reply.it
+variations.brave.com
