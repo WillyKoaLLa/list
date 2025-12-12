@@ -94,6 +94,7 @@ xp.v.aaplimg.com
 @@||blackvoid.club^
 @@||brave.com^
 @@||brave.eu^
+@@||brxcdn.com^
 @@||cdn-apple.com^
 @@||clarity.ms^
 @@||clockwork.com^
@@ -110,6 +111,8 @@ xp.v.aaplimg.com
 @@||fibra.click^
 @@||fideuram.it^
 @@||freedome.it^
+@@||g.bing.com^
+@@||gfe.nvidia.com^
 @@||giallozafferano.it^
 @@||gmail.com^
 @@||gmail.it^
@@ -158,6 +161,7 @@ xp.v.aaplimg.com
 @@||sentry.io^
 @@||shelly.cloud^
 @@||shelly.com^
+@@||statics.cedscdn.it^
 @@||synology.me^
 @@||tailscale.com^
 @@||tech26.de^
@@ -170,5 +174,3 @@ xp.v.aaplimg.com
 @@||whatsapp.net^
 @@||x.com^
 @@||youtube.com^
-@@||statics.cedscdn.it^
-@@||brxcdn.com^
