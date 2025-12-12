@@ -182,3 +182,7 @@ xp.v.aaplimg.com
 @@||youtube.com^
 @@||izatcloud.net^
 @@||wittytv.it^
+@@||iliad.it^
+@@||wikiliad.it^
+@@||vodafone.it^
+@@||fastweb.it^
