@@ -196,3 +196,5 @@ xp.v.aaplimg.com
 @@||wittytv.it^
 @@||x.com^
 @@||youtube.com^
+@@||zoom.us^
+@@||skype.com^
