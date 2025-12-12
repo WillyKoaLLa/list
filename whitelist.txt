@@ -161,6 +161,7 @@ xp.v.aaplimg.com
 @@||twingate.com^
 @@||ui.com^
 @@||unhcr.it^
+@@||waze.com^
 @@||whatsapp.com^
 @@||whatsapp.net^
 @@||x.com^
