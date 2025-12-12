@@ -33,7 +33,6 @@ graph.whatsapp.com
 graph.whatsapp.net
 halc.iadvize.com
 inference.location.live.net
-kjjinz.skadsdk.appsflyersdk.com
 lightstep.kaizen.nvidia.com
 login.windows.net
 m.facebook.com
@@ -47,7 +46,6 @@ n.connections.brother.com
 onlinecheck.wildtangent.com
 platform.twitter.com
 prodeu-stats.abbi.io
-prodregistryv2.org
 prov-lg.alphonso.tv
 pubsub.pubnub.com
 radar.cedexis.com
@@ -87,9 +85,11 @@ xp.v.aaplimg.com
 @@||airthin.gs^
 @@||airthings.com^
 @@||akadns.net^
+@@||api.onesignal.com^
 @@||app-measurement.com^
 @@||apple-dns.net^
 @@||apple.com^
+@@||appsflyersdk.com^
 @@||avast.com^
 @@||azionecontrolafame.it^
 @@||bancaifis.it^
@@ -131,6 +131,7 @@ xp.v.aaplimg.com
 @@||licdn.com^
 @@||lucake.it^
 @@||macrumors.com^
+@@||marketingcloudapis.com^
 @@||massgrave.dev^
 @@||meethue.com^
 @@||mef.gov.it^
@@ -142,6 +143,7 @@ xp.v.aaplimg.com
 @@||pandora.net^
 @@||pastebin.com^
 @@||payback.it^
+@@||prodregistryv2.org^
 @@||pushio.com^
 @@||pvehs.com^
 @@||redd.com^
@@ -166,5 +168,4 @@ xp.v.aaplimg.com
 @@||whatsapp.net^
 @@||x.com^
 @@||youtube.com^
-
 
