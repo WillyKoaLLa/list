@@ -199,3 +199,6 @@ xp.v.aaplimg.com
 @@||x.com^
 @@||youtube.com^
 @@||zoom.us^
+@@||it-wms.com^
+@@||panocloud.webcam^
+@@||foto-webcam.eu^
