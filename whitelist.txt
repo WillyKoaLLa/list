@@ -84,6 +84,7 @@ xp.v.aaplimg.com
 @@||airthings.com^
 @@||akadns.net^
 @@||api.onesignal.com^
+@@||app-analytics-services.com^
 @@||app-measurement.com^
 @@||apple-dns.net^
 @@||apple.com^
@@ -107,6 +108,7 @@ xp.v.aaplimg.com
 @@||direct.quickconnect.to^
 @@||disqus.com^
 @@||duckdns.org^
+@@||ecoflow.com^
 @@||fbcdn.net^
 @@||fibra.click^
 @@||fideuram.it^
