@@ -186,3 +186,6 @@ xp.v.aaplimg.com
 @@||wikiliad.it^
 @@||vodafone.it^
 @@||fastweb.it^
+@@||attest.approovr.io^
+@@||attest.approoval.com^
+@@||api.thefork.com^
