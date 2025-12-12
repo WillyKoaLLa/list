@@ -225,6 +225,20 @@ gate.centrico.tech
 api.pushio.com
 analytics.kaltura.com
 safebrowsing.google.com
+cl3.apple.com
+patterns.wdp.brave.com
+2764286735.shelly.com
+geo.geoproapp.com
+tms.hextom.com
+dr4qe3ddw9y32.cloudfront.net
+datapipeline.logitech.io
+spov-ring-fallback.msedge.net
+connectivity-test.static.microsoft
+eu-office.events.data.microsoft.com
+stun.fra1.twingate.com
+stun.ams3.twingate.com
+init.ess.apple.com
+
 
 
 
