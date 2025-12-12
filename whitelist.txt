@@ -137,8 +137,6 @@ xp.v.aaplimg.com
 @@||lucake.it^
 @@||macrumors.com^
 @@||marketingcloudapis.com^
-@@||mask-h2.icloud.com^
-@@||mask-icloud.com^
 @@||massgrave.dev^
 @@||meethue.com^
 @@||mef.gov.it^
