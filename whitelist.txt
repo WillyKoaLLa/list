@@ -85,7 +85,7 @@ xp.v.aaplimg.com
 @@||adblockplus.dev^
 @@||adblockplus.org^
 @@||airthin.gs^
-@@||airthins.com^
+@@||airthings.com^
 @@||akadns.net^
 @@||app-measurement.com^
 @@||apple-dns.net^
