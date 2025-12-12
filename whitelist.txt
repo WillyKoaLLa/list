@@ -104,6 +104,7 @@ xp.v.aaplimg.com
 @@||cloudflare.net^
 @@||country.is^
 @@||data.microsoft.com^
+@@||direct.quickconnect.to^
 @@||disqus.com^
 @@||duckdns.org^
 @@||fibra.click^
