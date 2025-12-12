@@ -188,3 +188,6 @@ xp.v.aaplimg.com
 @@||attest.approoval.com^
 @@||thefork.com^
 @@||mainadv.com^
+@@||visualstudio.com^
+@@||trovaprezzi.it^
+@@||lafeltrinelli.it^
