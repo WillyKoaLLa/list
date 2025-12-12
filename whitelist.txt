@@ -186,4 +186,5 @@ xp.v.aaplimg.com
 @@||fastweb.it^
 @@||attest.approovr.io^
 @@||attest.approoval.com^
-@@||api.thefork.com^
+@@||thefork.com^
+@@||mainadv.com^
