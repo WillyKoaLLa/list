@@ -171,3 +171,4 @@ xp.v.aaplimg.com
 @@||x.com^
 @@||youtube.com^
 @@||statics.cedscdn.it^
+@@||brxcdn.com^
