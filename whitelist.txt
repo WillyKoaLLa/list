@@ -80,12 +80,13 @@ widget.trustpilot.com
 xp.v.aaplimg.com
 
 #lista domini
-@@||airthin.gs^
-@@||airthin.com^
 @@||ad-score.com^
 @@||adapty.io^
 @@||adblockplus.dev^
 @@||adblockplus.org^
+@@||airthin.com^
+@@||airthin.gs^
+@@||akadns.net^
 @@||app-measurement.com^
 @@||apple-dns.net^
 @@||apple.com^
@@ -140,16 +141,16 @@ xp.v.aaplimg.com
 @@||payback.it^
 @@||pushio.com^
 @@||pvehs.com^
-@@||redd.it^
 @@||redd.com^
+@@||redd.it^
 @@||reddit.com^
 @@||redditmedia.com^
 @@||reply.eu^
 @@||reply.it^
 @@||satellitemap.space^
 @@||sentry.io^
-@@||shelly.com^
 @@||shelly.cloud^
+@@||shelly.com^
 @@||synology.me^
 @@||tailscale.com^
 @@||tech26.de^
