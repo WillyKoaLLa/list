@@ -238,6 +238,7 @@ eu-office.events.data.microsoft.com
 stun.fra1.twingate.com
 stun.ams3.twingate.com
 init.ess.apple.com
+@@||twingate.com^
 
 
 
