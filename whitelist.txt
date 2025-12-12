@@ -53,7 +53,6 @@ rai-italia01.wt-eu02.net
 res.cloudinary.com
 resources.digital-cloud.medallia.eu
 safetrack.singular.net
-scontent.xx.fbcdn.net
 self.events.data.microsoft.com
 sentry.io
 sessions.bugsnag.com
@@ -62,7 +61,6 @@ ssl.google-analytics.com
 star.c10r.facebook.com
 static.cdninstagram.com
 static.licdn.com
-static.xx.fbcdn.net
 statsigapi.net
 storage.mlcdn.com
 tinkeringpete.blogspot.com
@@ -108,6 +106,7 @@ xp.v.aaplimg.com
 @@||direct.quickconnect.to^
 @@||disqus.com^
 @@||duckdns.org^
+@@||fbcdn.net^
 @@||fibra.click^
 @@||fideuram.it^
 @@||freedome.it^
@@ -135,9 +134,12 @@ xp.v.aaplimg.com
 @@||massgrave.dev^
 @@||meethue.com^
 @@||mef.gov.it^
+@@||miele.com^
+@@||musvc2.net^
 @@||n26.com^
 @@||netflix.com^
 @@||noip.com^
+@@||oraclecloudapps.com^
 @@||ortovox.com^
 @@||pago.pa.it^
 @@||pandora.net^
@@ -168,4 +170,3 @@ xp.v.aaplimg.com
 @@||whatsapp.net^
 @@||x.com^
 @@||youtube.com^
-
