@@ -96,6 +96,7 @@ xp.v.aaplimg.com
 @@||blackvoid.club^
 @@||brave.com^
 @@||brave.eu^
+@@||cdn-apple.com^
 @@||clarity.ms^
 @@||clockwork.com^
 @@||clockwork.wiki^
@@ -137,6 +138,7 @@ xp.v.aaplimg.com
 @@||netflix.com^
 @@||noip.com^
 @@||ortovox.com^
+@@||pago.pa.it^
 @@||pandora.net^
 @@||pastebin.com^
 @@||payback.it^
