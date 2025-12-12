@@ -96,6 +96,7 @@ xp.v.aaplimg.com
 @@||azionecontrolafame.it^
 @@||bancaifis.it^
 @@||blackvoid.club^
+@@||bnl.it^
 @@||brave.com^
 @@||brave.eu^
 @@||brxcdn.com^
@@ -174,6 +175,7 @@ xp.v.aaplimg.com
 @@||sentry.io^
 @@||shelly.cloud^
 @@||shelly.com^
+@@||skype.com^
 @@||statics.cedscdn.it^
 @@||synology.me^
 @@||tailscale.com^
@@ -197,4 +199,3 @@ xp.v.aaplimg.com
 @@||x.com^
 @@||youtube.com^
 @@||zoom.us^
-@@||skype.com^
