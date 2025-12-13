@@ -1,4 +1,5 @@
 # lista pura
+dns.google
 a.tellonym.me
 acr-config.aistrm.net
 activity.windows.com
