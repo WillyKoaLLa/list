@@ -1,4 +1,5 @@
 # lista pura
+it.app.lgwebostv.com
 a.tellonym.me
 acr-config.aistrm.net
 activity.windows.com
