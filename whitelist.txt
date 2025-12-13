@@ -207,3 +207,5 @@ xp.v.aaplimg.com
 @@||fastly-edge.com^
 @@||mandrillapp.com^
 @@||xtracloud.net^
+@@||lgwebostv.com^
+@@||it.lgeapi.com^
