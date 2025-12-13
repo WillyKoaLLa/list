@@ -203,3 +203,5 @@ xp.v.aaplimg.com
 @@||panocloud.webcam^
 @@||foto-webcam.eu^
 @@||salewa.com^
+@@||nexigroup.com^
+@@||fastly-edge.com^
