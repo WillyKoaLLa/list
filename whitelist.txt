@@ -2,7 +2,6 @@
 a.tellonym.me
 acr-config.aistrm.net
 activity.windows.com
-aepxlg.adobe.com
 api.facebook.com
 arc.msn.com
 cdn.treasuredata.com
@@ -46,7 +45,6 @@ n.connections.brother.com
 onlinecheck.wildtangent.com
 platform.twitter.com
 prodeu-stats.abbi.io
-prov-lg.alphonso.tv
 pubsub.pubnub.com
 radar.cedexis.com
 rai-italia01.wt-eu02.net
