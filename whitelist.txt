@@ -209,3 +209,6 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||lgwebostv.com^
 @@||it.lgeapi.com^
+@@||omtrdc.net^
+@@||abbi.io^
+@@||adjust.com^
