@@ -205,3 +205,4 @@ xp.v.aaplimg.com
 @@||salewa.com^
 @@||nexigroup.com^
 @@||fastly-edge.com^
+@@||mandrillapp.com^
