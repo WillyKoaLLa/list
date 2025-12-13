@@ -1,6 +1,4 @@
 # lista pura
-it.app.lgwebostv.com
-it.nextlgsdp.com
 a.tellonym.me
 acr-config.aistrm.net
 activity.windows.com
@@ -212,3 +210,5 @@ xp.v.aaplimg.com
 @@||omtrdc.net^
 @@||abbi.io^
 @@||adjust.com^
+@@||nextlgsdp.com^
+@@||lgwebostv.com^
