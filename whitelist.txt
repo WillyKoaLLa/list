@@ -212,3 +212,6 @@ xp.v.aaplimg.com
 @@||adjust.com^
 @@||nextlgsdp.com^
 @@||lgwebostv.com^
+@@||rai.it^
+@@||raiplay.it^
+@@||smartclip.net^
