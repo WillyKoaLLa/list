@@ -73,6 +73,7 @@ vast.doubleverify.com
 web.facebook.com
 widget.trustpilot.com
 xp.v.aaplimg.com
+payments-graph.facebook.com
 
 #lista domini
 @@||ad-score.com^
@@ -218,3 +219,5 @@ xp.v.aaplimg.com
 @@||smartclip.net^
 @@||vittoriaassicurazioni.com^
 @@||msvdn.net^
+@@||forms.gle^
+@@||splunkcloud.com^
