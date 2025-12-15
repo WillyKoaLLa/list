@@ -175,6 +175,7 @@ xp.v.aaplimg.com
 @@||nextlgsdp.com^
 @@||noip.com^
 @@||oikaidi.it^
+@@||oikaidi.com^
 @@||omtrdc.net^
 @@||oraclecloudapps.com^
 @@||ortovox.com^
