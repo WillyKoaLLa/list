@@ -74,6 +74,7 @@ web.facebook.com
 widget.trustpilot.com
 xp.v.aaplimg.com
 exchange.mediavine.com
+api-iam.intercom.io
 
 #lista domini
 @@||abbi.io^
