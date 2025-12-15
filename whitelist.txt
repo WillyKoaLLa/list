@@ -245,3 +245,4 @@ exchange.mediavine.com
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
 @@||kobo.com^
+@@||pihole.net^
