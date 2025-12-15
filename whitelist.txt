@@ -239,3 +239,6 @@ xp.v.aaplimg.com
 @@||zoom.us^
 @@||media.idkids.fr^
 @@||cdm.tangoo.it^
+@@||ctriteo.com^
+@@||imagino.com^
+@@||cdn.tagcommander.com^
