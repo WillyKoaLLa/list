@@ -109,7 +109,10 @@ xp.v.aaplimg.com
 @@||cloudflare.com^
 @@||cloudflare.net^
 @@||country.is^
+@@||dam-braodcast.com^
 @@||data.microsoft.com^
+@@||deepl.com^
+@@||dial-once.com^
 @@||direct.quickconnect.to^
 @@||disqus.com^
 @@||dns.google^
@@ -153,6 +156,7 @@ xp.v.aaplimg.com
 @@||lgwebostv.com^
 @@||lgwebostv.com^
 @@||licdn.com^
+@@||local^
 @@||lucake.it^
 @@||macrumors.com^
 @@||mainadv.com^
@@ -161,6 +165,7 @@ xp.v.aaplimg.com
 @@||massgrave.dev^
 @@||meethue.com^
 @@||mef.gov.it^
+@@||meida.idkids.fr^
 @@||miele.com^
 @@||msvdn.net^
 @@||musvc2.net^
@@ -169,6 +174,7 @@ xp.v.aaplimg.com
 @@||nexigroup.com^
 @@||nextlgsdp.com^
 @@||noip.com^
+@@||oikaidi.it^
 @@||omtrdc.net^
 @@||oraclecloudapps.com^
 @@||ortovox.com^
@@ -177,6 +183,7 @@ xp.v.aaplimg.com
 @@||panocloud.webcam^
 @@||pastebin.com^
 @@||payback.it^
+@@||prenatal.com^
 @@||prodregistryv2.org^
 @@||pushio.com^
 @@||pvehs.com^
@@ -221,6 +228,3 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||youtube.com^
 @@||zoom.us^
-@@||deepl.com^
-@@||prenatal.com^
-@@||local^
