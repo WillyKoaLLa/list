@@ -222,3 +222,5 @@ xp.v.aaplimg.com
 @@||youtube.com^
 @@||zoom.us^
 @@||deepl.com^
+@@||prenatal.com^
+@@||local^
