@@ -237,3 +237,5 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||youtube.com^
 @@||zoom.us^
+@@||media.idkids.fr^
+@@||cdm.tangoo.it^
