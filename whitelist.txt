@@ -229,3 +229,4 @@ xp.v.aaplimg.com
 @@||youtube.com^
 @@||zoom.us^
 @@||connectif.cloud^
+@@||appcenter.ms^
