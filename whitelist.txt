@@ -244,3 +244,4 @@ exchange.mediavine.com
 @@||imagino.com^
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
+@@||kobo.com^
