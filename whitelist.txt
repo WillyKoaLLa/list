@@ -243,4 +243,4 @@ exchange.mediavine.com
 @@||criteo.com^
 @@||imagino.com^
 @@||cdn.tagcommander.com^
-@@||cdn.tagoo.it^
+@@||cdn.tangoo.it^
