@@ -246,3 +246,4 @@ exchange.mediavine.com
 @@||cdn.tangoo.it^
 @@||kobo.com^
 @@||mediaset.it^
+@@||primevideo.com^
