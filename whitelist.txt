@@ -228,3 +228,4 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||youtube.com^
 @@||zoom.us^
+@@||connectif.cloud^
