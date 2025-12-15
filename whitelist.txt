@@ -88,6 +88,7 @@ xp.v.aaplimg.com
 @@||api.onesignal.com^
 @@||app-analytics-services.com^
 @@||app-measurement.com^
+@@||appcenter.ms^
 @@||apple-dns.net^
 @@||apple.com^
 @@||appsflyersdk.com^
@@ -96,10 +97,12 @@ xp.v.aaplimg.com
 @@||avast.com^
 @@||azionecontrolafame.it^
 @@||bancaifis.it^
+@@||batch.com^
 @@||blackvoid.club^
 @@||bnl.it^
 @@||brave.com^
 @@||brave.eu^
+@@||brt.it^
 @@||brxcdn.com^
 @@||cdn-apple.com^
 @@||clarity.ms^
@@ -108,8 +111,10 @@ xp.v.aaplimg.com
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflare.net^
+@@||connectif.cloud^
 @@||country.is^
 @@||dam-braodcast.com^
+@@||dam-broadcast.com
 @@||data.microsoft.com^
 @@||deepl.com^
 @@||dial-once.com^
@@ -145,6 +150,7 @@ xp.v.aaplimg.com
 @@||imbmsubscriptions.com^
 @@||imgur.com^
 @@||intel.com^
+@@||ip-api.com^
 @@||isybank.com^
 @@||it-wms.com^
 @@||it.lgeapi.com^
@@ -174,8 +180,8 @@ xp.v.aaplimg.com
 @@||nexigroup.com^
 @@||nextlgsdp.com^
 @@||noip.com^
-@@||okaidi.it^
 @@||okaidi.com^
+@@||okaidi.it^
 @@||omtrdc.net^
 @@||oraclecloudapps.com^
 @@||ortovox.com^
@@ -184,6 +190,7 @@ xp.v.aaplimg.com
 @@||panocloud.webcam^
 @@||pastebin.com^
 @@||payback.it^
+@@||paypal.com^
 @@||prenatal.com^
 @@||prodregistryv2.org^
 @@||pushio.com^
@@ -217,6 +224,7 @@ xp.v.aaplimg.com
 @@||ui.com^
 @@||unhcr.it^
 @@||unipolmove.it^
+@@||userly.net^
 @@||visualstudio.com^
 @@||vittoriaassicurazioni.com^
 @@||vodafone.it^
@@ -229,9 +237,3 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||youtube.com^
 @@||zoom.us^
-@@||connectif.cloud^
-@@||appcenter.ms^
-@@||dam-broadcast.com
-@@||brt.it^
-@@||userly.net^
-@@||batch.com
