@@ -73,8 +73,6 @@ vast.doubleverify.com
 web.facebook.com
 widget.trustpilot.com
 xp.v.aaplimg.com
-via.batch.com
-
 
 #lista domini
 @@||abbi.io^
@@ -235,3 +233,5 @@ via.batch.com
 @@||appcenter.ms^
 @@||dam-broadcast.com
 @@||brt.it^
+@@||userly.net^
+@@||batch.com
