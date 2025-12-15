@@ -248,3 +248,4 @@ exchange.mediavine.com
 @@||mediaset.it^
 @@||primevideo.com^
 @@||ae.nflximg.net^
+@@||pndsn.com^
