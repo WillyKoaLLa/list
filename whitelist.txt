@@ -73,6 +73,7 @@ vast.doubleverify.com
 web.facebook.com
 widget.trustpilot.com
 xp.v.aaplimg.com
+exchange.mediavine.com
 
 #lista domini
 @@||abbi.io^
