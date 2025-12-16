@@ -259,3 +259,4 @@ detectportal.firefox.com
 @@||dolomitienergia.it^
 @@||officeapps.live.com^
 @@||glauco.it^
+@@||fattoincasadabenedetta.it^
