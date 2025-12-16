@@ -258,3 +258,4 @@ detectportal.firefox.com
 @@||netatmo.net^
 @@||dolomitienergia.it^
 @@||officeapps.live.com^
+@@||glauco.it^
