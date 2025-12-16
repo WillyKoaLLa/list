@@ -262,3 +262,13 @@ media.inx-cdn.de
 @@||glauco.it^
 @@||fattoincasadabenedetta.it^
 @@||askubuntu.com^
+@@||vextm.dwabtech.com^
+@@||satnogs.org^
+@@||adsb.im^
+@@||moodlebox.net^
+@@||recalbox.com^
+@@||picoreplayer.org^
+@@||moodeaudio.org^
+@@||riscosopen.org^
+@@||apertis.org^
+@@||emteria.com^
