@@ -256,4 +256,4 @@ detectportal.firefox.com
 @@||netatmo.com^
 @@||unpkg.com^
 @@||netatmo.net^
-@@||^
+@@||dolomitienergia.it^
