@@ -274,3 +274,5 @@ media.inx-cdn.de
 @@||emteria.com^
 @@||huqindustries.co.uk^
 @@||rptl.io^
+@@||veneziatoday.it^
+@@||smartscreen.microsoft.com^
