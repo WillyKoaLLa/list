@@ -283,3 +283,6 @@ image.s4.exct.net
 @@||smartscreen.microsoft.com^
 @@||raspbian.org^
 @@||raspberrypi.com^
+@@||rockstargames.com^
+@@||cloudfront.net^
+@@||steampowered.com^
