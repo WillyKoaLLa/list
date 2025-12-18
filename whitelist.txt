@@ -81,6 +81,7 @@ media.inx-cdn.de
 app-rsrc.getbee.io
 go.eu.sparkpostmail1.com
 library.eu.iterable.com
+emailsignature.trustpilot.com
 
 #lista domini
 @@||abbi.io^
