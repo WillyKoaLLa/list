@@ -78,6 +78,9 @@ api-iam.intercom.io
 push.services.mozilla.com
 detectportal.firefox.com
 media.inx-cdn.de
+app-rsrc.getbee.io
+go.eu.sparkpostmail1.com
+library.eu.iterable.com
 
 #lista domini
 @@||abbi.io^
