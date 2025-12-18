@@ -2,7 +2,6 @@
 a.tellonym.me
 acr-config.aistrm.net
 activity.windows.com
-api-iam.intercom.io
 api.facebook.com
 app-rsrc.getbee.io
 arc.msn.com
@@ -287,3 +286,5 @@ xp.v.aaplimg.com
 @@||xtracloud.net^
 @@||youtube.com^
 @@||zoom.us^
+@@||waveshare.net^
+@@||intercom.io^
