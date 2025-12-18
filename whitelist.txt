@@ -82,6 +82,7 @@ app-rsrc.getbee.io
 go.eu.sparkpostmail1.com
 library.eu.iterable.com
 emailsignature.trustpilot.com
+image.s4.exct.net
 
 #lista domini
 @@||abbi.io^
