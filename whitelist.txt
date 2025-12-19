@@ -308,3 +308,7 @@ assets.evolutionadv.it
 @@||techlab-cdn.com^
 @@||consentmanager.net^
 @@||fonts.bunny.net^
+@@||cdn.shopifycdn.net^
+@@||cdn.zigpoll.com^
+@@||api.bixgrow.com^
+@@||cdn-cookieyes.com^
