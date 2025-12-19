@@ -314,3 +314,5 @@ assets.evolutionadv.it
 @@||cdn-cookieyes.com^
 @@||hmxmedia.com^
 @@||kmsmep.com^
+@@||dell.com^
+@@||dell.it^
