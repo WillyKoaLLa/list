@@ -312,3 +312,5 @@ assets.evolutionadv.it
 @@||zigpoll.com^
 @@||bixgrow.com^
 @@||cdn-cookieyes.com^
+@@||hmxmedia.com^
+@@||kmsmep.com^
