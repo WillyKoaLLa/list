@@ -81,7 +81,14 @@ unified.adsafeprotected.com
 vast.doubleverify.com
 web.facebook.com
 widget.trustpilot.com
-xp.v.aaplimg.com
+static.prenatal-services.com
+gateway-outlook.bingviz.com
+browser-intake-datadoghq.eu
+featureassets.org
+collector.clue.run
+eu.app.unleash-hosted.com
+booking.lintahotelwellness.it
+assets.evolutionadv.it
 
 #lista domini
 @@||abbi.io^
@@ -289,3 +296,15 @@ xp.v.aaplimg.com
 @@||waveshare.net^
 @@||intercom.io^
 @@||teatrolascala.org^
+@@||aaplimg.com^
+@@||devices.a2z.com^
+@@||dp-gw-na.amazon.com^
+@@||wpad.work^
+@@||m365cdn.nel.measure.office.net^
+@@||cdngslb.com^
+@@||emarsys.net^
+@@||amp-endpoint2.com^
+@@||amp-endpoint3.com^
+@@||techlab-cdn.com^
+@@||consentmanager.net^
+@@||fonts.bunny.net^
