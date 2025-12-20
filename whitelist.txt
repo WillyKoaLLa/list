@@ -89,6 +89,7 @@ collector.clue.run
 eu.app.unleash-hosted.com
 booking.lintahotelwellness.it
 assets.evolutionadv.it
+browser-intake-us5-datadoghq.com
 
 #lista domini
 @@||abbi.io^
@@ -321,6 +322,5 @@ assets.evolutionadv.it
 @@||overpass-turbo.eu^
 @@||mmechocaptiveportal.com^
 @@||altervista.org^
-@@||datadoghq.com^
 @@||t.me^
 @@||manual.plus^
