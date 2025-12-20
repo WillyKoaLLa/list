@@ -323,3 +323,4 @@ assets.evolutionadv.it
 @@||altervista.org^
 @@||datadoghq.com^
 @@||t.me^
+@@||manual.plus^
