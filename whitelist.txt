@@ -321,3 +321,5 @@ assets.evolutionadv.it
 @@||overpass-turbo.eu^
 @@||mmechocaptiveportal.com^
 @@||altervista.org^
+@@||datadoghq.com^
+@@||t.me^
