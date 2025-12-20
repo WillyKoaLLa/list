@@ -323,4 +323,4 @@ browser-intake-us5-datadoghq.com
 @@||mmechocaptiveportal.com^
 @@||altervista.org^
 @@||t.me^
-@@||manual.plus^
+@@||manuals.plus^
