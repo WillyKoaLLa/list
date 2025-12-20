@@ -316,3 +316,8 @@ assets.evolutionadv.it
 @@||kmsmep.com^
 @@||dell.com^
 @@||dell.it^
+@@||amazon-dss.com^
+@@||nsertirol24.com^
+@@||overpass-turbo.eu^
+@@||mmechocaptiveportal.com^
+@@||altervista.org^
