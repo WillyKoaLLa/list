@@ -95,6 +95,7 @@ retcode.alicdn.com
 yonder.rockysandstudio.com
 dafne.sirio.stbm.it
 www.canva.com
+canva.com
 cl.canva.com
 afs.ampaeservices.com
 
