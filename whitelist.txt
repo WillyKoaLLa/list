@@ -325,3 +325,4 @@ browser-intake-us5-datadoghq.com
 @@||t.me^
 @@||manuals.plus^
 @@||muzi.works^
+@@||heltec.org^
