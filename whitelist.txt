@@ -90,6 +90,9 @@ eu.app.unleash-hosted.com
 booking.lintahotelwellness.it
 assets.evolutionadv.it
 browser-intake-us5-datadoghq.com
+aax-eu-zaz.amazon.it
+retcode.alicdn.com
+yonder.rockysandstudio.com
 
 #lista domini
 @@||abbi.io^
