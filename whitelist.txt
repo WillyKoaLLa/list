@@ -94,7 +94,7 @@ aax-eu-zaz.amazon.it
 retcode.alicdn.com
 yonder.rockysandstudio.com
 dafne.sirio.stbm.it
-canva.com
+www.canva.com
 cl.canva.com
 afs.ampaeservices.com
 
