@@ -98,6 +98,10 @@ www.canva.com
 canva.com
 cl.canva.com
 afs.ampaeservices.com
+fos5echocaptiveportal.com
+ipinfo.io
+pxl.matycube.net
+static-cdn.trackier.com
 
 #lista domini
 @@||abbi.io^
@@ -337,3 +341,5 @@ afs.ampaeservices.com
 @@||9to5mac.com^
 @@||musvc1.net^
 @@||zohopublic.com^
+@@||kastellatz.it^
+@@||crsend.com^
