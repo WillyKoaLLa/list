@@ -358,3 +358,4 @@ yonder.rockysandstudio.com
 @@||clvaw-cdnwnd.com^
 @@||gvt2.com^
 @@||sentry-cdn.com^
+@@||oaistatic.com^
