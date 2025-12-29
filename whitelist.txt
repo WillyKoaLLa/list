@@ -357,3 +357,4 @@ yonder.rockysandstudio.com
 @@||webnode-com^
 @@||clvaw-cdnwnd.com^
 @@||gvt2.com^
+@@||sentry-cdn.com^
