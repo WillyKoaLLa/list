@@ -359,3 +359,5 @@ yonder.rockysandstudio.com
 @@||gvt2.com^
 @@||sentry-cdn.com^
 @@||oaistatic.com^
+@@||immobiliare.it^
+@@||idealista.it^
