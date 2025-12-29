@@ -361,3 +361,4 @@ yonder.rockysandstudio.com
 @@||oaistatic.com^
 @@||immobiliare.it^
 @@||idealista.it^
+@@||googlevideo.com^
