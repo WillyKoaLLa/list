@@ -102,6 +102,7 @@ web.facebook.com
 widget.trustpilot.com
 www.canva.com
 yonder.rockysandstudio.com
+unagi-eu.amazon.com
 
 #lista domini
 @@||9to5mac.com^
@@ -362,3 +363,11 @@ yonder.rockysandstudio.com
 @@||immobiliare.it^
 @@||idealista.it^
 @@||googlevideo.com^
+@@||easypodcast.it^
+@@||koordinates.com^
+@@||measure.office.com^
+@@||avira.com^
+@@||amazon.dev^
+@@||pagopa.it^
+
+
