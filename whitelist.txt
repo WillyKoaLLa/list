@@ -95,6 +95,7 @@ tms.hextom.com
 token.safebrowsing.apple
 trackingimg.narvar.com
 twitter.com
+unagi-eu.amazon.com
 unagi.amazon.it
 unified.adsafeprotected.com
 vast.doubleverify.com
@@ -102,7 +103,6 @@ web.facebook.com
 widget.trustpilot.com
 www.canva.com
 yonder.rockysandstudio.com
-unagi-eu.amazon.com
 
 #lista domini
 @@||9to5mac.com^
@@ -123,6 +123,7 @@ unagi-eu.amazon.com
 @@||alisupermercati.it^
 @@||altervista.org^
 @@||amazon-dss.com^
+@@||amazon.dev^
 @@||amp-endpoint2.com^
 @@||amp-endpoint3.com^
 @@||apertis.org^
@@ -138,6 +139,7 @@ unagi-eu.amazon.com
 @@||attest.approoval.com^
 @@||attest.approovr.io^
 @@||avast.com^
+@@||avira.com^
 @@||azionecontrolafame.it^
 @@||bancaifis.it^
 @@||batch.com^
@@ -146,6 +148,7 @@ unagi-eu.amazon.com
 @@||bnl.it^
 @@||brave.com^
 @@||brave.eu^
+@@||braze.eu^
 @@||brt.it^
 @@||brxcdn.com^
 @@||cathopedia.org^
@@ -163,6 +166,7 @@ unagi-eu.amazon.com
 @@||cloudflare.com^
 @@||cloudflare.net^
 @@||cloudfront.net^
+@@||clvaw-cdnwnd.com^
 @@||connectif.cloud^
 @@||consentmanager.net^
 @@||country.is^
@@ -184,6 +188,7 @@ unagi-eu.amazon.com
 @@||dp-gw-na.amazon.com^
 @@||duckdns.org^
 @@||e-distribuzione.it^
+@@||easypodcast.it^
 @@||ecoflow.com^
 @@||emarsys.net^
 @@||emteria.com^
@@ -209,7 +214,9 @@ unagi-eu.amazon.com
 @@||google.it^
 @@||googleapis.com^
 @@||googleusercontent.com^
+@@||googlevideo.com^
 @@||gstatic.com^
+@@||gvt2.com^
 @@||hellobank.it^
 @@||helply.com^
 @@||heltec.org^
@@ -217,6 +224,7 @@ unagi-eu.amazon.com
 @@||hsforms.net^
 @@||huqindustries.co.uk^
 @@||icloud.com^
+@@||idealista.it^
 @@||idkids.fr^
 @@||igodigital.com^
 @@||iliad.it^
@@ -224,6 +232,7 @@ unagi-eu.amazon.com
 @@||imagino.com^
 @@||imbmsubscriptions.com^
 @@||imgur.com^
+@@||immobiliare.it^
 @@||intel.com^
 @@||intercom.io^
 @@||ip-api.com^
@@ -237,6 +246,7 @@ unagi-eu.amazon.com
 @@||kmsmep.com^
 @@||knipex.com^
 @@||kobo.com^
+@@||koordinates.com^
 @@||lafeltrinelli.it^
 @@||lav.it^
 @@||lgwebostv.com^
@@ -252,6 +262,7 @@ unagi-eu.amazon.com
 @@||manuals.plus^
 @@||marketingcloudapis.com^
 @@||massgrave.dev^
+@@||measure.office.com^
 @@||mediaset.it^
 @@||meethue.com^
 @@||mef.gov.it^
@@ -272,6 +283,7 @@ unagi-eu.amazon.com
 @@||nextlgsdp.com^
 @@||noip.com^
 @@||nsertirol24.com^
+@@||oaistatic.com^
 @@||officeapps.live.com^
 @@||okaidi.com^
 @@||okaidi.it^
@@ -280,6 +292,7 @@ unagi-eu.amazon.com
 @@||ortovox.com^
 @@||overpass-turbo.eu^
 @@||pago.pa.it^
+@@||pagopa.it^
 @@||pandora.net^
 @@||panocloud.webcam^
 @@||pastebin.com^
@@ -303,12 +316,14 @@ unagi-eu.amazon.com
 @@||redditmedia.com^
 @@||reply.eu^
 @@||reply.it^
+@@||replynet.prv^
 @@||riscosopen.org^
 @@||rockstargames.com^
 @@||rptl.io^
 @@||salewa.com^
 @@||satellitemap.space^
 @@||satnogs.org^
+@@||sentry-cdn.com^
 @@||sentry.io^
 @@||shelly.cloud^
 @@||shelly.com^
@@ -343,8 +358,10 @@ unagi-eu.amazon.com
 @@||vodafone.it^
 @@||waveshare.net^
 @@||waze.com^
+@@||webnode-com^
 @@||whatsapp.com^
 @@||whatsapp.net^
+@@||wikicasa.it^
 @@||wikiliad.it^
 @@||wittytv.it^
 @@||wpad.work^
@@ -354,20 +371,4 @@ unagi-eu.amazon.com
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||replynet.prv^
-@@||webnode-com^
-@@||clvaw-cdnwnd.com^
-@@||gvt2.com^
-@@||sentry-cdn.com^
-@@||oaistatic.com^
-@@||immobiliare.it^
-@@||idealista.it^
-@@||googlevideo.com^
-@@||easypodcast.it^
-@@||koordinates.com^
-@@||measure.office.com^
-@@||avira.com^
-@@||amazon.dev^
-@@||pagopa.it^
-
 
