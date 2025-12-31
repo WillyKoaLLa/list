@@ -104,6 +104,7 @@ web.facebook.com
 widget.trustpilot.com
 www.canva.com
 yonder.rockysandstudio.com
+licensebuttons.net
 
 #lista domini
 @@||9to5mac.com^
