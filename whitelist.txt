@@ -105,6 +105,7 @@ widget.trustpilot.com
 www.canva.com
 yonder.rockysandstudio.com
 licensebuttons.net
+criteo-partners.tremorhub.com
 
 #lista domini
 @@||9to5mac.com^
