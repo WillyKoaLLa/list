@@ -108,6 +108,7 @@ licensebuttons.net
 criteo-partners.tremorhub.com
 c.disquscdn.com
 cl.s50.exct.net
+argo.svcmot.com
 
 #lista domini
 @@||9to5mac.com^
