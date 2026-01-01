@@ -107,6 +107,7 @@ yonder.rockysandstudio.com
 licensebuttons.net
 criteo-partners.tremorhub.com
 c.disquscdn.com
+cl.s50.exct.net
 
 #lista domini
 @@||9to5mac.com^
@@ -380,4 +381,11 @@ c.disquscdn.com
 @@||bbvaexperience.com^
 @@||stmetrics.bbva.it^
 @@||trusteer.com^
+@@||sendibm1.com^
+@@||devvit.net^
+@@||homey.app^
+@@||ui.direct^
+@@||frameset.app^
+@@||get.xometry.eu^
+@@||meshy.ai^
 
