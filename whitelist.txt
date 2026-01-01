@@ -106,6 +106,7 @@ www.canva.com
 yonder.rockysandstudio.com
 licensebuttons.net
 criteo-partners.tremorhub.com
+disquscdn.com
 
 #lista domini
 @@||9to5mac.com^
