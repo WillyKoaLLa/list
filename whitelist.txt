@@ -110,6 +110,8 @@ c.disquscdn.com
 cl.s50.exct.net
 argo.svcmot.com
 r.mailin.fr
+assets.activity.windows.com
+ceement.rssx.hp.com
 
 #lista domini
 @@||9to5mac.com^
@@ -392,4 +394,5 @@ r.mailin.fr
 @@||meshy.ai^
 @@||sendibm1.com^
 @@||sp1-brevo.net^
-
+@@||nvidia.com^
+@@||openfiber.it^
