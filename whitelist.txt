@@ -390,4 +390,5 @@ argo.svcmot.com
 @@||get.xometry.eu^
 @@||meshy.ai^
 @@||sendibm1.com^
+@@||sp1-brevo.net^
 
