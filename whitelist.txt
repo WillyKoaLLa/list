@@ -113,6 +113,7 @@ r.mailin.fr
 assets.activity.windows.com
 ceement.rssx.hp.com
 notify.bugsnag.com
+images.gestionaleimmobiliare.it
 
 #lista domini
 @@||9to5mac.com^
