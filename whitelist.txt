@@ -396,3 +396,6 @@ ceement.rssx.hp.com
 @@||sp1-brevo.net^
 @@||nvidia.com^
 @@||openfiber.it^
+@@||medialabtc.it^
+@@||tecnocasa.com^
+
