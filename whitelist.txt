@@ -112,6 +112,7 @@ argo.svcmot.com
 r.mailin.fr
 assets.activity.windows.com
 ceement.rssx.hp.com
+notify.bugsnag.com
 
 #lista domini
 @@||9to5mac.com^
