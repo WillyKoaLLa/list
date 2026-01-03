@@ -115,6 +115,13 @@ ceement.rssx.hp.com
 notify.bugsnag.com
 images.gestionaleimmobiliare.it
 s.ekbl.net
+rendering-images.inxshare.de
+mirror.gofoss.xyz
+www.sooftware.com
+dp-rsm-prod.amazon.com
+skosm.klarna.com
+fritz-regex-app.k8s.eu.codecreationlabs.cloud
+widget.reviews.io
 
 #lista domini
 @@||9to5mac.com^
@@ -402,4 +409,5 @@ s.ekbl.net
 @@||medialabtc.it^
 @@||tecnocasa.com^
 @@||emmeennedolo.it^
+@@||mail.thespacecinema.it^
 
