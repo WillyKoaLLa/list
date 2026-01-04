@@ -427,3 +427,5 @@ gateway.unityads.unity3d.com
 @@||growthbook.io^
 @@||eu.klarnaevt.com^
 @@||quickconnect.to^
+@@||stncdn.it^
+@@||nmrodam.com^
