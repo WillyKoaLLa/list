@@ -122,6 +122,15 @@ dp-rsm-prod.amazon.com
 skosm.klarna.com
 fritz-regex-app.k8s.eu.codecreationlabs.cloud
 widget.reviews.io
+win10-trt.msedge.net
+b1.nel.goog
+www.telecommandsvc.microsoft.com
+cloud.wpscdn.com
+fd.api.iris.microsoft.com
+ieonlinews.microsoft.com
+cdn.liftoff-creatives.io
+www.googletagservices.com
+gateway.unityads.unity3d.com
 
 #lista domini
 @@||9to5mac.com^
@@ -410,4 +419,6 @@ widget.reviews.io
 @@||tecnocasa.com^
 @@||emmeennedolo.it^
 @@||mail.thespacecinema.it^
+@@||loescher.it^
+@@||previnet.it^
 
