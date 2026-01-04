@@ -422,3 +422,8 @@ gateway.unityads.unity3d.com
 @@||loescher.it^
 @@||previnet.it^
 @@||bsmart.it^
+@@||dialmyapp.com^
+@@||mattinopadova.it^
+@@||growthbook.io^
+@@||eu.klarnaevt.com^
+
