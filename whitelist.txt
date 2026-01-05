@@ -133,6 +133,7 @@ widget.reviews.io
 widget.trustpilot.com
 win10-trt.msedge.net
 yonder.rockysandstudio.com
+device-metrics-us.amazon.com
 
 #lista domini
 @@||9to5mac.com^
@@ -438,4 +439,3 @@ yonder.rockysandstudio.com
 @@||zohopublic.com^
 @@||zoom.us^
 @@||intellijend.com^
-
