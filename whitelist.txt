@@ -57,6 +57,7 @@ gateway.unityads.unity3d.com
 geo.geoproapp.com
 geover.prod.do.dsp.mp.microsoft.com
 go.eu.sparkpostmail1.com
+go.premierfarnell.com
 googletagservices.com
 graph-fallback.facebook.com
 graph-fallback.instagram.com
