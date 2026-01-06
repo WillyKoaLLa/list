@@ -135,6 +135,15 @@ win10-trt.msedge.net
 yonder.rockysandstudio.com
 device-metrics-us.amazon.com
 eic.cdpsvc.lgtvcommon.com
+client.cardinaltrusted.com
+eic-ngfts.lge.com
+api.channelsight.com
+sdk.trackingplan.com
+unagi-na.amazon.com
+api.cooladata.com
+chat.gaiagpt.me
+client.cardinaltrusted.com
+api.channelsight.com
 
 #lista domini
 @@||9to5mac.com^
@@ -399,6 +408,8 @@ eic.cdpsvc.lgtvcommon.com
 @@||stmetrics.bbva.it^
 @@||stncdn.it^
 @@||synology.me^
+@@||amazonaws.com^
+@@||rottentomatoes.com^
 @@||t.me^
 @@||tailscale.com^
 @@||teatrolascala.org^
