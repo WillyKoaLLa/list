@@ -144,6 +144,8 @@ api.cooladata.com
 chat.gaiagpt.me
 client.cardinaltrusted.com
 api.channelsight.com
+fast.nexx360.io
+mio.skiinfo.it
 
 #lista domini
 @@||9to5mac.com^
@@ -451,3 +453,25 @@ api.channelsight.com
 @@||zohopublic.com^
 @@||zoom.us^
 @@||intellijend.com^
+@@||ttcache.com^
+@@||trauerhilfe.it^
+@@||servg1.net^
+@@||ilgazzettino.it^
+@@||stbm.it^
+@@||iolam.it^
+@@||opecloud.com^
+@@||suedtirol.live^
+@@||npttech.com^
+@@||trauerhilfe.it^
+@@||regione.veneto.it^
+@@||e7.i.lencr.org^
+@@||cdn.optimizely.com^
+@@||api.cooladata.com^
+@@||dpm.demdex.net^
+@@||awsul3.api.c0nnectthed0ts.com^
+@@||in.cuebiq.com^
+@@||ct1.cloudfront.crowd-umlaut.com^
+@@||asnapieu.com^
+@@||unieuro.com^
+@@||s.fluxtech.ai^
+@@||gruppohera.it^
