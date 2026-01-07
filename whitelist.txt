@@ -858,3 +858,5 @@ zeustracker.abuse.ch
 @@||tiktokcdn-eu.com^
 @@||tiktokv.eu^
 @@||cdninstagram.com^
+@@||allianzbank.it^
+@@||azimut.it^
