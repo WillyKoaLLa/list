@@ -852,3 +852,9 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
+@@||snapkit.com^
+@@||tiktokv.com^
+@@||tiktokcdn.com^
+@@||tiktokcdn-eu.com^
+@@||tiktokv.eu^
+@@||cdninstagram.com^
