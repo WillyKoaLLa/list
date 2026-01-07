@@ -519,6 +519,7 @@ z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
 api.datlas.it
+tsopensclicks.com
 
 #lista domini
 @@||9to5mac.com^
