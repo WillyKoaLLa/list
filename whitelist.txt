@@ -481,6 +481,8 @@ eic-ngfts.lge.com
 @@||zoom.us^
 @@||chicco.it^
 @@||lgthinq.com^
+@@||edenred.io^
+@@||shortest-route.com^
 
 
 # Existing
