@@ -860,3 +860,4 @@ api.datlas.it
 @@||allianzbank.it^
 @@||azimut.it^
 @@||myazimut.it^
+@@||atlassian.com^
