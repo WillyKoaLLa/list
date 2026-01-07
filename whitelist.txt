@@ -219,6 +219,7 @@ goo.gl
 google-analytics.com
 googleapis.com
 googletagservices.com
+googletagmanager.com
 gopjn.com
 goto-target-com.customtraffic.impactradius.com
 goto.target.com
