@@ -518,8 +518,7 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-
-
+api.datlas.it
 
 #lista domini
 @@||9to5mac.com^
@@ -860,3 +859,4 @@ zeustracker.abuse.ch
 @@||cdninstagram.com^
 @@||allianzbank.it^
 @@||azimut.it^
+@@||myazimut.it^
