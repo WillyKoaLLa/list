@@ -245,6 +245,7 @@ image.s4.exct.net
 images.gestionaleimmobiliare.it
 images.pluto.tv
 imagesak.secureserver.net
+img-cache.net
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
