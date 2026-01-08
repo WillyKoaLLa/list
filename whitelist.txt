@@ -60,7 +60,6 @@ ax.phobos.apple.com.edgesuite.net
 b1.nel.goog
 bfast.com
 bit.ly
-login.notifichedigitali.it
 booking.lintahotelwellness.it
 brightcove.net
 browser-intake-datadoghq.com
@@ -864,3 +863,4 @@ tsopensclicks.com
 @@||myazimut.it^
 @@||atlassian.com^
 @@||px-cloud.net^
+@@||notifichedigitali.it^
