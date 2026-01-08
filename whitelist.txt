@@ -864,3 +864,6 @@ tsopensclicks.com
 @@||atlassian.com^
 @@||px-cloud.net^
 @@||notifichedigitali.it^
+@@||toyota.eu^
+@@||toyota.it^
+@@||toyota.com^
