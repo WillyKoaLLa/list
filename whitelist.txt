@@ -868,3 +868,5 @@ toyotaeuropetoyglobalprod.112.2o7.net
 @@||toyota.eu^
 @@||toyota.it^
 @@||toyota.com^
+@@||aosomcdn.com^
+@@||aosom.it^
