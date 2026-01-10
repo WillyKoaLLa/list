@@ -521,6 +521,7 @@ zeustracker.abuse.ch
 api.datlas.it
 tsopensclicks.com
 toyotaeuropetoyglobalprod.112.2o7.net
+uhf.microsoft.com
 
 #lista domini
 @@||9to5mac.com^
@@ -870,3 +871,4 @@ toyotaeuropetoyglobalprod.112.2o7.net
 @@||toyota.com^
 @@||aosomcdn.com^
 @@||aosom.it^
+@@||live.com^
