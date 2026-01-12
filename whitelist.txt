@@ -524,6 +524,7 @@ toyotaeuropetoyglobalprod.112.2o7.net
 uhf.microsoft.com
 beaconimages.netflix.net
 merlinbirds.org
+www.gruppoveritas.it
 
 #lista domini
 @@||9to5mac.com^
