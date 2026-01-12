@@ -874,5 +874,5 @@ beaconimages.netflix.net
 @@||aosom.it^
 @@||live.com^
 @@||ubnt.com^
-@@|merlinbirds.org^
+@@||merlinbirds.org^
 @@||gruppoveritas.it^
