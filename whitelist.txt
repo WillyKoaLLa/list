@@ -523,6 +523,9 @@ tsopensclicks.com
 toyotaeuropetoyglobalprod.112.2o7.net
 uhf.microsoft.com
 beaconimages.netflix.net
+static-prod.cdnilpost.com
+mr.comingsoon.it
+audio-prod.cdnilpost.com
 
 #lista domini
 @@||9to5mac.com^
