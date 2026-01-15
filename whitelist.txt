@@ -526,6 +526,7 @@ beaconimages.netflix.net
 static-prod.cdnilpost.com
 mr.comingsoon.it
 audio-prod.cdnilpost.com
+cdn.cookielaw.org
 
 #lista domini
 @@||9to5mac.com^
