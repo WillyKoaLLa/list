@@ -887,3 +887,4 @@ alogs.umengcloud.com
 @@||userway.org^
 @@||chumenwenwen.com^
 @@||floorfy.com^
+@@||wifiman.me^
