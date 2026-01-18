@@ -530,6 +530,7 @@ cdn.cookielaw.org
 cs.ns1p.net
 gateway-eu.oneplus.net
 router.oneplus.com
+alogs.umengcloud.com
 
 #lista domini
 @@||9to5mac.com^
