@@ -528,6 +528,8 @@ mr.comingsoon.it
 audio-prod.cdnilpost.com
 cdn.cookielaw.org
 cs.ns1p.net
+gateway-eu.oneplus.net
+router.oneplus.com
 
 #lista domini
 @@||9to5mac.com^
