@@ -25,14 +25,17 @@ afs.ampaeservices.com
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
+alogs.umengcloud.com
 amazonaws.com
 amzn.com
 amzn.to
 anrdoezrs.net
+anydesk.my.salesforce-scrt.com
 api-global.netflix.com
 api.channelsight.com
 api.channelsight.com
 api.cooladata.com
+api.datlas.it
 api.facebook.com
 api.ipify.org
 api.pluto.tv
@@ -54,10 +57,12 @@ assets.adobedtm.com
 assets.evolutionadv.it
 attestation.xboxlive.com
 audio-ake.spotify.com.edgesuite.net
+audio-prod.cdnilpost.com
 authorisation.api.bunnings.com.au
 avantlink.com
 ax.phobos.apple.com.edgesuite.net
 b1.nel.goog
+beaconimages.netflix.net
 bfast.com
 bit.ly
 booking.lintahotelwellness.it
@@ -71,6 +76,7 @@ canva.com
 cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
+cdn.cookielaw.org
 cdn.discordapp.com
 cdn.embedly.com
 cdn.fbsbx.com
@@ -112,6 +118,7 @@ cpms35.spop10.ams.plex.bz
 crashes.owhealth.com
 creative.ak.fbcdn.net
 criteo-partners.tremorhub.com
+cs.ns1p.net
 ctldl.windowsupdate.com
 cws.conviva.com
 d2c8v52ll5s99u.cloudfront.net
@@ -198,6 +205,7 @@ fritz-regex-app.k8s.eu.codecreationlabs.cloud
 g.live.com
 gan.doubleclick.net
 gate.centrico.tech
+gateway-eu.oneplus.net
 gateway-outlook.bingviz.com
 gateway.instagram.com
 gateway.unityads.unity3d.com
@@ -218,8 +226,6 @@ go2jump.org
 goo.gl
 google-analytics.com
 googleapis.com
-www.googletagservices.com
-www.googletagmanager.com
 gopjn.com
 goto-target-com.customtraffic.impactradius.com
 goto.target.com
@@ -292,6 +298,7 @@ mirror.gofoss.xyz
 mobile-ap.spotify.com
 mobile-data.onetrust.io
 mqtt-mini.facebook.com
+mr.comingsoon.it
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 msftncsi.com
 munchkin.marketo.net
@@ -364,6 +371,7 @@ res.cloudinary.com
 res.cloudinary.com
 resources.digital-cloud.medallia.eu
 retcode.alicdn.com
+router.oneplus.com
 s.ekbl.net
 s.gateway.messenger.live.com
 s.marketwatch.com
@@ -408,6 +416,7 @@ ssl.p.jwpcdn.com
 staging.plex.tv
 star.c10r.facebook.com
 static-cdn.trackier.com
+static-prod.cdnilpost.com
 static.cdninstagram.com
 static.licdn.com
 static.prenatal-services.com
@@ -436,15 +445,18 @@ tms.hextom.com
 todo-ta-g7g.amazon.com
 token.safebrowsing.apple
 tour360.getrix.it
+toyotaeuropetoyglobalprod.112.2o7.net
 track.adform.net
 track.webgains.com
 trackingimg.narvar.com
 tradetracker.net
 traffic.libsyn.com
+tsopensclicks.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
 twitter.com
+uhf.microsoft.com
 ui.skype.com
 unagi-eu.amazon.com
 unagi-na.amazon.com
@@ -485,6 +497,8 @@ www.emjcd.com
 www.evyy.net
 www.google-analytics.com
 www.googleapis.com
+www.googletagmanager.com
+www.googletagservices.com
 www.gopjn.com
 www.jdoqocy.com
 www.kqzyfj.com
@@ -518,19 +532,6 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-api.datlas.it
-tsopensclicks.com
-toyotaeuropetoyglobalprod.112.2o7.net
-uhf.microsoft.com
-beaconimages.netflix.net
-static-prod.cdnilpost.com
-mr.comingsoon.it
-audio-prod.cdnilpost.com
-cdn.cookielaw.org
-cs.ns1p.net
-gateway-eu.oneplus.net
-router.oneplus.com
-alogs.umengcloud.com
 
 #lista domini
 @@||9to5mac.com^
@@ -549,12 +550,15 @@ alogs.umengcloud.com
 @@||akamai.net^
 @@||akamaiedge.net^
 @@||alisupermercati.it^
+@@||allianzbank.it^
 @@||altervista.org^
 @@||amazon-dss.com^
 @@||amazon.dev^
 @@||amazonaws.com^
 @@||amp-endpoint2.com^
 @@||amp-endpoint3.com^
+@@||aosom.it^
+@@||aosomcdn.com^
 @@||apertis.org^
 @@||api.cooldata.com^
 @@||api.onesignal.com^
@@ -567,11 +571,13 @@ alogs.umengcloud.com
 @@||asdecemberfalls.store^
 @@||askubuntu.com^
 @@||asnapieu.com^
+@@||atlassian.com^
 @@||attest.approoval.com^
 @@||attest.approovr.io^
 @@||avast.com^
 @@||avira.com^
 @@||awsul3.api.c0nnectthed0ts.com^
+@@||azimut.it^
 @@||azionecontrolafame.it^
 @@||bancaifis.it^
 @@||batch.com^
@@ -594,7 +600,9 @@ alogs.umengcloud.com
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
 @@||cdngslb.com^
+@@||cdninstagram.com^
 @@||chicco.it^
+@@||chumenwenwen.com^
 @@||clarity.ms^
 @@||cleverreach.com^
 @@||clockwork.com^
@@ -647,6 +655,7 @@ alogs.umengcloud.com
 @@||ferrerorocher.com^
 @@||fibra.click^
 @@||fideuram.it^
+@@||floorfy.com^
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
@@ -667,6 +676,7 @@ alogs.umengcloud.com
 @@||googlevideo.com^
 @@||growthbook.io^
 @@||gruppohera.it^
+@@||gruppoveritas.it^
 @@||gstatic.com^
 @@||gvt2.com^
 @@||hellobank.it^
@@ -709,6 +719,7 @@ alogs.umengcloud.com
 @@||lgthinq.com^
 @@||lgwebostv.com^
 @@||licdn.com^
+@@||live.com^
 @@||livestory.io^
 @@||local^
 @@||loescher.it^
@@ -730,6 +741,7 @@ alogs.umengcloud.com
 @@||mef.gov.it^
 @@||mega.nz^
 @@||meida.idkids.fr^
+@@||merlinbirds.org^
 @@||meshy.ai^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
@@ -739,6 +751,7 @@ alogs.umengcloud.com
 @@||musvc1.net^
 @@||musvc2.net^
 @@||muzi.works^
+@@||myazimut.it^
 @@||n26.com^
 @@||netatmo.com^
 @@||netatmo.net^
@@ -747,6 +760,7 @@ alogs.umengcloud.com
 @@||nextlgsdp.com^
 @@||nmrodam.com^
 @@||noip.com^
+@@||notifichedigitali.it^
 @@||npttech.com^
 @@||nsertirol24.com^
 @@||nvidia.com^
@@ -776,6 +790,7 @@ alogs.umengcloud.com
 @@||prodregistryv2.org^
 @@||pushio.com^
 @@||pvehs.com^
+@@||px-cloud.net^
 @@||quickconnect.to^
 @@||rai.it^
 @@||raiplay.it^
@@ -811,6 +826,7 @@ alogs.umengcloud.com
 @@||skype.com^
 @@||smartclip.net^
 @@||smartscreen.microsoft.com^
+@@||snapkit.com^
 @@||sp1-brevo.net^
 @@||splunkcloud.com^
 @@||statics.cedscdn.it^
@@ -827,7 +843,14 @@ alogs.umengcloud.com
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
 @@||thefork.com^
+@@||tiktokcdn-eu.com^
+@@||tiktokcdn.com^
+@@||tiktokv.com^
+@@||tiktokv.eu^
 @@||tiqcdn.com^
+@@||toyota.com^
+@@||toyota.eu^
+@@||toyota.it^
 @@||tozelabs.com^
 @@||trauerhilfe.it^
 @@||trovaprezzi.it^
@@ -835,6 +858,7 @@ alogs.umengcloud.com
 @@||ttcache.com^
 @@||tvtime.com^
 @@||twingate.com^
+@@||ubnt.com^
 @@||ui.com^
 @@||ui.direct^
 @@||unhcr.it^
@@ -842,6 +866,7 @@ alogs.umengcloud.com
 @@||unipolmove.it^
 @@||unpkg.com^
 @@||userly.net^
+@@||userway.org^
 @@||veneziatoday.it^
 @@||vextm.dwabtech.com^
 @@||visualstudio.com^
@@ -852,6 +877,7 @@ alogs.umengcloud.com
 @@||webnode-com^
 @@||whatsapp.com^
 @@||whatsapp.net^
+@@||wifiman.me^
 @@||wikicasa.it^
 @@||wikiliad.it^
 @@||wittytv.it^
@@ -863,28 +889,3 @@ alogs.umengcloud.com
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||snapkit.com^
-@@||tiktokv.com^
-@@||tiktokcdn.com^
-@@||tiktokcdn-eu.com^
-@@||tiktokv.eu^
-@@||cdninstagram.com^
-@@||allianzbank.it^
-@@||azimut.it^
-@@||myazimut.it^
-@@||atlassian.com^
-@@||px-cloud.net^
-@@||notifichedigitali.it^
-@@||toyota.eu^
-@@||toyota.it^
-@@||toyota.com^
-@@||aosomcdn.com^
-@@||aosom.it^
-@@||live.com^
-@@||ubnt.com^
-@@||merlinbirds.org^
-@@||gruppoveritas.it^
-@@||userway.org^
-@@||chumenwenwen.com^
-@@||floorfy.com^
-@@||wifiman.me^
