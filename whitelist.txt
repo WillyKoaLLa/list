@@ -891,3 +891,4 @@ zeustracker.abuse.ch
 @@||zohopublic.com^
 @@||zoom.us^
 @@||italitreno.it^
+@@||istatmenus.app^
