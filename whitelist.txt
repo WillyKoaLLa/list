@@ -647,6 +647,7 @@ zeustracker.abuse.ch
 @@||emteria.com^
 @@||eu.klarnaevt.com^
 @@||exct.net^
+@@||fabbri1905.com^
 @@||farnell.com^
 @@||fastly-edge.com^
 @@||fastweb.it^
