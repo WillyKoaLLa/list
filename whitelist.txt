@@ -892,3 +892,4 @@ zeustracker.abuse.ch
 @@||zoom.us^
 @@||italitreno.it^
 @@||istatmenus.app^
+@@||genu.us^
