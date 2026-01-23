@@ -458,10 +458,6 @@ twimg.com
 twitter.com
 uhf.microsoft.com
 ui.skype.com
-unagi-eu.amazon.com
-unagi-na.amazon.com
-unagi-na.amazon.com
-unagi.amazon.it
 unified.adsafeprotected.com
 upgrade.scdn.com
 us-east-1.amazonaws.com
@@ -553,7 +549,6 @@ zeustracker.abuse.ch
 @@||allianzbank.it^
 @@||altervista.org^
 @@||amazon-dss.com^
-@@||amazon.dev^
 @@||amazonaws.com^
 @@||amp-endpoint2.com^
 @@||amp-endpoint3.com^
