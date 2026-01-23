@@ -898,3 +898,4 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
+@@||yuka.io^
