@@ -663,6 +663,7 @@ zeustracker.abuse.ch
 @@||frameset.app^
 @@||freedome.it^
 @@||g.bing.com^
+@@||genu.us^
 @@||get.xometry.eu^
 @@||gfe.nvidia.com^
 @@||giallozafferano.it^
@@ -683,6 +684,7 @@ zeustracker.abuse.ch
 @@||hellobank.it^
 @@||helply.com^
 @@||heltec.org^
+@@||here.com^
 @@||hmxmedia.com^
 @@||homey.app^
 @@||hsforms.net^
@@ -704,9 +706,11 @@ zeustracker.abuse.ch
 @@||intercom.io^
 @@||iolam.it^
 @@||ip-api.com^
+@@||istatmenus.app^
 @@||isybank.com^
 @@||it-wms.com^
 @@||it.lgeapi.com^
+@@||italitreno.it^
 @@||iubenda.com^
 @@||izatcloud.net^
 @@||kaltura.com^
@@ -757,6 +761,7 @@ zeustracker.abuse.ch
 @@||netatmo.com^
 @@||netatmo.net^
 @@||netflix.com^
+@@||newoaks.ai^
 @@||nexigroup.com^
 @@||nextlgsdp.com^
 @@||nmrodam.com^
@@ -828,6 +833,7 @@ zeustracker.abuse.ch
 @@||smartclip.net^
 @@||smartscreen.microsoft.com^
 @@||snapkit.com^
+@@||sorgenia.it^
 @@||sp1-brevo.net^
 @@||splunkcloud.com^
 @@||statics.cedscdn.it^
@@ -849,6 +855,7 @@ zeustracker.abuse.ch
 @@||tiktokv.com^
 @@||tiktokv.eu^
 @@||tiqcdn.com^
+@@||toptechnews.de^
 @@||toyota.com^
 @@||toyota.eu^
 @@||toyota.it^
@@ -870,6 +877,7 @@ zeustracker.abuse.ch
 @@||userway.org^
 @@||veneziatoday.it^
 @@||vextm.dwabtech.com^
+@@||villaregia.org^
 @@||visualstudio.com^
 @@||vittoriaassicurazioni.com^
 @@||vodafone.it^
@@ -890,6 +898,3 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||italitreno.it^
-@@||istatmenus.app^
-@@||genu.us^
