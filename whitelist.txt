@@ -896,3 +896,4 @@ qcf.stripocdnplugin.email
 @@||zoom.us^
 @@||yuka.io^
 @@||zepp.com^
+@@||ve.it^
