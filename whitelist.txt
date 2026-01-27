@@ -394,7 +394,6 @@ secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
 self.events.data.microsoft.com
-sentry.io
 services.sonarr.tv
 sessions.bugsnag.com
 shareaholic.com
@@ -530,6 +529,7 @@ zee.cws.conviva.com
 zeustracker.abuse.ch
 qcf.stripocdnplugin.email
 qrto.org
+prod.rewardsplatform.microsoft.com
 
 #lista domini
 @@||9to5mac.com^
