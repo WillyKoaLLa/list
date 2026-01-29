@@ -532,6 +532,7 @@ qrto.org
 prod.rewardsplatform.microsoft.com
 contentz.mkt9489.com
 static.contactlab.it
+link.jack-wolfskin.com
 
 #lista domini
 @@||9to5mac.com^
