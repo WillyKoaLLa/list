@@ -531,6 +531,7 @@ qcf.stripocdnplugin.email
 qrto.org
 prod.rewardsplatform.microsoft.com
 contentz.mkt9489.com
+static.contactlab.it
 
 #lista domini
 @@||9to5mac.com^
