@@ -112,6 +112,7 @@ connectivity-test.static.microsoft
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 connectivitycheck.gstatic.com
+contentz.mkt9489.com
 continuum.dds.microsoft.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -273,6 +274,7 @@ library.eu.iterable.com
 licensebuttons.net
 licensing.xboxlive.com
 lightstep.kaizen.nvidia.com
+link.jack-wolfskin.com
 linksynergy.com
 live.com
 livepassdl.conviva.com
@@ -346,6 +348,7 @@ pntra.com
 pntrac.com
 pntrack.com
 pricelist.skype.com
+prod.rewardsplatform.microsoft.com
 prodeu-stats.abbi.io
 products.office.com
 proxy.plex.bz
@@ -356,7 +359,9 @@ pubsub.plex.tv
 pubsub.pubnub.com
 push.services.mozilla.com
 pxl.matycube.net
+qcf.stripocdnplugin.email
 qksrv.net
+qrto.org
 r.mailin.fr
 radar.cedexis.com
 rai-italia01.wt-eu02.net
@@ -417,6 +422,7 @@ star.c10r.facebook.com
 static-cdn.trackier.com
 static-prod.cdnilpost.com
 static.cdninstagram.com
+static.contactlab.it
 static.licdn.com
 static.prenatal-services.com
 stats.streamelements.com
@@ -527,12 +533,6 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-qcf.stripocdnplugin.email
-qrto.org
-prod.rewardsplatform.microsoft.com
-contentz.mkt9489.com
-static.contactlab.it
-link.jack-wolfskin.com
 
 #lista domini
 @@||9to5mac.com^
@@ -747,6 +747,7 @@ link.jack-wolfskin.com
 @@||mega.nz^
 @@||meida.idkids.fr^
 @@||merlinbirds.org^
+@@||meshcore.dev^
 @@||meshy.ai^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
@@ -875,6 +876,7 @@ link.jack-wolfskin.com
 @@||unpkg.com^
 @@||userly.net^
 @@||userway.org^
+@@||ve.it^
 @@||veneziatoday.it^
 @@||vextm.dwabtech.com^
 @@||villaregia.org^
@@ -895,9 +897,8 @@ link.jack-wolfskin.com
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
+@@||yuka.io^
+@@||zepp.com^
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||yuka.io^
-@@||zepp.com^
-@@||ve.it^
