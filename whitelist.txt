@@ -536,6 +536,7 @@ zeustracker.abuse.ch
 assisiofm.img.musvc6.net
 assisiofm.musvc6.net
 assisiofm.img.musvc6.net
+notifications.allterco.com
 
 #lista domini
 @@||9to5mac.com^
