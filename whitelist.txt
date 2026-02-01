@@ -41,6 +41,7 @@ api.ipify.org
 api.pluto.tv
 api.rlje.net
 apmebf.com
+favs.oneweb.ingka.com
 app-api.ted.com
 app-rsrc.getbee.io
 appboot.netflix.com
