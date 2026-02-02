@@ -41,7 +41,6 @@ api.ipify.org
 api.pluto.tv
 api.rlje.net
 apmebf.com
-favs.oneweb.ingka.com
 app-api.ted.com
 app-rsrc.getbee.io
 appboot.netflix.com
@@ -56,6 +55,9 @@ aspnetcdn.com
 assets.activity.windows.com
 assets.adobedtm.com
 assets.evolutionadv.it
+assisiofm.img.musvc6.net
+assisiofm.img.musvc6.net
+assisiofm.musvc6.net
 attestation.xboxlive.com
 audio-ake.spotify.com.edgesuite.net
 audio-prod.cdnilpost.com
@@ -192,6 +194,7 @@ f1.media.brightcove.com
 facebook.com
 facebook.net
 fast.nexx360.io
+favs.oneweb.ingka.com
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fd.api.iris.microsoft.com
@@ -311,6 +314,7 @@ nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 no-ip.com
 node.plexapp.com
+notifications.allterco.com
 notify.bugsnag.com
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
@@ -534,10 +538,6 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-assisiofm.img.musvc6.net
-assisiofm.musvc6.net
-assisiofm.img.musvc6.net
-notifications.allterco.com
 
 #lista domini
 @@||9to5mac.com^
@@ -606,6 +606,7 @@ notifications.allterco.com
 @@||cdn.tangoo.it^
 @@||cdngslb.com^
 @@||cdninstagram.com^
+@@||cedacrigroup.it^
 @@||chicco.it^
 @@||chumenwenwen.com^
 @@||clarity.ms^
