@@ -539,6 +539,8 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
+teams.microsoft.com
+c.pki.goog
 
 #lista domini
 @@||9to5mac.com^
@@ -909,3 +911,4 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
+@@||fondometasalute.it^
