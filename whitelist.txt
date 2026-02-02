@@ -23,6 +23,7 @@ ae01.alicdn.com
 affiliatefuture.com
 afs.ampaeservices.com
 akamaihd.net
+ipm.avcdn.net
 akamaitechnologies.com
 akamaized.net
 alogs.umengcloud.com
