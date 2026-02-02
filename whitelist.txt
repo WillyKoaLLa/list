@@ -541,6 +541,7 @@ zee.cws.conviva.com
 zeustracker.abuse.ch
 teams.microsoft.com
 c.pki.goog
+jo.my
 
 #lista domini
 @@||9to5mac.com^
