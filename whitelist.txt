@@ -720,7 +720,7 @@ jo.my
 @@||isybank.com^
 @@||it-wms.com^
 @@||it.lgeapi.com^
-@@||italitreno.it^
+@@||italotreno.it^
 @@||iubenda.com^
 @@||izatcloud.net^
 @@||kaltura.com^
