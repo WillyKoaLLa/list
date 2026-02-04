@@ -542,6 +542,7 @@ zeustracker.abuse.ch
 teams.microsoft.com
 c.pki.goog
 jo.my
+webexapis.com
 
 #lista domini
 @@||9to5mac.com^
