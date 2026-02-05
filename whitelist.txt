@@ -543,6 +543,8 @@ teams.microsoft.com
 c.pki.goog
 jo.my
 webexapis.com
+aepxlg.adobe.com
+ab.chatgpt.com
 
 #lista domini
 @@||9to5mac.com^
@@ -915,3 +917,6 @@ webexapis.com
 @@||zoom.us^
 @@||fondometasalute.it^
 @@||previmedical.it^
+@@||meteotrentino.it^
+@@||motorionline.com^
+@@||measure.office.net^
