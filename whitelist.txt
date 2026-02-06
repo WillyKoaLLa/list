@@ -35,6 +35,7 @@ anydesk.my.salesforce-scrt.com
 api-global.netflix.com
 api.channelsight.com
 api.channelsight.com
+www.emailimagecdn4htg.com
 api.cooladata.com
 api.datlas.it
 api.facebook.com
