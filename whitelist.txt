@@ -549,6 +549,10 @@ jo.my
 webexapis.com
 aepxlg.adobe.com
 ab.chatgpt.com
+chat.supportbox.cz
+scripts.luigisbox.tech
+cdn.foxentry.cz
+im9.cz
 
 #lista domini
 @@||9to5mac.com^
