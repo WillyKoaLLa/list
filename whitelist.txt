@@ -550,11 +550,7 @@ webexapis.com
 aepxlg.adobe.com
 ab.chatgpt.com
 chat.supportbox.cz
-scripts.luigisbox.tech
-cdn.foxentry.cz
 im9.cz
-api.foxentry.cz
-cdn.luigisbox.tech
 
 #lista domini
 @@||9to5mac.com^
@@ -933,3 +929,5 @@ cdn.luigisbox.tech
 @@||manga10.com^
 @@||asus.com^
 @@||rpishop.cz^
+@@||luigisbox.tech^
+@@||foxentry.cz^
