@@ -926,3 +926,4 @@ ab.chatgpt.com
 @@||measure.office.net^
 @@||manga10.com^
 @@||asus.com^
+@@||rpishop.cz^
