@@ -553,6 +553,8 @@ chat.supportbox.cz
 scripts.luigisbox.tech
 cdn.foxentry.cz
 im9.cz
+api.foxentry.cz
+cdn.luigisbox.tech
 
 #lista domini
 @@||9to5mac.com^
