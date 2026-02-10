@@ -12,6 +12,7 @@
 agestanet.risorseimmobiliari.it
 7eer.net
 a.tellonym.me
+beacon.shazam.com
 aax-eu-zaz.amazon.it
 acdn.adnxs.com
 acr-config.aistrm.net
@@ -504,6 +505,13 @@ www.cj.com
 www.dataplicity.com
 www.doubleclick.net
 www.dpbolvw.net
+enterprise-eudb.activity.windows.com
+www.windowsblogitalia.com
+services.meteored.com
+www.informarea.it
+www.adnkronos.com
+events.mapbox.com
+rabbit-labs.com
 www.emjcd.com
 www.evyy.net
 www.google-analytics.com
@@ -931,3 +939,5 @@ im9.cz
 @@||rpishop.cz^
 @@||luigisbox.tech^
 @@||foxentry.cz^
+@@||anydesk.com^
+@@||lambda.ai^
