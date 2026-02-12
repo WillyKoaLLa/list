@@ -9,11 +9,13 @@
 5-edge-chat.facebook.com
 5231.xg4ken.com
 6-edge-chat.facebook.com
-agestanet.risorseimmobiliari.it
 7eer.net
 a.tellonym.me
-beacon.shazam.com
+pad.mymovies.it
+nitroscripts.com
+tags.subito.it
 aax-eu-zaz.amazon.it
+ab.chatgpt.com
 acdn.adnxs.com
 acr-config.aistrm.net
 activate.adobe.com
@@ -22,10 +24,11 @@ ad.atdmt.com
 ad.doubleclick.net
 adf.ly
 ae01.alicdn.com
+aepxlg.adobe.com
 affiliatefuture.com
 afs.ampaeservices.com
+agestanet.risorseimmobiliari.it
 akamaihd.net
-ipm.avcdn.net
 akamaitechnologies.com
 akamaized.net
 alogs.umengcloud.com
@@ -37,8 +40,6 @@ anydesk.my.salesforce-scrt.com
 api-global.netflix.com
 api.channelsight.com
 api.channelsight.com
-www.emailimagecdn4htg.com
-wa.tenor.co
 api.cooladata.com
 api.datlas.it
 api.facebook.com
@@ -70,6 +71,7 @@ authorisation.api.bunnings.com.au
 avantlink.com
 ax.phobos.apple.com.edgesuite.net
 b1.nel.goog
+beacon.shazam.com
 beaconimages.netflix.net
 bfast.com
 bit.ly
@@ -79,6 +81,7 @@ browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-us5-datadoghq.com
 c.disquscdn.com
+c.pki.goog
 c.s-microsoft.com
 canva.com
 cc-dt.com
@@ -100,10 +103,10 @@ cdns.gigya.com
 ceement.rssx.hp.com
 cert.mgt.xboxlive.com
 chat.gaiagpt.me
+chat.supportbox.cz
 cj.com
 cj.dotomi.com
 cl.canva.com
-itechhacks.com
 click.linksynergy.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
@@ -181,8 +184,10 @@ eic.cdpsvc.lgtvcommon.com
 electro.demdex.net
 emailsignature.trustpilot.com
 emjcd.com
+enterprise-eudb.activity.windows.com
 eu.app.unleash-hosted.com
 events.gfe.nvidia.com
+events.mapbox.com
 evyy.net
 exchange.mediavine.com
 external-lhr0-1.xx.fbcdn.net
@@ -259,6 +264,7 @@ hostsfile.org
 i.ytimg.com
 i1.ytimg.com
 ieonlinews.microsoft.com
+im9.cz
 image.s4.exct.net
 images.gestionaleimmobiliare.it
 images.pluto.tv
@@ -272,8 +278,11 @@ instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
 intercom.io
 ipinfo.io
+ipm.avcdn.net
 ipv64.net
+itechhacks.com
 jdoqocy.com
+jo.my
 jquery.com
 js.maxmind.com
 jsdelivr.net
@@ -374,6 +383,7 @@ qcf.stripocdnplugin.email
 qksrv.net
 qrto.org
 r.mailin.fr
+rabbit-labs.com
 radar.cedexis.com
 rai-italia01.wt-eu02.net
 raw.githubusercontent.com
@@ -410,6 +420,7 @@ secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
 self.events.data.microsoft.com
+services.meteored.com
 services.sonarr.tv
 sessions.bugsnag.com
 shareaholic.com
@@ -448,6 +459,7 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tawk.to
 tc.tradetracker.com
+teams.microsoft.com
 tedcdn.com
 telecommandsvc.microsoft.com
 themoviedb.com
@@ -483,7 +495,9 @@ v20.events.data.microsoft.com
 vast.doubleverify.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
+wa.tenor.co
 web.facebook.com
+webexapis.com
 widget-cdn.rpxnow.com
 widget.reviews.io
 widget.trustpilot.com
@@ -494,6 +508,7 @@ wp.com
 ws.audioscrobbler.com
 www.7eer.net
 www.adf.ly
+www.adnkronos.com
 www.affiliatefuture.com
 www.anrdoezrs.net
 www.apmebf.com
@@ -505,13 +520,7 @@ www.cj.com
 www.dataplicity.com
 www.doubleclick.net
 www.dpbolvw.net
-enterprise-eudb.activity.windows.com
-www.windowsblogitalia.com
-services.meteored.com
-www.informarea.it
-www.adnkronos.com
-events.mapbox.com
-rabbit-labs.com
+www.emailimagecdn4htg.com
 www.emjcd.com
 www.evyy.net
 www.google-analytics.com
@@ -519,6 +528,7 @@ www.googleapis.com
 www.googletagmanager.com
 www.googletagservices.com
 www.gopjn.com
+www.informarea.it
 www.jdoqocy.com
 www.kqzyfj.com
 www.kqzyfj.com
@@ -538,6 +548,7 @@ www.pntrack.com
 www.qksrv.net
 www.tkqlhce.com
 www.tradetracker.net
+www.windowsblogitalia.com
 www.youtube-nocookie.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -551,14 +562,6 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-teams.microsoft.com
-c.pki.goog
-jo.my
-webexapis.com
-aepxlg.adobe.com
-ab.chatgpt.com
-chat.supportbox.cz
-im9.cz
 
 #lista domini
 @@||9to5mac.com^
@@ -583,6 +586,7 @@ im9.cz
 @@||amazonaws.com^
 @@||amp-endpoint2.com^
 @@||amp-endpoint3.com^
+@@||anydesk.com^
 @@||aosom.it^
 @@||aosomcdn.com^
 @@||apertis.org^
@@ -597,6 +601,7 @@ im9.cz
 @@||asdecemberfalls.store^
 @@||askubuntu.com^
 @@||asnapieu.com^
+@@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
 @@||attest.approovr.io^
@@ -684,9 +689,11 @@ im9.cz
 @@||fibra.click^
 @@||fideuram.it^
 @@||floorfy.com^
+@@||fondometasalute.it^
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
+@@||foxentry.cz^
 @@||frameset.app^
 @@||freedome.it^
 @@||g.bing.com^
@@ -747,6 +754,7 @@ im9.cz
 @@||kobo.com^
 @@||koordinates.com^
 @@||lafeltrinelli.it^
+@@||lambda.ai^
 @@||lav.it^
 @@||lgthinq.com^
 @@||lgwebostv.com^
@@ -756,17 +764,20 @@ im9.cz
 @@||local^
 @@||loescher.it^
 @@||lucake.it^
+@@||luigisbox.tech^
 @@||lyoness.com^
 @@||m365cdn.nel.measure.office.net^
 @@||macrumors.com^
 @@||mail.thespacecinema.it^
 @@||mainadv.com^
 @@||mandrillapp.com^
+@@||manga10.com^
 @@||manuals.plus^
 @@||marketingcloudapis.com^
 @@||massgrave.dev^
 @@||mattinopadova.it^
 @@||measure.office.com^
+@@||measure.office.net^
 @@||medialabtc.it^
 @@||mediaset.it^
 @@||meethue.com^
@@ -776,10 +787,12 @@ im9.cz
 @@||merlinbirds.org^
 @@||meshcore.dev^
 @@||meshy.ai^
+@@||meteotrentino.it^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
 @@||moodeaudio.org^
 @@||moodlebox.net^
+@@||motorionline.com^
 @@||msvdn.net^
 @@||musvc1.net^
 @@||musvc2.net^
@@ -819,6 +832,7 @@ im9.cz
 @@||picoreplayer.org^
 @@||pndsn.com^
 @@||prenatal.com^
+@@||previmedical.it^
 @@||previnet.it^
 @@||primevideo.com^
 @@||prodregistryv2.org^
@@ -843,6 +857,7 @@ im9.cz
 @@||riscosopen.org^
 @@||rockstargames.com^
 @@||rottentomatoes.com^
+@@||rpishop.cz^
 @@||rptl.io^
 @@||s.fluxtech.ai^
 @@||salewa.com^
@@ -929,15 +944,3 @@ im9.cz
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||fondometasalute.it^
-@@||previmedical.it^
-@@||meteotrentino.it^
-@@||motorionline.com^
-@@||measure.office.net^
-@@||manga10.com^
-@@||asus.com^
-@@||rpishop.cz^
-@@||luigisbox.tech^
-@@||foxentry.cz^
-@@||anydesk.com^
-@@||lambda.ai^
