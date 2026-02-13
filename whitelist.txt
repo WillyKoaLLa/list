@@ -232,6 +232,7 @@ geover.prod.do.dsp.mp.microsoft.com
 gfwsl.geforce.com
 gfwsl.geforce.com
 giphy.com
+bun.sh
 github.com
 github.io
 go.eu.sparkpostmail1.com
