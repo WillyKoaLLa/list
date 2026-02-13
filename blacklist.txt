@@ -1,5 +1,7 @@
 # lista pura
 i-fallback.instagram.com
 mobile.pipe.aria.microsoft.com
+eic.api.adts.lgtvcommon.com
+it.info.lgsmartad.com
 
 # lista domini
