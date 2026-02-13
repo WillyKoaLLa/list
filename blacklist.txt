@@ -3,5 +3,6 @@ i-fallback.instagram.com
 mobile.pipe.aria.microsoft.com
 eic.api.adts.lgtvcommon.com
 it.info.lgsmartad.com
+prov-lg.alphonso.tv
 
 # lista domini
