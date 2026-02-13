@@ -945,3 +945,4 @@ zeustracker.abuse.ch
 @@||zohopublic.com^
 @@||zoom.us^
 @@||kleintools.io^
+@@||hirose.com^
