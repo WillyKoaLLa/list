@@ -1,1 +1,5 @@
+# lista pura
+i-fallback.instagram.com
+mobile.pipe.aria.microsoft.com
 
+# lista domini
