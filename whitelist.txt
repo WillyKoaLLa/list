@@ -232,7 +232,6 @@ geover.prod.do.dsp.mp.microsoft.com
 gfwsl.geforce.com
 gfwsl.geforce.com
 giphy.com
-bun.sh
 github.com
 github.io
 go.eu.sparkpostmail1.com
@@ -409,6 +408,11 @@ s1.wp.com
 s2.youtube.com
 s2s.singular.net
 s3-eu-west-1.amazonaws.com
+cdn.confiant-integrations.net
+otelrules.svc.static.microsoft
+visit-server.inmobi-choice.io
+sp.booking.com
+cdn.ravelin.net
 s3.amazonaws.com
 sa.symcb.com
 safetrack.singular.net
@@ -564,7 +568,7 @@ z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
 
-#lista domini
+# lista domini
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
@@ -947,3 +951,5 @@ zeustracker.abuse.ch
 @@||zoom.us^
 @@||kleintools.io^
 @@||hirose.com^
+@@||mondadoristore.it^
+
