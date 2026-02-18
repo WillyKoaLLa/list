@@ -11,9 +11,6 @@
 6-edge-chat.facebook.com
 7eer.net
 a.tellonym.me
-pad.mymovies.it
-nitroscripts.com
-tags.subito.it
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
 acdn.adnxs.com
@@ -87,12 +84,14 @@ canva.com
 cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
+cdn.confiant-integrations.net
 cdn.cookielaw.org
 cdn.discordapp.com
 cdn.embedly.com
 cdn.fbsbx.com
 cdn.liftoff-creatives.io
 cdn.optimizely.com
+cdn.ravelin.net
 cdn.treasuredata.com
 cdn.vidible.tv
 cdn1.smartadserver.com
@@ -327,6 +326,7 @@ my.plexapp.com
 n.connections.brother.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
+nitroscripts.com
 no-ip.com
 node.plexapp.com
 notifications.allterco.com
@@ -349,9 +349,11 @@ onedrive.live.com
 onenetworkdirect.net
 onlinecheck.wildtangent.com
 ota-downloads.nvidia.com
+otelrules.svc.static.microsoft
 outlook.live.com
 outlook.office365.com
 ow.ly
+pad.mymovies.it
 partners.webmasterplan.com
 payments-graph.facebook.com
 pgl.yoyo.org
@@ -408,11 +410,6 @@ s1.wp.com
 s2.youtube.com
 s2s.singular.net
 s3-eu-west-1.amazonaws.com
-cdn.confiant-integrations.net
-otelrules.svc.static.microsoft
-visit-server.inmobi-choice.io
-sp.booking.com
-cdn.ravelin.net
 s3.amazonaws.com
 sa.symcb.com
 safetrack.singular.net
@@ -437,6 +434,7 @@ skosm.klarna.com
 skyhook.sonarr.tv
 someonewhocares.org
 sooftware.com
+sp.booking.com
 spclient.wg.spotify.com
 spclient.wg.spotify.com
 spov-ring-fallback.msedge.net
@@ -462,6 +460,7 @@ t.co
 t.ly
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+tags.subito.it
 tawk.to
 tc.tradetracker.com
 teams.microsoft.com
@@ -500,6 +499,7 @@ v20.events.data.microsoft.com
 vast.doubleverify.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
+visit-server.inmobi-choice.io
 wa.tenor.co
 web.facebook.com
 webexapis.com
@@ -724,6 +724,7 @@ zeustracker.abuse.ch
 @@||helply.com^
 @@||heltec.org^
 @@||here.com^
+@@||hirose.com^
 @@||hmxmedia.com^
 @@||homey.app^
 @@||hsforms.net^
@@ -754,6 +755,7 @@ zeustracker.abuse.ch
 @@||izatcloud.net^
 @@||kaltura.com^
 @@||kastellatz.it^
+@@||kleintools.io^
 @@||kmsmep.com^
 @@||knipex.com^
 @@||kobo.com^
@@ -795,6 +797,7 @@ zeustracker.abuse.ch
 @@||meteotrentino.it^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
+@@||mondadoristore.it^
 @@||moodeaudio.org^
 @@||moodlebox.net^
 @@||motorionline.com^
@@ -949,7 +952,8 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||kleintools.io^
-@@||hirose.com^
-@@||mondadoristore.it^
+@@||rt.oraclevb.com^
+@@||photosi.com^
+@@||cheerz.com^
+
 
