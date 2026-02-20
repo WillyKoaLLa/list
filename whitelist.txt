@@ -599,6 +599,7 @@ zeustracker.abuse.ch
 @@||api.onesignal.com^
 @@||app-analytics-services.com^
 @@||app-measurement.com^
+@@||app.usercentrics.eu^
 @@||appcenter.ms^
 @@||apple-dns.net^
 @@||apple.com^
@@ -627,6 +628,7 @@ zeustracker.abuse.ch
 @@||brt.it^
 @@||brxcdn.com^
 @@||bsmart.it^
+@@||c.time1.me^
 @@||caasbbva.com^
 @@||cathopedia.org^
 @@||cdm.tangoo.it^
@@ -635,9 +637,11 @@ zeustracker.abuse.ch
 @@||cdn.optimizely.com^
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
+@@||cdn2.chrzz.com^
 @@||cdngslb.com^
 @@||cdninstagram.com^
 @@||cedacrigroup.it^
+@@||cheerz.com^
 @@||chicco.it^
 @@||chumenwenwen.com^
 @@||clarity.ms^
@@ -672,7 +676,9 @@ zeustracker.abuse.ch
 @@||dolomitienergia.it^
 @@||dp-gw-na.amazon.com^
 @@||dpm.demdex.net^
+@@||drbuho.com^
 @@||duckdns.org^
+@@||dwin1.com^
 @@||e-distribuzione.it^
 @@||e7.i.lencr.org^
 @@||easypodcast.it^
@@ -837,6 +843,7 @@ zeustracker.abuse.ch
 @@||pastebin.com^
 @@||payback.it^
 @@||paypal.com^
+@@||photosi.com^
 @@||picoreplayer.org^
 @@||pndsn.com^
 @@||prenatal.com^
@@ -867,6 +874,7 @@ zeustracker.abuse.ch
 @@||rottentomatoes.com^
 @@||rpishop.cz^
 @@||rptl.io^
+@@||rt.oraclevb.com^
 @@||s.fluxtech.ai^
 @@||salewa.com^
 @@||satellitemap.space^
@@ -952,13 +960,6 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||rt.oraclevb.com^
-@@||photosi.com^
-@@||cheerz.com^
-@@||app.usercentrics.eu^
-@@||cdn2.chrzz.com^
-@@||dwin1.com^
-@@||c.time1.me^
 
 
 
