@@ -494,6 +494,7 @@ unified.adsafeprotected.com
 upgrade.scdn.com
 us-east-1.amazonaws.com
 v.firebog.net
+geoip-js.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 vast.doubleverify.com
@@ -932,6 +933,7 @@ win.kms.pub
 @@||toyota.eu^
 @@||toyota.it^
 @@||tozelabs.com^
+@@||roundprincemusic.com^
 @@||trauerhilfe.it^
 @@||trovaprezzi.it^
 @@||trusteer.com^
