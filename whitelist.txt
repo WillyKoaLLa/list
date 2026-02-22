@@ -575,6 +575,10 @@ avty.xboxlive.com
 userstats.xboxlive.com
 geo.prod.do.dsp.mp.microsoft.com
 wago.twentythree.com
+kms-default.cangshui.net
+kms.wxlost.com
+kms.myds.cloud
+win.kms.pub
 
 # lista domini
 @@||9to5mac.com^
@@ -968,3 +972,4 @@ wago.twentythree.com
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
+@@||photosi.online^
