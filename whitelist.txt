@@ -567,6 +567,14 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
+images.tgtg.ninja
+keap.page
+pienissimo.pro
+collections.mp.microsoft.com
+avty.xboxlive.com
+userstats.xboxlive.com
+geo.prod.do.dsp.mp.microsoft.com
+wago.twentythree.com
 
 # lista domini
 @@||9to5mac.com^
@@ -960,6 +968,3 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-
-
-
