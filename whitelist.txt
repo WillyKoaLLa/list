@@ -581,8 +581,22 @@ kms-default.cangshui.net
 kms.wxlost.com
 kms.myds.cloud
 win.kms.pub
+ee.channels.ocs.oraclecloud.com
+res.public.onecdn.static.microsoft
+www.rnengage.com
+guidedlearning.oracle.com
+mielecx.qualtrics.com
+px.ads.linkedin.com
+privacyportal-de.onetrust.com
+cdn.raffle.ai
+rum.hlx.page
+cs.rssx.hp.com
 
 # lista domini
+@@||auto-doc.it^
+@@||bosch-diy.com^
+@@||bosch-diy.com^
+@@||italotreno.com^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
