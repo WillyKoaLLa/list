@@ -591,6 +591,12 @@ privacyportal-de.onetrust.com
 cdn.raffle.ai
 rum.hlx.page
 cs.rssx.hp.com
+m365.cloud.microsoft
+tm-sdk.platinumai.net
+amplify.outbrain.com
+cdn.taboola.com
+all.ddnskey.com
+
 
 # lista domini
 @@||auto-doc.it^
