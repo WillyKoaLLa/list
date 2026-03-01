@@ -1001,3 +1001,4 @@ fpt.microsoft.com
 @@||zoom.us^
 @@||photosi.online^
 @@||iplabs.io^
+@@||kataweb.it^
