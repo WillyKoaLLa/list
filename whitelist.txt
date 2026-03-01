@@ -596,7 +596,11 @@ tm-sdk.platinumai.net
 amplify.outbrain.com
 cdn.taboola.com
 all.ddnskey.com
-
+aziendazero.my.salesforce-scrt.com
+ipapi.co
+api-eu.mixpanel.com
+gateway.bingviz.microsoftapp.net
+fpt.microsoft.com
 
 # lista domini
 @@||auto-doc.it^
