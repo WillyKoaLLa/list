@@ -10,6 +10,8 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+server.livehelp.it
+dolomitienergiaholdingspa.data.adobedc.net
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
@@ -193,6 +195,8 @@ eu.app.unleash-hosted.com
 events.gfe.nvidia.com
 events.mapbox.com
 evyy.net
+smetrics.bbva.it
+smetrics.bbva.es
 exchange.mediavine.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -923,7 +927,6 @@ zeustracker.abuse.ch
 @@||statics.cedscdn.it^
 @@||stbm.it^
 @@||steampowered.com^
-@@||stmetrics.bbva.it^
 @@||stncdn.it^
 @@||suedtirol.live^
 @@||synology.me^
