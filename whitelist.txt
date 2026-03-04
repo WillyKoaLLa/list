@@ -457,6 +457,10 @@ skyhook.sonarr.tv
 someonewhocares.org
 sooftware.com
 sp.booking.com
+query.atidevs.com
+pokeapi.co
+one.one.one.one
+icanhazip.com
 spclient.wg.spotify.com
 spov-ring-fallback.msedge.net
 sqs.us-east-1.amazonaws.com
