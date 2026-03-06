@@ -513,6 +513,9 @@ tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
 twitter.com
+mobile.pipe.aria.microsoft.com
+www.ebayadservices.com
+api.mshop.bdtelemetry.amazon
 uhf.microsoft.com
 ui.skype.com
 unagi-na.amazon.com
