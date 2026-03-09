@@ -804,6 +804,7 @@ zeustracker.abuse.ch
 @@||lafeltrinelli.it^
 @@||lambda.ai^
 @@||lav.it^
+@@||opencompute.org^
 @@||lgthinq.com^
 @@||lgwebostv.com^
 @@||licdn.com^
@@ -882,7 +883,7 @@ zeustracker.abuse.ch
 @@||photosi.online^
 @@||picoreplayer.org^
 @@||pndsn.com^
-@@||posit.co^
+@@||posit.com^
 @@||prenatal.com^
 @@||previmedical.it^
 @@||previnet.it^
