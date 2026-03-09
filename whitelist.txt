@@ -10,8 +10,6 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-server.livehelp.it
-dolomitienergiaholdingspa.data.adobedc.net
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
@@ -45,6 +43,7 @@ api.cooladata.com
 api.datlas.it
 api.facebook.com
 api.ipify.org
+api.mshop.bdtelemetry.amazon
 api.pluto.tv
 api.rlje.net
 apmebf.com
@@ -168,6 +167,7 @@ dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
 dns.msftncsi.com
+dolomitienergiaholdingspa.data.adobedc.net
 doubleclick.net
 download.sonarr.tv
 dp-rsm-prod.amazon.com
@@ -195,8 +195,6 @@ eu.app.unleash-hosted.com
 events.gfe.nvidia.com
 events.mapbox.com
 evyy.net
-smetrics.bbva.it
-smetrics.bbva.es
 exchange.mediavine.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -273,6 +271,7 @@ hostsfile.mine.nu
 hostsfile.org
 i.ytimg.com
 i1.ytimg.com
+icanhazip.com
 ieonlinews.microsoft.com
 im9.cz
 image.s4.exct.net
@@ -290,7 +289,6 @@ instantmessaging-pa.googleapis.com
 intercom.io
 ipapi.co
 ipinfo.io
-ipm.avcdn.net
 ipv64.net
 itechhacks.com
 jdoqocy.com
@@ -337,6 +335,7 @@ mio.skiinfo.it
 mirror.gofoss.xyz
 mobile-ap.spotify.com
 mobile-data.onetrust.io
+mobile.pipe.aria.microsoft.com
 mqtt-mini.facebook.com
 mr.comingsoon.it
 msedge.b.tlu.dl.delivery.mp.microsoft.com
@@ -365,6 +364,7 @@ office365.com
 officeclient.microsoft.com
 ojrq.net
 om.cbsi.com
+one.one.one.one
 onedrive.live.com
 onenetworkdirect.net
 onlinecheck.wildtangent.com
@@ -390,6 +390,7 @@ players.pluto.tv
 pntra.com
 pntrac.com
 pntrack.com
+pokeapi.co
 pricelist.skype.com
 privacyportal-de.onetrust.com
 prod.rewardsplatform.microsoft.com
@@ -407,6 +408,7 @@ pxl.matycube.net
 qcf.stripocdnplugin.email
 qksrv.net
 qrto.org
+query.atidevs.com
 r.mailin.fr
 rabbit-labs.com
 radar.cedexis.com
@@ -444,6 +446,7 @@ secure.avangate.com
 secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
+server.livehelp.it
 services.meteored.com
 services.sonarr.tv
 sessions.bugsnag.com
@@ -454,13 +457,11 @@ silo.pluto.tv
 siloh.pluto.tv
 skosm.klarna.com
 skyhook.sonarr.tv
+smetrics.bbva.es
+smetrics.bbva.it
 someonewhocares.org
 sooftware.com
 sp.booking.com
-query.atidevs.com
-pokeapi.co
-one.one.one.one
-icanhazip.com
 spclient.wg.spotify.com
 spov-ring-fallback.msedge.net
 sqs.us-east-1.amazonaws.com
@@ -513,9 +514,6 @@ tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
 twitter.com
-mobile.pipe.aria.microsoft.com
-www.ebayadservices.com
-api.mshop.bdtelemetry.amazon
 uhf.microsoft.com
 ui.skype.com
 unagi-na.amazon.com
@@ -555,6 +553,7 @@ www.cj.com
 www.dataplicity.com
 www.doubleclick.net
 www.dpbolvw.net
+www.ebayadservices.com
 www.emailimagecdn4htg.com
 www.emjcd.com
 www.evyy.net
@@ -643,6 +642,7 @@ zeustracker.abuse.ch
 @@||attest.approovr.io^
 @@||auto-doc.it^
 @@||avast.com^
+@@||avcdn.net^
 @@||avira.com^
 @@||awsul3.api.c0nnectthed0ts.com^
 @@||azimut.it^
@@ -711,6 +711,7 @@ zeustracker.abuse.ch
 @@||drbuho.com^
 @@||duckdns.org^
 @@||dwin1.com^
+@@||dynatrace.com^
 @@||e-distribuzione.it^
 @@||e7.i.lencr.org^
 @@||easypodcast.it^
@@ -881,6 +882,7 @@ zeustracker.abuse.ch
 @@||photosi.online^
 @@||picoreplayer.org^
 @@||pndsn.com^
+@@||posit.com^
 @@||prenatal.com^
 @@||previmedical.it^
 @@||previnet.it^
@@ -919,6 +921,7 @@ zeustracker.abuse.ch
 @@||sentry-cdn.com^
 @@||sentry.io^
 @@||servg1.net^
+@@||services.gruppodolomitienergia.it^
 @@||shelly.cloud^
 @@||shelly.com^
 @@||shopifycdn.net^
@@ -995,5 +998,3 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||services.gruppodolomitienergia.it^
-@@||dynatrace.com^
