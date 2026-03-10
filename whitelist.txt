@@ -318,6 +318,9 @@ login.microsoftonline.com
 login.windows.net
 lotustalk.com
 m.facebook.com
+js.chilipiper.com
+tether.edge.apple
+jgbdhjc.r.tsp1-brevo.net
 m.stripe.com
 m.stripe.network
 m365.cloud.microsoft
