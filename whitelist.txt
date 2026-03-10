@@ -908,6 +908,8 @@ zeustracker.abuse.ch
 @@||regione.veneto.it^
 @@||reply.eu^
 @@||reply.it^
+@@||prusax.com^
+@@||prusa3d.com^
 @@||replynet.prv^
 @@||revolut.com^
 @@||riscosopen.org^
