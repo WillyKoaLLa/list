@@ -13,6 +13,7 @@
 clevertap-prod.com
 unagi.amazon.it
 unagi-eu.amazon.com
+aws-de-prod-logs.eu-central-1.log.aliyuncs.com
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
