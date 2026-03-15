@@ -12,6 +12,8 @@
 7eer.net
 clevertap-prod.com
 unagi.amazon.it
+a.klaviyo.com
+intercom.help
 unagi-eu.amazon.com
 m.unipoltech.it
 aws-de-prod-logs.eu-central-1.log.aliyuncs.com
