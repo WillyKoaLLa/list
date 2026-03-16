@@ -14,6 +14,9 @@ clevertap-prod.com
 unagi.amazon.it
 a.klaviyo.com
 intercom.help
+trk.e.nothing.tech
+v6.api.ipinfo.io
+v4.api.ipinfo.io
 unagi-eu.amazon.com
 m.unipoltech.it
 aws-de-prod-logs.eu-central-1.log.aliyuncs.com
