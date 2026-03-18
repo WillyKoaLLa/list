@@ -753,6 +753,8 @@ zeustracker.abuse.ch
 @@||fideuram.it^
 @@||floorfy.com^
 @@||fondometasalute.it^
+@@||borgomedievaletorino.it^
+@@||comune.*.it^
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
