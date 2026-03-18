@@ -754,7 +754,7 @@ zeustracker.abuse.ch
 @@||floorfy.com^
 @@||fondometasalute.it^
 @@||borgomedievaletorino.it^
-@@||comune.*.it^
+@@||comune.torino.it^
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
