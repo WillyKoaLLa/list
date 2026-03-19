@@ -20,6 +20,9 @@ activate.adobe.com
 activity.windows.com
 ad.atdmt.com
 ad.doubleclick.net
+powershellinfraartifacts-gkhedzdeaghdezhr.z01.azurefd.net
+copilot.cloud.microsoft
+checkappexec.microsoft.com
 adf.ly
 ae01.alicdn.com
 aepxlg.adobe.com
