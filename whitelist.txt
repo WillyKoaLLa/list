@@ -14,15 +14,13 @@ a.klaviyo.com
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
+acconsento.click
 acdn.adnxs.com
 acr-config.aistrm.net
 activate.adobe.com
 activity.windows.com
 ad.atdmt.com
 ad.doubleclick.net
-powershellinfraartifacts-gkhedzdeaghdezhr.z01.azurefd.net
-copilot.cloud.microsoft
-checkappexec.microsoft.com
 adf.ly
 ae01.alicdn.com
 aepxlg.adobe.com
@@ -42,6 +40,8 @@ anrdoezrs.net
 anydesk.my.salesforce-scrt.com
 api-eu.mixpanel.com
 api-global.netflix.com
+api.amazon.com
+api.amazon.it
 api.channelsight.com
 api.cooladata.com
 api.datlas.it
@@ -114,6 +114,7 @@ ceement.rssx.hp.com
 cert.mgt.xboxlive.com
 chat.gaiagpt.me
 chat.supportbox.cz
+checkappexec.microsoft.com
 cj.com
 cj.dotomi.com
 cl.canva.com
@@ -137,18 +138,18 @@ connectivitycheck.android.com
 connectivitycheck.gstatic.com
 contentz.mkt9489.com
 continuum.dds.microsoft.com
+copilot.cloud.microsoft
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 crashes.owhealth.com
 creative.ak.fbcdn.net
 creator.pdf24.org
 criteo-partners.tremorhub.com
+cs.dds.microsoft.com
 cs.ns1p.net
 cs.rssx.hp.com
 ctldl.windowsupdate.com
 cws.conviva.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
 dafne.sirio.stbm.it
 dashboard.plex.tv
 datapipeline.logitech.io
@@ -181,7 +182,6 @@ dpbolvw.net
 dpm.demdex.net
 drift.com
 driftt.com
-dsms0mj1bbhn4.cloudfront.net
 dynupdate.no-ip.com
 e2c59.gcp.gvt2.com
 ec-ns.sascdn.com
@@ -195,6 +195,7 @@ eic-ngfts.lge.com
 eic.cdpsvc.lgtvcommon.com
 electro.demdex.net
 emailsignature.trustpilot.com
+embeds.accessiway.com
 emjcd.com
 enterprise-eudb.activity.windows.com
 eu.app.unleash-hosted.com
@@ -335,10 +336,6 @@ manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
 media.inx-cdn.de
-embeds.accessiway.com
-polyfill.io
-acconsento.click
-cs.dds.microsoft.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
@@ -368,6 +365,7 @@ notify.xboxlive.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
 ns2.dropbox.com
+ntp-g7g.amazon.com
 o1.email.plex.tv
 o2.sg0.plex.tv
 ocsp.apple.com
@@ -405,6 +403,8 @@ pntra.com
 pntrac.com
 pntrack.com
 pokeapi.co
+polyfill.io
+powershellinfraartifacts-gkhedzdeaghdezhr.z01.azurefd.net
 pricelist.skype.com
 privacyportal-de.onetrust.com
 prod.rewardsplatform.microsoft.com
@@ -675,6 +675,7 @@ zeustracker.abuse.ch
 @@||blackvoid.club^
 @@||bluespirit.com^
 @@||bnl.it^
+@@||borgomedievaletorino.it^
 @@||bosch-diy.com^
 @@||brave.com^
 @@||brave.eu^
@@ -707,6 +708,7 @@ zeustracker.abuse.ch
 @@||cloudflare.net^
 @@||cloudfront.net^
 @@||clvaw-cdnwnd.com^
+@@||comune.torino.it^
 @@||connectif.cloud^
 @@||consentmanager.net^
 @@||country.is^
@@ -755,9 +757,8 @@ zeustracker.abuse.ch
 @@||fibra.click^
 @@||fideuram.it^
 @@||floorfy.com^
+@@||fondazionetorinomusei.it^
 @@||fondometasalute.it^
-@@||borgomedievaletorino.it^
-@@||comune.torino.it^
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
@@ -809,13 +810,9 @@ zeustracker.abuse.ch
 @@||intellijend.com^
 @@||intercom.io^
 @@||iolam.it^
-@@||museoauto.com^
 @@||ip-api.com^
-@@||winget.microsoft.com^
-@@||museitorino.it^
 @@||iplabs.io^
 @@||istatmenus.app^
-@@||fondazionetorinomusei.it^
 @@||isybank.com^
 @@||it-wms.com^
 @@||it.lgeapi.com^
@@ -872,6 +869,8 @@ zeustracker.abuse.ch
 @@||moodlebox.net^
 @@||motorionline.com^
 @@||msvdn.net^
+@@||museitorino.it^
+@@||museoauto.com^
 @@||musvc1.net^
 @@||musvc2.net^
 @@||muzi.works^
@@ -1023,6 +1022,7 @@ zeustracker.abuse.ch
 @@||wifiman.me^
 @@||wikicasa.it^
 @@||wikiliad.it^
+@@||winget.microsoft.com^
 @@||wittytv.it^
 @@||wk-cdn.it^
 @@||wpad.work^
