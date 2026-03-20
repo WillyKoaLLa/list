@@ -16,6 +16,9 @@ aax-eu-zaz.amazon.it
 ab.chatgpt.com
 acconsento.click
 acdn.adnxs.com
+api.eu-west-1.aiv-delivery.net
+d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
+arl.assets.apl-alexa.com
 acr-config.aistrm.net
 activate.adobe.com
 activity.windows.com
@@ -764,6 +767,7 @@ zeustracker.abuse.ch
 @@||foto-webcam.eu^
 @@||foxentry.cz^
 @@||frameset.app^
+@@||beddy.io^
 @@||freedome.it^
 @@||g.bing.com^
 @@||genu.us^
