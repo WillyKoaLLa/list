@@ -12,6 +12,14 @@
 7eer.net
 a.klaviyo.com
 a.tellonym.me
+ip1.dynupdate.no-ip.com
+ipcast2.dynupdate.no-ip.com
+ipcast1.dynupdate.no-ip.com
+font-public.canva.com
+telemetry.canva.com
+createpdf.acrobat.com
+cloud.acrobat.com
+wdcp.microsoft.com
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
 acconsento.click
