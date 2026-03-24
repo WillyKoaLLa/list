@@ -6,12 +6,6 @@
 2.android.pool.ntp.org
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
-www.reply.oneflex.aon.it
-image.news.percassi.com
-data.email.philips-hue.com
-api.usercentrics.eu
-widget.heres.ai
-widgetv2.heres.ai
 5-edge-chat.facebook.com
 5231.xg4ken.com
 6-edge-chat.facebook.com
@@ -22,9 +16,6 @@ aax-eu-zaz.amazon.it
 ab.chatgpt.com
 acconsento.click
 acdn.adnxs.com
-api.eu-west-1.aiv-delivery.net
-d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
-arl.assets.apl-alexa.com
 acr-config.aistrm.net
 activate.adobe.com
 activity.windows.com
@@ -54,11 +45,13 @@ api.amazon.it
 api.channelsight.com
 api.cooladata.com
 api.datlas.it
+api.eu-west-1.aiv-delivery.net
 api.facebook.com
 api.ipify.org
 api.mshop.bdtelemetry.amazon
 api.pluto.tv
 api.rlje.net
+api.usercentrics.eu
 apmebf.com
 app-api.ted.com
 app-rsrc.getbee.io
@@ -70,6 +63,7 @@ apresolve.spotify.com
 apt.sonarr.tv
 arc.msn.com
 argo.svcmot.com
+arl.assets.apl-alexa.com
 aspnetcdn.com
 assets.activity.windows.com
 assets.adobedtm.com
@@ -108,6 +102,7 @@ cdn.discordapp.com
 cdn.embedly.com
 cdn.fbsbx.com
 cdn.liftoff-creatives.io
+cdn.openshareweb.com
 cdn.optimizely.com
 cdn.raffle.ai
 cdn.ravelin.net
@@ -159,8 +154,10 @@ cs.ns1p.net
 cs.rssx.hp.com
 ctldl.windowsupdate.com
 cws.conviva.com
+d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
 dafne.sirio.stbm.it
 dashboard.plex.tv
+data.email.philips-hue.com
 datapipeline.logitech.io
 dataplicity.com
 dcs-vod.apis.anvato.net
@@ -175,6 +172,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 digitalfeedback.euro.confirmit.com
+directory.cookieyes.com
 directvapplications.hb.omtrdc.net
 directvnow.com
 display.ugc.bazaarvoice.com
@@ -285,11 +283,13 @@ hls.ted.com
 hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
+hs-147132234.f.hubspotemail-eu1.net
 i.ytimg.com
 i1.ytimg.com
 icanhazip.com
 ieonlinews.microsoft.com
 im9.cz
+image.news.percassi.com
 image.s4.exct.net
 images.gestionaleimmobiliare.it
 images.pluto.tv
@@ -332,6 +332,7 @@ linksynergy.com
 live.com
 livepassdl.conviva.com
 lm.licenses.adobe.com
+locate-us-west-azure-1.devicetrust.com
 login.live.com
 login.microsoftonline.com
 login.windows.net
@@ -442,6 +443,7 @@ redirect.viglink.com
 redirectingat.com
 redirector.googlevideo.com
 rendering-images.inxshare.de
+res-1.public.onecdn.static.microsoft
 res.cloudinary.com
 res.public.onecdn.static.microsoft
 resources.digital-cloud.medallia.eu
@@ -560,8 +562,10 @@ wago.twentythree.com
 web.facebook.com
 webexapis.com
 widget-cdn.rpxnow.com
+widget.heres.ai
 widget.reviews.io
 widget.trustpilot.com
+widgetv2.heres.ai
 win.kms.pub
 win10-trt.msedge.net
 win10.ipv6.microsoft.com
@@ -608,11 +612,14 @@ www.pntra.com
 www.pntrac.com
 www.pntrack.com
 www.qksrv.net
+www.reply.oneflex.aon.it
 www.rnengage.com
+www.shareaholic.net
 www.tkqlhce.com
 www.tradetracker.net
 www.windowsblogitalia.com
 www.youtube-nocookie.com
+www.yummly.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
@@ -680,6 +687,7 @@ zeustracker.abuse.ch
 @@||bancaifis.it^
 @@||batch.com^
 @@||bbvaexperience.com^
+@@||beddy.io^
 @@||bixgrow.com^
 @@||blackvoid.club^
 @@||bluespirit.com^
@@ -773,7 +781,6 @@ zeustracker.abuse.ch
 @@||foto-webcam.eu^
 @@||foxentry.cz^
 @@||frameset.app^
-@@||beddy.io^
 @@||freedome.it^
 @@||g.bing.com^
 @@||genu.us^
