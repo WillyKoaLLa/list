@@ -10,6 +10,12 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+static.cloudflareinsights.com
+eu1-htp.tokenex.com
+stmetrics.bbva.it
+sec-stat.blueshellcloud.com
+m-services.bbva.it
+api.ecomparkour.io
 a.klaviyo.com
 a.tellonym.me
 ip1.dynupdate.no-ip.com
