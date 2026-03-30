@@ -449,6 +449,9 @@ query.atidevs.com
 r.mailin.fr
 rabbit-labs.com
 radar.cedexis.com
+cdn.leadinfo.net
+s.saleswingsapp.com
+api.iadvize.com
 rai-italia01.wt-eu02.net
 raw.githubusercontent.com
 redirect.at
