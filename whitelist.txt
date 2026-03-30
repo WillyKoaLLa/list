@@ -377,7 +377,6 @@ msedge.b.tlu.dl.delivery.mp.microsoft.com
 msftncsi.com
 munchkin.marketo.net
 my.plexapp.com
-n.connections.brother.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 nitroscripts.com
@@ -1071,3 +1070,5 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
+@@||brother.it^
+@@||brother.com^
