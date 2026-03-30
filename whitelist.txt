@@ -445,6 +445,8 @@ pxl.matycube.net
 qcf.stripocdnplugin.email
 qksrv.net
 qrto.org
+api.leadinfo.com^$important
+to.go.saleswingsapp.com
 query.atidevs.com
 r.mailin.fr
 rabbit-labs.com
