@@ -11,8 +11,6 @@
 6-edge-chat.facebook.com
 7eer.net
 a.klaviyo.com
-clicks.satispay.com
-clicks.emails.n26.com
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
@@ -50,7 +48,9 @@ api.datlas.it
 api.ecomparkour.io
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
+api.iadvize.com
 api.ipify.org
+api.leadinfo.com
 api.mshop.bdtelemetry.amazon
 api.pluto.tv
 api.rlje.net
@@ -104,6 +104,7 @@ cdn.cookielaw.org
 cdn.discordapp.com
 cdn.embedly.com
 cdn.fbsbx.com
+cdn.leadinfo.net
 cdn.liftoff-creatives.io
 cdn.openshareweb.com
 cdn.optimizely.com
@@ -127,6 +128,8 @@ cj.dotomi.com
 cl.canva.com
 clevertap-prod.com
 click.linksynergy.com
+clicks.emails.n26.com
+clicks.satispay.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 client.cardinaltrusted.com
@@ -445,15 +448,10 @@ pxl.matycube.net
 qcf.stripocdnplugin.email
 qksrv.net
 qrto.org
-api.leadinfo.com^$important
-to.go.saleswingsapp.com
 query.atidevs.com
 r.mailin.fr
 rabbit-labs.com
 radar.cedexis.com
-cdn.leadinfo.net
-s.saleswingsapp.com
-api.iadvize.com
 rai-italia01.wt-eu02.net
 raw.githubusercontent.com
 redirect.at
@@ -471,6 +469,7 @@ rum.hlx.page
 s.ekbl.net
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.saleswingsapp.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
@@ -548,6 +547,7 @@ title.mgt.xboxlive.com
 tkqlhce.com
 tm-sdk.platinumai.net
 tms.hextom.com
+to.go.saleswingsapp.com
 todo-ta-g7g.amazon.com
 token.safebrowsing.apple
 tour360.getrix.it
@@ -721,6 +721,8 @@ zeustracker.abuse.ch
 @@||brave.com^
 @@||brave.eu^
 @@||braze.eu^
+@@||brother.com^
+@@||brother.it^
 @@||brt.it^
 @@||brxcdn.com^
 @@||bsmart.it^
@@ -1075,5 +1077,3 @@ zeustracker.abuse.ch
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
-@@||brother.it^
-@@||brother.com^
