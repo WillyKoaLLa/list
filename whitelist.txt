@@ -11,6 +11,13 @@
 6-edge-chat.facebook.com
 7eer.net
 a.klaviyo.com
+region1.google-analytics.com
+region1.app-analytics-services-att.com
+awa-eucn1-1.advanced-web-analytics.com
+collect.tealiumiq.com
+global.azure-devices-provisioning.net
+api-mobileconnect.brother.co.jp
+offer-service.mysora.net
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
