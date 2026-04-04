@@ -810,6 +810,7 @@ zeustracker.abuse.ch
 @@||farnell.com^
 @@||fastly-edge.com^
 @@||fastweb.it^
+@@||gewiss.com^
 @@||fattoincasadabenedetta.it^
 @@||fbcdn.net^
 @@||ferrerorocher.com^
