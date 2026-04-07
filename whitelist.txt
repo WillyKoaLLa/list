@@ -11,13 +11,6 @@
 6-edge-chat.facebook.com
 7eer.net
 a.klaviyo.com
-region1.google-analytics.com
-region1.app-analytics-services-att.com
-awa-eucn1-1.advanced-web-analytics.com
-collect.tealiumiq.com
-global.azure-devices-provisioning.net
-api-mobileconnect.brother.co.jp
-offer-service.mysora.net
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
@@ -43,15 +36,18 @@ amazonaws.com
 amplify.outbrain.com
 amzn.com
 amzn.to
+analytics.apis.mcafee.com
 anrdoezrs.net
 anydesk.my.salesforce-scrt.com
 api-eu.mixpanel.com
 api-global.netflix.com
+api-mobileconnect.brother.co.jp
 api.amazon.com
 api.amazon.it
 api.channelsight.com
 api.cooladata.com
 api.datlas.it
+api.diagnostics.office.com
 api.ecomparkour.io
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
@@ -62,6 +58,8 @@ api.mshop.bdtelemetry.amazon
 api.pluto.tv
 api.rlje.net
 api.usercentrics.eu
+api1.asusappnw.com
+api2.amplitude.com
 apmebf.com
 app-api.ted.com
 app-rsrc.getbee.io
@@ -86,6 +84,7 @@ audio-prod.cdnilpost.com
 authorisation.api.bunnings.com.au
 avantlink.com
 avty.xboxlive.com
+awa-eucn1-1.advanced-web-analytics.com
 aws-de-prod-logs.eu-central-1.log.aliyuncs.com
 ax.phobos.apple.com.edgesuite.net
 aziendazero.my.salesforce-scrt.com
@@ -146,6 +145,7 @@ cloud.acrobat.com
 cloud.wpscdn.com
 cm.g.doubleclick.net
 cognito-identity.us-east-1.amazonaws.com
+collect.tealiumiq.com
 collections.mp.microsoft.com
 collector.clue.run
 com-amazon-amazonuk.triggers-v1.prod.mobile.weblab.a2z.com
@@ -223,6 +223,7 @@ emjcd.com
 endpoint.prod.eu-west-1.forester.a2z.com
 enterprise-eudb.activity.windows.com
 eu.app.unleash-hosted.com
+eu.icp.ids.api.iris.microsoft.com
 eu1-htp.tokenex.com
 events.gfe.nvidia.com
 events.mapbox.com
@@ -276,6 +277,7 @@ gfwsl.geforce.com
 giphy.com
 github.com
 github.io
+global.azure-devices-provisioning.net
 go.eu.sparkpostmail1.com
 go.premierfarnell.com
 go.redirectingat.com
@@ -313,13 +315,13 @@ image.news.percassi.com
 image.s4.exct.net
 images.gestionaleimmobiliare.it
 images.pluto.tv
-redeem.rewardlink.com
 images.tgtg.ninja
 imagesak.secureserver.net
 img-cache.net
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
+incidents.diagnostics-eudb.office.com
 inference.location.live.net
 instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
@@ -331,6 +333,7 @@ ipcast1.dynupdate.no-ip.com
 ipcast2.dynupdate.no-ip.com
 ipinfo.io
 ipv64.net
+iriscms.iris.microsoft.com
 itechhacks.com
 jdoqocy.com
 jgbdhjc.r.tsp1-brevo.net
@@ -371,6 +374,7 @@ manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
 media.inx-cdn.de
+messaging.engagement.office.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
@@ -404,6 +408,7 @@ o1.email.plex.tv
 o2.sg0.plex.tv
 ocsp.apple.com
 ocsp.rootg2.amazontrust.com
+offer-service.mysora.net
 office.com
 office.net
 office365.com
@@ -462,10 +467,13 @@ rabbit-labs.com
 radar.cedexis.com
 rai-italia01.wt-eu02.net
 raw.githubusercontent.com
+redeem.rewardlink.com
 redirect.at
 redirect.viglink.com
 redirectingat.com
 redirector.googlevideo.com
+region1.app-analytics-services-att.com
+region1.google-analytics.com
 rendering-images.inxshare.de
 res-1.public.onecdn.static.microsoft
 res.cloudinary.com
@@ -518,6 +526,7 @@ spov-ring-fallback.msedge.net
 sqs.us-east-1.amazonaws.com
 ssl.google-analytics.com
 ssl.p.jwpcdn.com
+sstats.adobe.com
 staging.plex.tv
 star.c10r.facebook.com
 static-cdn.trackier.com
@@ -527,6 +536,7 @@ static.cloudflareinsights.com
 static.contactlab.it
 static.licdn.com
 static.prenatal-services.com
+static2.sharepointonline.com
 stats.streamelements.com
 statsigapi.net
 status.plex.tv
@@ -536,15 +546,6 @@ storage.mlcdn.com
 sysctl.org
 t.co
 t.ly
-analytics.apis.mcafee.com
-incidents.diagnostics-eudb.office.com
-api2.amplitude.com
-sstats.adobe.com
-eu.icp.ids.api.iris.microsoft.com
-iriscms.iris.microsoft.com
-static2.sharepointonline.com
-threat.api.mcafee.com
-messaging.engagement.office.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.subito.it
@@ -557,6 +558,7 @@ telemetry.canva.com
 tether.edge.apple
 themoviedb.com
 thetvdb.com
+threat.api.mcafee.com
 tinkeringpete.blogspot.com
 tinyurl.com
 title.auth.xboxlive.com
@@ -581,6 +583,8 @@ tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
 twitter.com
+uc.asusappnw.com
+uc1.asusappnw.com
 uhf.microsoft.com
 ui.skype.com
 unagi-eu.amazon.com
@@ -811,7 +815,6 @@ zeustracker.abuse.ch
 @@||farnell.com^
 @@||fastly-edge.com^
 @@||fastweb.it^
-@@||gewiss.com^
 @@||fattoincasadabenedetta.it^
 @@||fbcdn.net^
 @@||ferrerorocher.com^
@@ -829,6 +832,7 @@ zeustracker.abuse.ch
 @@||g.bing.com^
 @@||genu.us^
 @@||get.xometry.eu^
+@@||gewiss.com^
 @@||gfe.nvidia.com^
 @@||giallozafferano.it^
 @@||gioiellidivalenza.com^
