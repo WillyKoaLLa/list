@@ -1,3 +1,6 @@
+browser.events.data.msn.com
+fp.msedge.net
+has.spserv.microsoft.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 1drv.com
