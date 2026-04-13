@@ -1,11 +1,10 @@
-browser.events.data.msn.com
-fp.msedge.net
-has.spserv.microsoft.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 1drv.com
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
+consent.pdf24.org
+cxcs.microsoft.net
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
@@ -521,6 +520,7 @@ brightcove.net
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-us5-datadoghq.com
+browser.events.data.msn.com
 c.disquscdn.com
 c.pki.goog
 c.s-microsoft.com
@@ -680,6 +680,7 @@ font-public.canva.com
 fonts.gstatic.com
 forums.sonarr.tv
 fos5echocaptiveportal.com
+fp.msedge.net
 fpt.microsoft.com
 fraud-api.dyneti.com
 fritz-regex-app.k8s.eu.codecreationlabs.cloud
@@ -723,6 +724,7 @@ gravatar.com
 gstatic.com
 guidedlearning.oracle.com
 halc.iadvize.com
+has.spserv.microsoft.com
 help.ui.xboxlive.com
 hls.ted.com
 hosts-file.net
