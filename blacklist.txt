@@ -5,5 +5,6 @@ eic.api.adts.lgtvcommon.com
 it.info.lgsmartad.com
 prov-lg.alphonso.tv
 aic-ngfts.lge.com
+b-graph.facebook.com
 
 # lista domini
