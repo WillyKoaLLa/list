@@ -3,8 +3,6 @@
 1drv.com
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
-consent.pdf24.org
-cxcs.microsoft.net
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
@@ -579,6 +577,7 @@ connect.facebook.net
 connectivity-test.static.microsoft
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+consent.pdf24.org
 contentz.mkt9489.com
 continuum.dds.microsoft.com
 copilot.cloud.microsoft
@@ -594,6 +593,7 @@ cs.ns1p.net
 cs.rssx.hp.com
 ctldl.windowsupdate.com
 cws.conviva.com
+cxcs.microsoft.net
 d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
 dafne.sirio.stbm.it
 dashboard.plex.tv
@@ -611,6 +611,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+diffuser-cdn.app-us1.com
 digitalfeedback.euro.confirmit.com
 directory.cookieyes.com
 directvapplications.hb.omtrdc.net
@@ -800,6 +801,7 @@ m365.cloud.microsoft
 manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
+me-cam-pixel-tracker-prod.azure-api.net
 media.inx-cdn.de
 messaging.engagement.office.com
 meta-db-worker02.pop.ric.plex.bz
@@ -926,6 +928,7 @@ safetrack.singular.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
+sdk.split.io
 sdk.trackingplan.com
 sec-stat.blueshellcloud.com
 secure.avangate.com
