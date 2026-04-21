@@ -453,6 +453,7 @@ all.ddnskey.com
 alogs.umengcloud.com
 amazonaws.com
 amplify.outbrain.com
+amzdigitaldownloads.edgesuite.net
 amzn.com
 amzn.to
 analytics.apis.mcafee.com
@@ -611,6 +612,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+devicemessaging.us-east-1.amazon.com
 diffuser-cdn.app-us1.com
 digitalfeedback.euro.confirmit.com
 directory.cookieyes.com
