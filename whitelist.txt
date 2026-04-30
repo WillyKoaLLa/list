@@ -90,6 +90,7 @@
 @@||cdngslb.com^
 @@||cdninstagram.com^
 @@||cedacrigroup.it^
+@@||cf.bnlpay-hellopay.it^$important
 @@||cheerz.com^
 @@||chicco.it^
 @@||chumenwenwen.com^
@@ -189,6 +190,7 @@
 @@||homey.app^
 @@||hsforms.net^
 @@||huqindustries.co.uk^
+@@||i.instagram.com^$important
 @@||icloud.com^
 @@||idealista.it^
 @@||idkids.fr^
@@ -421,6 +423,7 @@
 @@||wittytv.it^
 @@||wk-cdn.it^
 @@||wpad.work^
+@@||www.facebook.com^$important
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
