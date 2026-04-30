@@ -10,6 +10,8 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
+@@||www.instagram.com^$important
+@@||git.community-scripts.org^$important
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
