@@ -10,8 +10,6 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
-@@||www.instagram.com^$important
-@@||git.community-scripts.org^$important
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
@@ -169,6 +167,7 @@
 @@||gfe.nvidia.com^
 @@||giallozafferano.it^
 @@||gioiellidivalenza.com^
+@@||git.community-scripts.org^$important
 @@||github.com^
 @@||glauco.it^
 @@||gmail.com^
@@ -426,6 +425,7 @@
 @@||wk-cdn.it^
 @@||wpad.work^
 @@||www.facebook.com^$important
+@@||www.instagram.com^$important
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
@@ -996,6 +996,7 @@ tether.edge.apple
 themoviedb.com
 thetvdb.com
 threat.api.mcafee.com
+time.android.com
 tinkeringpete.blogspot.com
 tinyurl.com
 title.auth.xboxlive.com
