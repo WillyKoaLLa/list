@@ -282,7 +282,6 @@
 @@||nextlgsdp.com^
 @@||nmrodam.com^
 @@||noip.com^
-@@||nothingtech.link^
 @@||notifichedigitali.it^
 @@||npttech.com^
 @@||nsertirol24.com^
@@ -613,6 +612,7 @@ dashboard.plex.tv
 data.email.philips-hue.com
 datapipeline.logitech.io
 dataplicity.com
+@@||nothingtech.link^
 dcs-vod.apis.anvato.net
 def-vef.xboxlive.com
 default.exp-tas.com
