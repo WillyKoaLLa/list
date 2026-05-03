@@ -90,7 +90,7 @@
 @@||cdngslb.com^
 @@||cdninstagram.com^
 @@||cedacrigroup.it^
-@@||cf.bnlpay-hellopay.it^$important
+@@||cf.bnlpay-hellopay.it^
 @@||cheerz.com^
 @@||chicco.it^
 @@||chumenwenwen.com^
@@ -282,6 +282,7 @@
 @@||nextlgsdp.com^
 @@||nmrodam.com^
 @@||noip.com^
+@@||nothingtech.link^
 @@||notifichedigitali.it^
 @@||npttech.com^
 @@||nsertirol24.com^
@@ -426,6 +427,7 @@
 @@||wpad.work^
 @@||www.facebook.com^$important
 @@||www.instagram.com^$important
+@@||www.linkedin.com^$important
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
@@ -469,6 +471,7 @@ api-global.netflix.com
 api-mobileconnect.brother.co.jp
 api.amazon.com
 api.amazon.it
+api.amplisite.it
 api.channelsight.com
 api.cooladata.com
 api.datlas.it
@@ -497,6 +500,7 @@ apt.sonarr.tv
 arc.msn.com
 argo.svcmot.com
 arl.assets.apl-alexa.com
+artsanaorg.my.salesforce-scrt.com
 aspnetcdn.com
 assets.activity.windows.com
 assets.adobedtm.com
@@ -532,11 +536,13 @@ canva.com
 cc-api-data.adobe.io
 cc-dt.com
 cdn-mobile.api.pluto.tv
+cdn.artsana.com
 cdn.cloudflare.net
 cdn.confiant-integrations.net
 cdn.cookielaw.org
 cdn.discordapp.com
 cdn.embedly.com
+cdn.evgnet.com
 cdn.fbsbx.com
 cdn.leadinfo.net
 cdn.liftoff-creatives.io
@@ -568,6 +574,7 @@ clickserve.cc-dt.com
 clickserve.dartsearch.net
 client.cardinaltrusted.com
 clientconfig.passport.net
+clientside.datakojak.com
 clk.tradedoubler.com
 cloud.acrobat.com
 cloud.wpscdn.com
@@ -654,6 +661,7 @@ embeds.accessiway.com
 emjcd.com
 endpoint.prod.eu-west-1.forester.a2z.com
 enterprise-eudb.activity.windows.com
+eu-library.klarnaservices.com
 eu.app.unleash-hosted.com
 eu.icp.ids.api.iris.microsoft.com
 eu1-htp.tokenex.com
@@ -833,6 +841,7 @@ nine.plugins.plexapp.com
 nitroscripts.com
 no-ip.com
 node.plexapp.com
+nothingx.nothingtech.link
 notifications.allterco.com
 notify.bugsnag.com
 notify.xboxlive.com
