@@ -414,6 +414,7 @@
 @@||unieuro.com^
 @@||unipolmove.it^
 @@||unpkg.com^
+@@||update.microsoft.com^
 @@||userly.net^
 @@||userway.org^
 @@||ve.it^
@@ -543,6 +544,7 @@ browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-intake-us5-datadoghq.com
 browser.events.data.msn.com
+browser.pipe.aria.microsoft.com
 c.disquscdn.com
 c.pki.goog
 c.s-microsoft.com
@@ -822,6 +824,7 @@ live.com
 livepassdl.conviva.com
 lm.licenses.adobe.com
 locate-us-west-azure-1.devicetrust.com
+location.microsoft.com
 login.live.com
 login.microsoftonline.com
 login.windows.net
