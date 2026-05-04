@@ -61,6 +61,7 @@
 @@||azionecontrolafame.it^
 @@||azurefd.net^
 @@||bancaifis.it^
+@@||banco.bradesco^
 @@||batch.com^
 @@||bbvaexperience.com^
 @@||beddy.io^
@@ -90,8 +91,10 @@
 @@||cdn2.chrzz.com^
 @@||cdngslb.com^
 @@||cdninstagram.com^
+@@||cdp.it^
 @@||cedacrigroup.it^
 @@||cf.bnlpay-hellopay.it^
+@@||changelly.com^
 @@||cheerz.com^
 @@||chicco.it^
 @@||chumenwenwen.com^
@@ -180,6 +183,7 @@
 @@||googlevideo.com^
 @@||growthbook.io^
 @@||gruppohera.it^
+@@||gruppomps.it^
 @@||gruppoveritas.it^
 @@||gstatic.com^
 @@||gvt2.com^
@@ -193,6 +197,7 @@
 @@||hsforms.net^
 @@||huqindustries.co.uk^
 @@||i.instagram.com^$important
+@@||ib.adnxs.com^
 @@||icloud.com^
 @@||idealista.it^
 @@||idkids.fr^
@@ -232,6 +237,7 @@
 @@||lgthinq.com^
 @@||lgwebostv.com^
 @@||licdn.com^
+@@||linkedin.com^
 @@||live.com^
 @@||livestory.io^
 @@||local^
@@ -303,6 +309,7 @@
 @@||page.link^
 @@||pago.pa.it^
 @@||pagopa.it^
+@@||pancakeswap.finance^
 @@||pandora.net^
 @@||panocloud.webcam^
 @@||pastebin.com^
@@ -333,6 +340,7 @@
 @@||redd.com^
 @@||redd.it^
 @@||reddit.com^
+@@||redditblog.com^
 @@||redditmedia.com^
 @@||regione.veneto.it^
 @@||reply.eu^
@@ -350,6 +358,7 @@
 @@||salewa.com^
 @@||satellitemap.space^
 @@||satnogs.org^
+@@||sellagroup.eu^
 @@||sendibm1.com^
 @@||sentry-cdn.com^
 @@||sentry.io^
@@ -426,6 +435,8 @@
 @@||wittytv.it^
 @@||wk-cdn.it^
 @@||wpad.work^
+@@||www.bancadiasti.it^
+@@||www.comunicazione.va^
 @@||www.facebook.com^$important
 @@||www.instagram.com^$important
 @@||www.linkedin.com^$important
@@ -464,6 +475,7 @@ amplify.outbrain.com
 amzdigitaldownloads.edgesuite.net
 amzn.com
 amzn.to
+an1.asusappnw.com
 analytics.apis.mcafee.com
 anrdoezrs.net
 anydesk.my.salesforce-scrt.com
@@ -473,6 +485,7 @@ api-mobileconnect.brother.co.jp
 api.amazon.com
 api.amazon.it
 api.amplisite.it
+api.asusappnw.com
 api.channelsight.com
 api.cooladata.com
 api.datlas.it
@@ -543,6 +556,7 @@ cdn.confiant-integrations.net
 cdn.cookielaw.org
 cdn.discordapp.com
 cdn.embedly.com
+cdn.engine.4dsply.com
 cdn.evgnet.com
 cdn.fbsbx.com
 cdn.leadinfo.net
@@ -602,6 +616,7 @@ createpdf.acrobat.com
 creative.ak.fbcdn.net
 creator.pdf24.org
 criteo-partners.tremorhub.com
+crl.microsoft.com
 cs.dds.microsoft.com
 cs.ns1p.net
 cs.rssx.hp.com
@@ -738,6 +753,7 @@ graph.instagram.com
 graph.whatsapp.com
 graph.whatsapp.net
 gravatar.com
+gs.asusappnw.com
 gstatic.com
 guidedlearning.oracle.com
 halc.iadvize.com
@@ -767,6 +783,7 @@ imgs.xkcd.com
 incidents.diagnostics-eudb.office.com
 inference.location.live.net
 instagram.c10r.facebook.com
+instagram.com
 instantmessaging-pa.googleapis.com
 intercom.help
 intercom.io
@@ -837,6 +854,7 @@ msedge.b.tlu.dl.delivery.mp.microsoft.com
 msftncsi.com
 munchkin.marketo.net
 my.plexapp.com
+myspace.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 nitroscripts.com
@@ -1053,6 +1071,7 @@ wago.twentythree.com
 wdcp.microsoft.com
 web.facebook.com
 webexapis.com
+webs.com
 widget-cdn.rpxnow.com
 widget.heres.ai
 widget.reviews.io
