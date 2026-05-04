@@ -632,6 +632,7 @@ dataplicity.com
 dcs-vod.apis.anvato.net
 def-vef.xboxlive.com
 default.exp-tas.com
+deff.nelreports.net
 delivery.vidible.tv
 det-ta-g7g.amazon.com
 detectportal.firefox.com
