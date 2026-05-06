@@ -506,6 +506,7 @@ api2.amplitude.com
 apmebf.com
 app-api.ted.com
 app-rsrc.getbee.io
+app.framerstatic.com
 appboot.netflix.com
 appleid.apple.com
 apps.skype.com
@@ -776,6 +777,7 @@ image.email.bbva.de
 image.news.percassi.com
 image.s4.exct.net
 images.gestionaleimmobiliare.it
+images.icecat.biz
 images.pluto.tv
 images.tgtg.ninja
 imagesak.secureserver.net
@@ -885,6 +887,7 @@ ojrq.net
 om.cbsi.com
 one.one.one.one
 onedrive.live.com
+onedscolprdcus03.centralus.cloudapp.azure.com
 onenetworkdirect.net
 onlinecheck.wildtangent.com
 ota-downloads.nvidia.com
