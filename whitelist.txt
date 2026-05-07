@@ -81,6 +81,7 @@
 @@||bsmart.it^
 @@||c.time1.me^
 @@||caasbbva.com^
+@@||canva.link^$important
 @@||cathopedia.org^
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
@@ -462,6 +463,7 @@ ad.atdmt.com
 ad.doubleclick.net
 adf.ly
 ae01.alicdn.com
+aefd.nelreports.net
 aepxlg.adobe.com
 affiliatefuture.com
 afs.ampaeservices.com
