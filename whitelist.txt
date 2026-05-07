@@ -843,6 +843,7 @@ manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
 me-cam-pixel-tracker-prod.azure-api.net
+media-public.canva.com
 media.inx-cdn.de
 messaging.engagement.office.com
 meta-db-worker02.pop.ric.plex.bz
