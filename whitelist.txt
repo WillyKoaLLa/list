@@ -7,15 +7,6 @@
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
 5231.xg4ken.com
-secureir.ebaystatic.com
-fern.xboxservices.com
-www.comet.it
-gtm.unieuro.it
-api.feefo.com
-mn.centercasa.it
-widget.feedaty.com
-cdn4.userzoom.com
-s.kk-resources.com
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
@@ -33,6 +24,7 @@ s.kk-resources.com
 @@||akadns.net^
 @@||akamai.net^
 @@||akamaiedge.net^
+@@||alfabeto-fideuram-it.ispgs.net^
 @@||alisupermercati.it^
 @@||allianzbank.it^
 @@||altervista.org^
@@ -252,6 +244,7 @@ s.kk-resources.com
 @@||livestory.io^
 @@||local^
 @@||loescher.it^
+@@||login-app-fideuram-it.ispgs.net^
 @@||lucake.it^
 @@||luigisbox.tech^
 @@||lyoness.com^
@@ -470,6 +463,7 @@ activate.adobe.com
 activity.windows.com
 ad.atdmt.com
 ad.doubleclick.net
+adblockplus.telemetry.eyeo.com
 adf.ly
 ae01.alicdn.com
 aefd.nelreports.net
@@ -505,6 +499,7 @@ api.diagnostics.office.com
 api.ecomparkour.io
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
+api.feefo.com
 api.iadvize.com
 api.ipify.org
 api.leadinfo.com
@@ -585,6 +580,7 @@ cdn.vidible.tv
 cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
+cdn4.userzoom.com
 cdnjs.cloudflare.com
 cdns.gigya.com
 ceement.rssx.hp.com
@@ -692,6 +688,7 @@ embeds.accessiway.com
 emjcd.com
 endpoint.prod.eu-west-1.forester.a2z.com
 enterprise-eudb.activity.windows.com
+epdg.epc.mnc000.mcc000.pub.3gppnetwork.org
 eu-library.klarnaservices.com
 eu.app.unleash-hosted.com
 eu.icp.ids.api.iris.microsoft.com
@@ -720,6 +717,7 @@ fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fd.api.iris.microsoft.com
 featureassets.org
+fern.xboxservices.com
 firebase-settings.crashlytics.com
 fls-eu.amazon.com
 fls-eu.amazon.it
@@ -770,6 +768,7 @@ graph.whatsapp.net
 gravatar.com
 gs.asusappnw.com
 gstatic.com
+gtm.unieuro.it
 guidedlearning.oracle.com
 halc.iadvize.com
 has.spserv.microsoft.com
@@ -863,6 +862,7 @@ mid4.linkedin.com
 mielecx.qualtrics.com
 mio.skiinfo.it
 mirror.gofoss.xyz
+mn.centercasa.it
 mobile-ap.spotify.com
 mobile-data.onetrust.io
 mobile.pipe.aria.microsoft.com
@@ -871,6 +871,7 @@ mr.comingsoon.it
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 msftncsi.com
 munchkin.marketo.net
+my.microsoftpersonalcontent.com
 my.plexapp.com
 myspace.com
 nexusrules.officeapps.live.com
@@ -910,6 +911,7 @@ ow.ly
 pad.mymovies.it
 partners.webmasterplan.com
 payments-graph.facebook.com
+people.webex.com
 pgl.yoyo.org
 pienissimo.pro
 pings.conviva.com
@@ -966,6 +968,7 @@ router.oneplus.com
 rum.hlx.page
 s.ekbl.net
 s.gateway.messenger.live.com
+s.kk-resources.com
 s.marketwatch.com
 s.saleswingsapp.com
 s.youtube.com
@@ -988,6 +991,7 @@ secure.avangate.com
 secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
+secureir.ebaystatic.com
 server.livehelp.it
 services.meteored.com
 services.sonarr.tv
@@ -1092,6 +1096,7 @@ web.facebook.com
 webexapis.com
 webs.com
 widget-cdn.rpxnow.com
+widget.feedaty.com
 widget.heres.ai
 widget.reviews.io
 widget.trustpilot.com
@@ -1113,6 +1118,7 @@ www.bfast.com
 www.bit.ly
 www.cc-dt.com
 www.cj.com
+www.comet.it
 www.dataplicity.com
 www.doubleclick.net
 www.dpbolvw.net
