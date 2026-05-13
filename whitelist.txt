@@ -7,22 +7,6 @@
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
 5231.xg4ken.com
-ulss6.cdn.webquality.it
-beacons5.gvt3.com
-provinciadipadova-appalti.maggiolicloud.it
-city-news.it
-external.citynews.it
-dl.dmp.citynews.ovh
-vector.smb.citynews.ovh
-citynews-padovaoggi.video-ad.stgy.ovh
-analisi.provincia.padova.it
-cdn.pushloop.io
-sdk.privacy-center.org
-glzlpuea.eup.stape.net
-access.eye-able.com
-cdn.eye-able.com
-panorama.wixapps.net
-sentry-next.wixpress.com
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
@@ -472,6 +456,7 @@ a.klaviyo.com
 a.tellonym.me
 aax-eu-zaz.amazon.it
 ab.chatgpt.com
+access.eye-able.com
 acconsento.click
 acdn.adnxs.com
 acr-config.aistrm.net
@@ -498,6 +483,7 @@ amzdigitaldownloads.edgesuite.net
 amzn.com
 amzn.to
 an1.asusappnw.com
+analisi.provincia.padova.it
 analytics.apis.mcafee.com
 anrdoezrs.net
 anydesk.my.salesforce-scrt.com
@@ -559,6 +545,7 @@ b1.nel.goog
 bam.nr-data.net
 beacon.shazam.com
 beaconimages.netflix.net
+beacons5.gvt3.com
 bfast.com
 bit.ly
 booking.lintahotelwellness.it
@@ -583,11 +570,13 @@ cdn.discordapp.com
 cdn.embedly.com
 cdn.engine.4dsply.com
 cdn.evgnet.com
+cdn.eye-able.com
 cdn.fbsbx.com
 cdn.leadinfo.net
 cdn.liftoff-creatives.io
 cdn.openshareweb.com
 cdn.optimizely.com
+cdn.pushloop.io
 cdn.raffle.ai
 cdn.ravelin.net
 cdn.taboola.com
@@ -604,6 +593,8 @@ cert.mgt.xboxlive.com
 chat.gaiagpt.me
 chat.supportbox.cz
 checkappexec.microsoft.com
+city-news.it
+citynews-padovaoggi.video-ad.stgy.ovh
 cj.com
 cj.dotomi.com
 cl.canva.com
@@ -676,6 +667,7 @@ directvnow.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
+dl.dmp.citynews.ovh
 dl.dropbox.com
 dl.dropboxusercontent.com
 dns.msftncsi.com
@@ -711,6 +703,7 @@ eu.icp.ids.api.iris.microsoft.com
 eu1-htp.tokenex.com
 events.gfe.nvidia.com
 events.mapbox.com
+eventtracking-eu1.hubapi.com
 evyy.net
 exchange.mediavine.com
 external-lhr0-1.xx.fbcdn.net
@@ -724,6 +717,7 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+external.citynews.it
 f1.media.brightcove.com
 facebook.com
 facebook.net
@@ -764,6 +758,7 @@ giphy.com
 github.com
 github.io
 global.azure-devices-provisioning.net
+glzlpuea.eup.stape.net
 go.eu.sparkpostmail1.com
 go.premierfarnell.com
 go.redirectingat.com
@@ -794,6 +789,7 @@ hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
 hs-147132234.f.hubspotemail-eu1.net
+hs-47965179.f.hubspotemail-eu1.net
 i.ytimg.com
 i1.ytimg.com
 icanhazip.com
@@ -925,6 +921,7 @@ outlook.live.com
 outlook.office365.com
 ow.ly
 pad.mymovies.it
+panorama.wixapps.net
 partners.webmasterplan.com
 payments-graph.facebook.com
 people.webex.com
@@ -949,6 +946,7 @@ privacyportal-de.onetrust.com
 prod.rewardsplatform.microsoft.com
 prodeu-stats.abbi.io
 products.office.com
+provinciadipadova-appalti.maggiolicloud.it
 proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
@@ -1000,6 +998,7 @@ safetrack.singular.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
+sdk.privacy-center.org
 sdk.split.io
 sdk.trackingplan.com
 sec-stat.blueshellcloud.com
@@ -1008,6 +1007,7 @@ secure.brightcove.com
 secure.netflix.com
 secure.surveymonkey.com
 secureir.ebaystatic.com
+sentry-next.wixpress.com
 server.livehelp.it
 services.meteored.com
 services.sonarr.tv
@@ -1091,6 +1091,7 @@ uc.asusappnw.com
 uc1.asusappnw.com
 uhf.microsoft.com
 ui.skype.com
+ulss6.cdn.webquality.it
 unagi-eu.amazon.com
 unagi-na.amazon.com
 unagi.amazon.it
@@ -1102,6 +1103,7 @@ v.firebog.net
 v4.api.ipinfo.io
 v6.api.ipinfo.io
 vast.doubleverify.com
+vector.smb.citynews.ovh
 videos.vidible.tv
 vidtech.cbsinteractive.com
 visit-server.inmobi-choice.io
