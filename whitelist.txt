@@ -6,7 +6,6 @@
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
-click.contatti.servizicliente.it
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
@@ -75,8 +74,8 @@ click.contatti.servizicliente.it
 @@||bosch-diy.com^
 @@||brave.com^
 @@||brave.eu^
-@@||braze.eu^
 @@||brother.com^
+@@||brother.eu^
 @@||brother.it^
 @@||brt.it^
 @@||brxcdn.com^
@@ -526,6 +525,7 @@ arc.msn.com
 argo.svcmot.com
 arl.assets.apl-alexa.com
 artsanaorg.my.salesforce-scrt.com
+artsanaspa.germany-2.evergage.com
 aspnetcdn.com
 assets.activity.windows.com
 assets.adobedtm.com
@@ -556,6 +556,7 @@ browser-intake-datadoghq.eu
 browser-intake-us5-datadoghq.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
+bucket.heres.ai
 c.disquscdn.com
 c.pki.goog
 c.s-microsoft.com
@@ -567,6 +568,7 @@ cdn.artsana.com
 cdn.cloudflare.net
 cdn.confiant-integrations.net
 cdn.cookielaw.org
+cdn.cquotient.com
 cdn.discordapp.com
 cdn.embedly.com
 cdn.engine.4dsply.com
@@ -600,6 +602,7 @@ cj.com
 cj.dotomi.com
 cl.canva.com
 clevertap-prod.com
+click.contatti.servizicliente.it
 click.linksynergy.com
 clicks.emails.n26.com
 clicks.satispay.com
@@ -641,6 +644,7 @@ cs.rssx.hp.com
 ctldl.windowsupdate.com
 cws.conviva.com
 cxcs.microsoft.net
+d.ratepay.com
 d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
 dafne.sirio.stbm.it
 dashboard.plex.tv
@@ -887,6 +891,7 @@ munchkin.marketo.net
 my.microsoftpersonalcontent.com
 my.plexapp.com
 myspace.com
+na-library.klarnaservices.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 nitroscripts.com
@@ -974,6 +979,7 @@ redirector.googlevideo.com
 region1.app-analytics-services-att.com
 region1.google-analytics.com
 rendering-images.inxshare.de
+reply.convenzioniaziendali.it
 res-1.public.onecdn.static.microsoft
 res.cloudinary.com
 res.public.onecdn.static.microsoft
@@ -1002,6 +1008,7 @@ scontent.xx.fbcdn.net
 sdk.privacy-center.org
 sdk.split.io
 sdk.trackingplan.com
+sdk.woosmap.com
 sec-stat.blueshellcloud.com
 secure.avangate.com
 secure.brightcove.com
@@ -1144,6 +1151,7 @@ www.dpbolvw.net
 www.ebayadservices.com
 www.emailimagecdn4htg.com
 www.emjcd.com
+www.everestgrp.com
 www.evyy.net
 www.google-analytics.com
 www.googleapis.com
