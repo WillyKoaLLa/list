@@ -8,7 +8,6 @@
 5-edge-chat.facebook.com
 5231.xg4ken.com
 6-edge-chat.facebook.com
-corporatebenefits.convenzioniaziendali.it
 7eer.net
 @@||9to5mac.com^
 @@||aaplimg.com^
@@ -113,6 +112,7 @@ corporatebenefits.convenzioniaziendali.it
 @@||comune.torino.it^
 @@||connectif.cloud^
 @@||consentmanager.net^
+@@||convenzioniaziendali.it^
 @@||country.is^
 @@||criteo.com^
 @@||crsend.com^
@@ -828,6 +828,7 @@ ipcast2.dynupdate.no-ip.com
 ipinfo.io
 ipv64.net
 iriscms.iris.microsoft.com
+it.vouchers-at-work.com
 itechhacks.com
 jdoqocy.com
 jgbdhjc.r.tsp1-brevo.net
@@ -980,7 +981,6 @@ redirector.googlevideo.com
 region1.app-analytics-services-att.com
 region1.google-analytics.com
 rendering-images.inxshare.de
-reply.convenzioniaziendali.it
 res-1.public.onecdn.static.microsoft
 res.cloudinary.com
 res.public.onecdn.static.microsoft
