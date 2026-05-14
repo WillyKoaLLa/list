@@ -428,6 +428,7 @@
 @@||visualstudio.com^
 @@||vittoriaassicurazioni.com^
 @@||vodafone.it^
+@@||vouchers-at-work.com^
 @@||waveshare.net^
 @@||waze.com^
 @@||webnode-com^
@@ -828,7 +829,6 @@ ipcast2.dynupdate.no-ip.com
 ipinfo.io
 ipv64.net
 iriscms.iris.microsoft.com
-it.vouchers-at-work.com
 itechhacks.com
 jdoqocy.com
 jgbdhjc.r.tsp1-brevo.net
