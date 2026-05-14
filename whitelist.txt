@@ -836,6 +836,7 @@ jo.my
 jquery.com
 js.chilipiper.com
 js.maxmind.com
+jsctool.com
 jsdelivr.net
 kataweb.it
 keap.page
