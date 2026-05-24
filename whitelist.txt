@@ -10,6 +10,9 @@
 6-edge-chat.facebook.com
 7eer.net
 be.bookingexpert.it
+webapi.deskline.net
+@@||booking.ericsoft.com^
+acsbapp.com
 cdn.bookingbooster.it
 @@||my-cdn.cloud^
 www.redditstatic.com
