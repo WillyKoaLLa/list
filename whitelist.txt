@@ -9,15 +9,6 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-be.bookingexpert.it
-webapi.deskline.net
-@@||booking.ericsoft.com^
-acsbapp.com
-cdn.bookingbooster.it
-@@||my-cdn.cloud^
-www.redditstatic.com
-solve-widget.forethought.ai
-@@||www.mybrt.it^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
@@ -156,6 +147,7 @@ solve-widget.forethought.ai
 @@||emarsys.net^
 @@||emmeennedolo.it^
 @@||emteria.com^
+@@||ericsoft.com^
 @@||eu.klarnaevt.com^
 @@||exct.net^
 @@||fabbri1905.com^
@@ -292,6 +284,7 @@ solve-widget.forethought.ai
 @@||musvc1.net^
 @@||musvc2.net^
 @@||muzi.works^
+@@||my-cdn.cloud^
 @@||myazimut.it^
 @@||n26.com^
 @@||netatmo.com^
@@ -371,6 +364,7 @@ solve-widget.forethought.ai
 @@||salewa.com^
 @@||satellitemap.space^
 @@||satnogs.org^
+@@||sbcdn.it^
 @@||sellagroup.eu^
 @@||sendibm1.com^
 @@||sentry-cdn.com^
@@ -455,6 +449,7 @@ solve-widget.forethought.ai
 @@||www.facebook.com^$important
 @@||www.instagram.com^$important
 @@||www.linkedin.com^$important
+@@||www.mybrt.it^
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
@@ -471,6 +466,7 @@ access.eye-able.com
 acconsento.click
 acdn.adnxs.com
 acr-config.aistrm.net
+acsbapp.com
 activate.adobe.com
 activity.windows.com
 ad.atdmt.com
@@ -483,6 +479,7 @@ aepxlg.adobe.com
 affiliatefuture.com
 afs.ampaeservices.com
 agestanet.risorseimmobiliari.it
+aggregator.service.usercentrics.eu
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -555,6 +552,7 @@ ax.phobos.apple.com.edgesuite.net
 aziendazero.my.salesforce-scrt.com
 b1.nel.goog
 bam.nr-data.net
+be.bookingexpert.it
 beacon.shazam.com
 beaconimages.netflix.net
 beacons5.gvt3.com
@@ -576,6 +574,7 @@ cc-api-data.adobe.io
 cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.artsana.com
+cdn.bookingbooster.it
 cdn.cloudflare.net
 cdn.confiant-integrations.net
 cdn.cookielaw.org
@@ -614,6 +613,7 @@ cj.dotomi.com
 cl.canva.com
 clevertap-prod.com
 click.contatti.servizicliente.it
+click.email.bbva.it
 click.linksynergy.com
 clicks.emails.n26.com
 clicks.satispay.com
@@ -696,6 +696,7 @@ dpm.demdex.net
 drift.com
 driftt.com
 dynupdate.no-ip.com
+e.telepassmailer.it
 e2c59.gcp.gvt2.com
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
@@ -903,6 +904,7 @@ munchkin.marketo.net
 my.microsoftpersonalcontent.com
 my.plexapp.com
 myspace.com
+n26-privacy.my.onetrust.com
 na-library.klarnaservices.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
@@ -1040,6 +1042,7 @@ skosm.klarna.com
 skyhook.sonarr.tv
 smetrics.bbva.es
 smetrics.bbva.it
+solve-widget.forethought.ai
 someonewhocares.org
 sooftware.com
 sp.booking.com
@@ -1108,6 +1111,7 @@ twimg.com
 twitter.com
 uc.asusappnw.com
 uc1.asusappnw.com
+udemyvaliditymx.everestengagement.com
 uhf.microsoft.com
 ui.skype.com
 ulss6.cdn.webquality.it
@@ -1130,6 +1134,7 @@ wa.tenor.co
 wago.twentythree.com
 wdcp.microsoft.com
 web.facebook.com
+webapi.deskline.net
 webexapis.com
 webs.com
 widget-cdn.rpxnow.com
@@ -1186,6 +1191,7 @@ www.pntra.com
 www.pntrac.com
 www.pntrack.com
 www.qksrv.net
+www.redditstatic.com
 www.reply.oneflex.aon.it
 www.rnengage.com
 www.shareaholic.net
