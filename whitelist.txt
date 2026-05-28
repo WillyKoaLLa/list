@@ -10,7 +10,6 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
-@@||tigota.it^
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
@@ -399,6 +398,7 @@
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
 @@||thefork.com^
+@@||tigota.it^
 @@||tiktokcdn-eu.com^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
@@ -576,6 +576,7 @@ cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.artsana.com
 cdn.bookingbooster.it
+cdn.caast.tv
 cdn.cloudflare.net
 cdn.confiant-integrations.net
 cdn.cookielaw.org
@@ -1075,6 +1076,7 @@ t.ly
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.subito.it
+targetemsecure.blob.core.windows.net
 tawk.to
 tc.tradetracker.com
 teams.microsoft.com
