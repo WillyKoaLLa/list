@@ -8,8 +8,6 @@
 5-edge-chat.facebook.com
 5231.xg4ken.com
 6-edge-chat.facebook.com
-assistenza-telepass.mailmnta.com
-gchahfh.r.tsp1-brevo.net
 7eer.net
 @@||9to5mac.com^
 @@||aaplimg.com^
@@ -84,7 +82,7 @@ gchahfh.r.tsp1-brevo.net
 @@||bsmart.it^
 @@||c.time1.me^
 @@||caasbbva.com^
-@@||canva.link^$important
+@@||canva.link^
 @@||cathopedia.org^
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
@@ -177,7 +175,7 @@ gchahfh.r.tsp1-brevo.net
 @@||gfe.nvidia.com^
 @@||giallozafferano.it^
 @@||gioiellidivalenza.com^
-@@||git.community-scripts.org^$important
+@@||git.community-scripts.org^
 @@||github.com^
 @@||glauco.it^
 @@||gmail.com^
@@ -202,7 +200,7 @@ gchahfh.r.tsp1-brevo.net
 @@||homey.app^
 @@||hsforms.net^
 @@||huqindustries.co.uk^
-@@||i.instagram.com^$important
+@@||i.instagram.com^
 @@||ib.adnxs.com^
 @@||icloud.com^
 @@||idealista.it^
@@ -449,9 +447,9 @@ gchahfh.r.tsp1-brevo.net
 @@||wpad.work^
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
-@@||www.facebook.com^$important
-@@||www.instagram.com^$important
-@@||www.linkedin.com^$important
+@@||www.facebook.com^
+@@||www.instagram.com^
+@@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||x.com^
 @@||xtracloud.net^
@@ -543,6 +541,7 @@ assets.adobedtm.com
 assets.evolutionadv.it
 assisiofm.img.musvc6.net
 assisiofm.musvc6.net
+assistenza-telepass.mailmnta.com
 attestation.xboxlive.com
 audio-ake.spotify.com.edgesuite.net
 audio-prod.cdnilpost.com
@@ -768,6 +767,7 @@ gateway-outlook.bingviz.com
 gateway.bingviz.microsoftapp.net
 gateway.instagram.com
 gateway.unityads.unity3d.com
+gchahfh.r.tsp1-brevo.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.geoproapp.com
 geo.prod.do.dsp.mp.microsoft.com
