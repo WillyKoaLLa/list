@@ -292,6 +292,7 @@
 @@||netflix.com^
 @@||newoaks.ai^
 @@||news.email.ikea.it^
+@@||news.email.ikea.com^
 @@||nexigroup.com^
 @@||nextlgsdp.com^
 @@||nmrodam.com^
