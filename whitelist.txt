@@ -90,6 +90,7 @@
 @@||cdn.optimizely.com^
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
+@@||cdn.webquality.it^
 @@||cdn2.chrzz.com^
 @@||cdngslb.com^
 @@||cdninstagram.com^
@@ -109,6 +110,7 @@
 @@||cloudflare.net^
 @@||cloudfront.net^
 @@||clvaw-cdnwnd.com^
+@@||comune.padova.it^
 @@||comune.torino.it^
 @@||connectif.cloud^
 @@||consentmanager.net^
@@ -291,8 +293,8 @@
 @@||netatmo.net^
 @@||netflix.com^
 @@||newoaks.ai^
-@@||news.email.ikea.it^
 @@||news.email.ikea.com^
+@@||news.email.ikea.it^
 @@||nexigroup.com^
 @@||nextlgsdp.com^
 @@||nmrodam.com^
@@ -459,6 +461,7 @@
 @@||youtube.com^
 @@||yuka.io^
 @@||zepp.com^
+@@||zerocoda.it^
 @@||zigpoll.com^
 @@||zohopublic.com^
 @@||zoom.us^
