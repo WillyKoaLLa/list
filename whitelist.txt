@@ -13,6 +13,12 @@
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
+@@||smetrics.unipolsai.it^
+@@||unipol.data.adobedc.net^
+@@||medallia2.map.fastly.net^
+@@||www.fully-kiosk.com^
+@@||mas-sdk.amazon.com^
+@@||hs-sites-eu1.com^
 @@||adapty.io^
 @@||adblockplus.dev^
 @@||adblockplus.org^
