@@ -9,6 +9,8 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+@@||api.app.consorzioarsenal.it^
+@@||ingestion.webanalytics.italia.it^
 @@||www.volkswagen.it^
 @@||www.volkswagen.com^
 @@||9to5mac.com^
