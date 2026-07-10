@@ -9,20 +9,10 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-@@||api.app.consorzioarsenal.it^
-@@||ingestion.webanalytics.italia.it^
-@@||www.volkswagen.it^
-@@||www.volkswagen.com^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
-@@||smetrics.unipolsai.it^
-@@||unipol.data.adobedc.net^
-@@||medallia2.map.fastly.net^
-@@||www.fully-kiosk.com^
-@@||mas-sdk.amazon.com^
-@@||hs-sites-eu1.com^
 @@||adapty.io^
 @@||adblockplus.dev^
 @@||adblockplus.org^
@@ -46,6 +36,7 @@
 @@||aosom.it^
 @@||aosomcdn.com^
 @@||apertis.org^
+@@||api.app.consorzioarsenal.it^
 @@||api.cooldata.com^
 @@||api.onesignal.com^
 @@||apolloautomation.com^
@@ -120,6 +111,7 @@
 @@||cloudflare.net^
 @@||cloudfront.net^
 @@||clvaw-cdnwnd.com^
+@@||community-scripts.org^
 @@||comune.padova.it^
 @@||comune.torino.it^
 @@||connectif.cloud^
@@ -187,7 +179,6 @@
 @@||gfe.nvidia.com^
 @@||giallozafferano.it^
 @@||gioiellidivalenza.com^
-@@||git.community-scripts.org^
 @@||github.com^
 @@||glauco.it^
 @@||gmail.com^
@@ -210,6 +201,7 @@
 @@||hirose.com^
 @@||hmxmedia.com^
 @@||homey.app^
+@@||hs-sites-eu1.com^
 @@||hsforms.net^
 @@||huqindustries.co.uk^
 @@||i.instagram.com^
@@ -226,6 +218,7 @@
 @@||imgur.com^
 @@||immobiliare.it^
 @@||in.cuebiq.com^
+@@||ingestion.webanalytics.italia.it^
 @@||intel.com^
 @@||intellijend.com^
 @@||intercom.io^
@@ -270,10 +263,12 @@
 @@||manga10.com^
 @@||manuals.plus^
 @@||marketingcloudapis.com^
+@@||mas-sdk.amazon.com^
 @@||massgrave.dev^
 @@||mattinopadova.it^
 @@||measure.office.com^
 @@||measure.office.net^
+@@||medallia2.map.fastly.net^
 @@||medialabtc.it^
 @@||mediaset.it^
 @@||meethue.com^
@@ -394,6 +389,7 @@
 @@||skype.com^
 @@||smartclip.net^
 @@||smartscreen.microsoft.com^
+@@||smetrics.unipolsai.it^
 @@||snapkit.com^
 @@||sorgenia.it^
 @@||sp1-brevo.net^
@@ -435,6 +431,7 @@
 @@||ui.direct^
 @@||unhcr.it^
 @@||unieuro.com^
+@@||unipol.data.adobedc.net^
 @@||unipolmove.it^
 @@||unpkg.com^
 @@||update.microsoft.com^
@@ -463,9 +460,12 @@
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
 @@||www.facebook.com^
+@@||www.fully-kiosk.com^
 @@||www.instagram.com^
 @@||www.linkedin.com^
 @@||www.mybrt.it^
+@@||www.volkswagen.com^
+@@||www.volkswagen.it^
 @@||x.com^
 @@||xtracloud.net^
 @@||youtube.com^
