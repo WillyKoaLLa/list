@@ -10,6 +10,8 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||eventbrite.it^
+@@||manualeduso.it^
+@@||scdn.autodoc.de^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
