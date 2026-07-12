@@ -16,6 +16,7 @@
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
+@@||book.octorate.com^
 @@||adapty.io^
 @@||adblockplus.dev^
 @@||adblockplus.org^
