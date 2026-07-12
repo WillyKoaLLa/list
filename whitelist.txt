@@ -9,6 +9,11 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+@@||events.newsroom.bi^
+@@||sdk.mrf.io^
+@@||widget.customer-alliance.com^
+@@||oliocentonze.com^
+@@||agriturismo-case-sgaraglino.siciliaesardegna.it^
 @@||eventbrite.it^
 @@||manualeduso.it^
 @@||scdn.autodoc.de^
@@ -1069,7 +1074,11 @@ smetrics.bbva.it
 solve-widget.forethought.ai
 someonewhocares.org
 sooftware.com
-sp.booking.com
+@@||booking.com^
+@@||fastbooking-services.com^
+@@||hopps-hotel.ms3.decms.eu^
+@@||consent.cookiefirst.com^
+@@||villaaltair9764.live-website.com^
 spclient.wg.spotify.com
 spov-ring-fallback.msedge.net
 sqs.us-east-1.amazonaws.com
