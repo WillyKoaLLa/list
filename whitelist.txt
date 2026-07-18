@@ -9,8 +9,6 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-@@||media.weicola.it^
-@@||livechat.ekonsilio.io^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
@@ -110,6 +108,7 @@
 @@||cleverreach.com^
 @@||clockwork.com^
 @@||clockwork.wiki^
+@@||cloud.volkswagengroup.it^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflare.net^
@@ -127,6 +126,8 @@
 @@||ct1.cloudfront.crowd-umlaut.com^
 @@||dam-braodcast.com^
 @@||data.microsoft.com^
+@@||dealerk.com^
+@@||dealerk.it^
 @@||deepl.com^
 @@||dell.com^
 @@||dell.it^
@@ -180,6 +181,7 @@
 @@||freedome.it^
 @@||g.bing.com^
 @@||genu.us^
+@@||gestionaleauto.com^
 @@||get.xometry.eu^
 @@||gewiss.com^
 @@||gfe.nvidia.com^
@@ -252,8 +254,10 @@
 @@||lgthinq.com^
 @@||lgwebostv.com^
 @@||licdn.com^
+@@||lighthouselabs.eu^
 @@||linkedin.com^
 @@||live.com^
+@@||livechat.ekonsilio.io^
 @@||livestory.io^
 @@||local^
 @@||loescher.it^
@@ -268,6 +272,7 @@
 @@||mandrillapp.com^
 @@||manga10.com^
 @@||manuals.plus^
+@@||maps.motork.io^
 @@||marketingcloudapis.com^
 @@||mas-sdk.amazon.com^
 @@||massgrave.dev^
@@ -275,6 +280,7 @@
 @@||measure.office.com^
 @@||measure.office.net^
 @@||medallia2.map.fastly.net^
+@@||media.weicola.it^
 @@||medialabtc.it^
 @@||mediaset.it^
 @@||meethue.com^
@@ -407,6 +413,7 @@
 @@||stncdn.it^
 @@||stroilioro.com^
 @@||suedtirol.live^
+@@||superautospa.it^
 @@||swarovski.com^
 @@||synology.me^
 @@||t.me^
@@ -431,6 +438,7 @@
 @@||trovaprezzi.it^
 @@||trusteer.com^
 @@||ttcache.com^
+@@||ttr-group.de^
 @@||tvtime.com^
 @@||twingate.com^
 @@||ubnt.com^
@@ -452,6 +460,7 @@
 @@||vittoriaassicurazioni.com^
 @@||vodafone.it^
 @@||vouchers-at-work.com^
+@@||vwonehub.io^
 @@||waveshare.net^
 @@||waze.com^
 @@||webnode-com^
