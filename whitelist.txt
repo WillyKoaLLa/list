@@ -107,6 +107,7 @@
 @@||chumenwenwen.com^
 @@||clarity.ms^
 @@||cleverreach.com^
+@@||click.mambasendtrack.com^
 @@||clockwork.com^
 @@||clockwork.wiki^
 @@||cloud.volkswagengroup.it^
@@ -273,6 +274,7 @@
 @@||macrumors.com^
 @@||mail.thespacecinema.it^
 @@||mainadv.com^
+@@||mambasms.com^
 @@||mandrillapp.com^
 @@||manga10.com^
 @@||manuals.plus^
