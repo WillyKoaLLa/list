@@ -99,6 +99,7 @@
 @@||cdninstagram.com^
 @@||cdp.it^
 @@||cedacrigroup.it^
+@@||central-service-juice.world^
 @@||cf.bnlpay-hellopay.it^
 @@||changelly.com^
 @@||cheerz.com^
@@ -113,6 +114,7 @@
 @@||cloudflare.com^
 @@||cloudflare.net^
 @@||cloudfront.net^
+@@||cloudlift.app^
 @@||clvaw-cdnwnd.com^
 @@||community-scripts.org^
 @@||comune.padova.it^
@@ -141,6 +143,7 @@
 @@||disqus.com^
 @@||dns.google^
 @@||dolomitienergia.it^
+@@||dolomitienergiaholding.musvc3.net^
 @@||dp-gw-na.amazon.com^
 @@||dpm.demdex.net^
 @@||drbuho.com^
@@ -167,6 +170,7 @@
 @@||fastweb.it^
 @@||fattoincasadabenedetta.it^
 @@||fbcdn.net^
+@@||fbpigeon.com^
 @@||ferrerorocher.com^
 @@||fibra.click^
 @@||fideuram.it^
@@ -333,6 +337,7 @@
 @@||oraclecloudapps.com^
 @@||ortovox.com^
 @@||overpass-turbo.eu^
+@@||p.typekit.net^
 @@||page.link^
 @@||pago.pa.it^
 @@||pagopa.it^
