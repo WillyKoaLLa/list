@@ -320,6 +320,7 @@
 @@||news.email.ikea.it^
 @@||nexigroup.com^
 @@||nextlgsdp.com^
+@@||nflxvideo.net^
 @@||nmrodam.com^
 @@||noip.com^
 @@||nothingtech.link^
