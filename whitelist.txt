@@ -51,6 +51,7 @@
 @@||asdecemberfalls.store^
 @@||askubuntu.com^
 @@||asnapieu.com^
+@@||assets.cloudlift.app^
 @@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
@@ -261,6 +262,7 @@
 @@||licdn.com^
 @@||lighthouselabs.eu^
 @@||linkedin.com^
+@@||live.car-cloud.org^
 @@||live.com^
 @@||livechat.ekonsilio.io^
 @@||livestory.io^
