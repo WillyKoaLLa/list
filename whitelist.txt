@@ -52,6 +52,7 @@
 @@||askubuntu.com^
 @@||asnapieu.com^
 @@||assets.cloudlift.app^
+@@||assets.cloudlift.app^
 @@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
@@ -70,6 +71,7 @@
 @@||bbvaexperience.com^
 @@||beddy.io^
 @@||beekeeperstudio.io^
+@@||bingapiauth.sapphire.microsoftapp.net^
 @@||bixgrow.com^
 @@||blackvoid.club^
 @@||bluespirit.com^
@@ -336,6 +338,7 @@
 @@||okaidi.it^
 @@||olimex.com^
 @@||omtrdc.net^
+@@||onlinetruffles-grpc-v1-eu.live.car-cloud.org^
 @@||opecloud.com^
 @@||opencompute.org^
 @@||openfiber.it^
@@ -368,6 +371,7 @@
 @@||pushio.com^
 @@||pvehs.com^
 @@||px-cloud.net^
+@@||quadientcloud.eu^
 @@||quickconnect.to^
 @@||rai.it^
 @@||raiplay.it^
@@ -397,6 +401,7 @@
 @@||satnogs.org^
 @@||sbcdn.it^
 @@||sdk.mrf.io^
+@@||sdk.yolanda.hk^
 @@||sellagroup.eu^
 @@||sendibm1.com^
 @@||sentry-cdn.com^
