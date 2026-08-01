@@ -9,7 +9,6 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-@@||api.electroverse.com^
 @@||9to5mac.com^
 @@||aaplimg.com^
 @@||abbi.io^
@@ -40,6 +39,7 @@
 @@||apertis.org^
 @@||api.app.consorzioarsenal.it^
 @@||api.cooldata.com^
+@@||api.electroverse.com^
 @@||api.onesignal.com^
 @@||apolloautomation.com^
 @@||app-analytics-services.com^
@@ -121,10 +121,12 @@
 @@||cloudfront.net^
 @@||cloudlift.app^
 @@||clvaw-cdnwnd.com^
+@@||codes.rewardcodes.com^
 @@||community-scripts.org^
 @@||comune.padova.it^
 @@||comune.torino.it^
 @@||connectif.cloud^
+@@||consent.trustarc.com^
 @@||consentmanager.net^
 @@||convenzioniaziendali.it^
 @@||country.is^
@@ -302,6 +304,7 @@
 @@||meshcore.dev^
 @@||meshy.ai^
 @@||meteotrentino.it^
+@@||microsoftrewards.com^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
 @@||mondadoristore.it^
@@ -389,6 +392,7 @@
 @@||reply.it^
 @@||replynet.prv^
 @@||revolut.com^
+@@||rewardlink.com^
 @@||riscosopen.org^
 @@||rockstargames.com^
 @@||rottentomatoes.com^
@@ -396,6 +400,7 @@
 @@||rpishop.cz^
 @@||rptl.io^
 @@||rt.oraclevb.com^
+@@||rum-ingress-coralogix.com^
 @@||s.fluxtech.ai^
 @@||salewa.com^
 @@||satellitemap.space^
