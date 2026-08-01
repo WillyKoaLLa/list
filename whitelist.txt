@@ -10,6 +10,7 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||9to5mac.com^
+@@||aa.agkn.com^
 @@||aaplimg.com^
 @@||abbi.io^
 @@||ad-score.com^
@@ -54,6 +55,7 @@
 @@||asnapieu.com^
 @@||assets.cloudlift.app^
 @@||assets.cloudlift.app^
+@@||assets.ryanair.com^
 @@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
@@ -133,6 +135,7 @@
 @@||criteo.com^
 @@||crsend.com^
 @@||ct1.cloudfront.crowd-umlaut.com^
+@@||d8c14d4960ca.edge.sdk.awswaf.com^
 @@||dam-braodcast.com^
 @@||data.microsoft.com^
 @@||dealerk.com^
@@ -222,6 +225,7 @@
 @@||homey.app^
 @@||hs-sites-eu1.com^
 @@||hsforms.net^
+@@||hub-static.wayndata.com^
 @@||huqindustries.co.uk^
 @@||i.instagram.com^
 @@||ib.adnxs.com^
@@ -503,6 +507,7 @@
 @@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
+@@||www.securitytrfx.com^
 @@||www.volkswagen.com^
 @@||www.volkswagen.it^
 @@||x.com^
