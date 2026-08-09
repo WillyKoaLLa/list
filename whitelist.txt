@@ -19,6 +19,7 @@
 @@||adblockplus.dev^
 @@||adblockplus.org^
 @@||adjust.com^
+@@||admin.convy.ai^
 @@||adsb.im^
 @@||ae.nflximg.net^
 @@||agriturismo-case-sgaraglino.siciliaesardegna.it^
@@ -29,7 +30,10 @@
 @@||akamaiedge.net^
 @@||alfabeto-fideuram-it.ispgs.net^
 @@||alisupermercati.it^
+@@||allianz.com^
+@@||allianz.it^
 @@||allianzbank.it^
+@@||allianzdirect.com^
 @@||altervista.org^
 @@||amazon-dss.com^
 @@||amazonaws.com^
@@ -214,6 +218,7 @@
 @@||googlevideo.com^
 @@||growthbook.io^
 @@||gruppohera.it^
+@@||gruppomol.it^
 @@||gruppomps.it^
 @@||gruppoveritas.it^
 @@||gstatic.com^
@@ -229,6 +234,7 @@
 @@||hsforms.net^
 @@||hub-static.wayndata.com^
 @@||huqindustries.co.uk^
+@@||hywax.space^
 @@||i.instagram.com^
 @@||ib.adnxs.com^
 @@||icloud.com^
@@ -314,6 +320,7 @@
 @@||microsoftrewards.com^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
+@@||moda-cdp-message-prd-7jirubb0.uc.gateway.dev^
 @@||mondadoristore.it^
 @@||moodeaudio.org^
 @@||moodlebox.net^
@@ -338,6 +345,7 @@
 @@||nextlgsdp.com^
 @@||nflxvideo.net^
 @@||nmrodam.com^
+@@||no-track.as93.net^
 @@||noip.com^
 @@||nothingtech.link^
 @@||notifichedigitali.it^
@@ -371,6 +379,7 @@
 @@||photosi.online^
 @@||picoreplayer.org^
 @@||pinterest.com^
+@@||pixelflare.cc^
 @@||pndsn.com^
 @@||posit.com^
 @@||prenatal.com^
@@ -417,6 +426,7 @@
 @@||sbcdn.it^
 @@||sdk.mrf.io^
 @@||sdk.yolanda.hk^
+@@||segugio.it^
 @@||sellagroup.eu^
 @@||sendibm1.com^
 @@||sentry-cdn.com^
