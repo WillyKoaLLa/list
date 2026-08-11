@@ -9,6 +9,7 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+@@||0.datadog.pool.ntp.org^
 @@||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
 @@||9to5mac.com^
 @@||aa.agkn.com^
@@ -79,6 +80,7 @@
 @@||beddy.io^
 @@||beekeeperstudio.io^
 @@||bingapiauth.sapphire.microsoftapp.net^
+@@||bingclientmsa.sapphire.microsoftapp.net^
 @@||bixgrow.com^
 @@||blackvoid.club^
 @@||bluespirit.com^
@@ -87,6 +89,7 @@
 @@||bosch-diy.com^
 @@||brave.com^
 @@||brave.eu^
+@@||brother.boost.ai^
 @@||brother.com^
 @@||brother.eu^
 @@||brother.it^
@@ -143,6 +146,7 @@
 @@||d8c14d4960ca.edge.sdk.awswaf.com^
 @@||dam-braodcast.com^
 @@||data.microsoft.com^
+@@||dc-genai-access-provisioning-api.adobe.io^
 @@||dealerk.com^
 @@||dealerk.it^
 @@||deepl.com^
@@ -410,6 +414,7 @@
 @@||replynet.prv^
 @@||revolut.com^
 @@||rewardlink.com^
+@@||rewardscdn.sapphire.microsoftapp.net^
 @@||riscosopen.org^
 @@||rockstargames.com^
 @@||rottentomatoes.com^
@@ -421,6 +426,7 @@
 @@||ryanair.com^
 @@||s.fluxtech.ai^
 @@||salewa.com^
+@@||sapphire.api.microsoftapp.net^
 @@||satellitemap.space^
 @@||satnogs.org^
 @@||sbcdn.it^
@@ -438,6 +444,7 @@
 @@||shelly.com^
 @@||shopifycdn.net^
 @@||shortest-route.com^
+@@||skan.singular.net^
 @@||skylinewebcams.com^
 @@||skype.com^
 @@||smartclip.net^
@@ -456,7 +463,9 @@
 @@||superautospa.it^
 @@||swarovski.com^
 @@||synology.me^
+@@||t.mail.quimamme.it^
 @@||t.me^
+@@||tabletcaptiveportal.com^
 @@||tailscale.com^
 @@||teatrolascala.org^
 @@||tech26.de^
@@ -503,6 +512,7 @@
 @@||vwonehub.io^
 @@||waveshare.net^
 @@||waze.com^
+@@||weathercdn.sapphire.microsoftapp.net^
 @@||webnode-com^
 @@||whatsapp.com^
 @@||whatsapp.net^
