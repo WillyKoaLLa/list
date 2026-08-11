@@ -103,6 +103,7 @@
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
 @@||cdn-cookieyes.com^
+@@||cdn.imagin.studio^
 @@||cdn.optimizely.com^
 @@||cdn.preciso.net^
 @@||cdn.tagcommander.com^
