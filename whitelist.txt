@@ -121,6 +121,7 @@
 @@||chumenwenwen.com^
 @@||clarity.ms^
 @@||cleverreach.com^
+@@||click.e.crm.lego.com^
 @@||click.mambasendtrack.com^
 @@||clockwork.com^
 @@||clockwork.wiki^
@@ -179,6 +180,7 @@
 @@||emarsys.net^
 @@||emmeennedolo.it^
 @@||emteria.com^
+@@||eniplenitude.com^
 @@||ericsoft.com^
 @@||eu.klarnaevt.com^
 @@||eventbrite.it^
