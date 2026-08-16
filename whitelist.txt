@@ -10,6 +10,7 @@
 6-edge-chat.facebook.com
 7eer.net
 @@||0.datadog.pool.ntp.org^
+@@||3dgo.app^
 @@||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
 @@||9to5mac.com^
 @@||aa.agkn.com^
@@ -165,6 +166,7 @@
 @@||dns.google^
 @@||dolomitienergia.it^
 @@||dolomitienergiaholding.musvc3.net^
+@@||download.se.com^
 @@||dp-gw-na.amazon.com^
 @@||dpm.demdex.net^
 @@||drbuho.com^
@@ -183,6 +185,7 @@
 @@||emteria.com^
 @@||eniplenitude.com^
 @@||ericsoft.com^
+@@||eu-tracks.trackingplan.com^
 @@||eu.klarnaevt.com^
 @@||eventbrite.it^
 @@||events.newsroom.bi^
@@ -194,6 +197,7 @@
 @@||fattoincasadabenedetta.it^
 @@||fbcdn.net^
 @@||fbpigeon.com^
+@@||fe-mn1.magnews.net^
 @@||ferrerorocher.com^
 @@||fibra.click^
 @@||fideuram.it^
@@ -242,6 +246,7 @@
 @@||hub-static.wayndata.com^
 @@||huqindustries.co.uk^
 @@||hywax.space^
+@@||i.ibb.co^
 @@||i.instagram.com^
 @@||ib.adnxs.com^
 @@||icloud.com^
@@ -415,6 +420,7 @@
 @@||reply.eu^
 @@||reply.it^
 @@||replynet.prv^
+@@||report-uri.com^
 @@||revolut.com^
 @@||rewardlink.com^
 @@||rewardscdn.sapphire.microsoftapp.net^
@@ -435,6 +441,7 @@
 @@||sbcdn.it^
 @@||sdk.mrf.io^
 @@||sdk.yolanda.hk^
+@@||sefaq.report-uri.com^
 @@||segugio.it^
 @@||sellagroup.eu^
 @@||sendibm1.com^
@@ -496,6 +503,7 @@
 @@||ubnt.com^
 @@||ui.com^
 @@||ui.direct^
+@@||uiaas.myschneider.se.com^
 @@||unhcr.it^
 @@||unieuro.com^
 @@||unipol.data.adobedc.net^
@@ -527,6 +535,7 @@
 @@||wittytv.it^
 @@||wk-cdn.it^
 @@||wpad.work^
+@@||wsrv.3dprinterfiles.com^
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
 @@||www.facebook.com^
