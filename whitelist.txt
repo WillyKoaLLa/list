@@ -183,12 +183,12 @@
 @@||emarsys.net^
 @@||emmeennedolo.it^
 @@||emteria.com^
-@@||enelitalia.demdex.net^$
+@@||enelitalia.demdex.net^
 @@||eniplenitude.com^
 @@||ericsoft.com^
 @@||eu-tracks.trackingplan.com^
 @@||eu.klarnaevt.com^
-@@||eventbrite.com^$
+@@||eventbrite.com^
 @@||eventbrite.it^
 @@||events.newsroom.bi^
 @@||exct.net^
@@ -456,7 +456,7 @@
 @@||shelly.com^
 @@||shopifycdn.net^
 @@||shortest-route.com^
-@@||siteintercept.qualtrics.com^$
+@@||siteintercept.qualtrics.com^
 @@||skan.singular.net^
 @@||skylinewebcams.com^
 @@||skype.com^
