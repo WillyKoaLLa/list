@@ -9,6 +9,7 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
+@@||cdn.paypal.dev.cjmadobe.com^
 @@||0.datadog.pool.ntp.org^
 @@||3dgo.app^
 @@||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
