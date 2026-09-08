@@ -9,14 +9,6 @@
 5231.xg4ken.com
 6-edge-chat.facebook.com
 7eer.net
-@@||cdn.paypal.dev.cjmadobe.com^
-@@||lac.sfapp.magefan.top^
-@@||july.klarinsights.net^
-@@||procdn.swymrelay.com^
-@@||electroverse.com^
-@@||mailgun.org^
-@@||beefree-storage.os-content.com^
-@@||kcb35867.1sgnl.co^
 @@||0.datadog.pool.ntp.org^
 @@||3dgo.app^
 @@||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
@@ -87,6 +79,7 @@
 @@||batch.com^
 @@||bbvaexperience.com^
 @@||beddy.io^
+@@||beefree-storage.os-content.com^
 @@||beekeeperstudio.io^
 @@||bingapiauth.sapphire.microsoftapp.net^
 @@||bingclientmsa.sapphire.microsoftapp.net^
@@ -114,6 +107,7 @@
 @@||cdn-cookieyes.com^
 @@||cdn.imagin.studio^
 @@||cdn.optimizely.com^
+@@||cdn.paypal.dev.cjmadobe.com^
 @@||cdn.preciso.net^
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
@@ -188,6 +182,7 @@
 @@||ebay.com^
 @@||ecoflow.com^
 @@||edenred.io^
+@@||electroverse.com^
 @@||emarsys.net^
 @@||emmeennedolo.it^
 @@||emteria.com^
@@ -286,18 +281,20 @@
 @@||italotreno.it^
 @@||iubenda.com^
 @@||izatcloud.net^
+@@||july.klarinsights.net^
 @@||kaltura.com^
 @@||kastellatz.it^
+@@||kcb35867.1sgnl.co^
 @@||kleintools.io^
 @@||kmsmep.com^
 @@||knipex.com^
 @@||kobo.com^
 @@||koordinates.com^
+@@||lac.sfapp.magefan.top^
 @@||lafeltrinelli.it^
 @@||lambda.ai^
 @@||lantern.roeyecdn.com^
 @@||lav.it^
-@@||lgthinq.com^
 @@||lgwebostv.com^
 @@||licdn.com^
 @@||lighthouselabs.eu^
@@ -315,6 +312,7 @@
 @@||m365cdn.nel.measure.office.net^
 @@||macrumors.com^
 @@||mail.thespacecinema.it^
+@@||mailgun.org^
 @@||mainadv.com^
 @@||mambasms.com^
 @@||mandrillapp.com^
@@ -364,7 +362,6 @@
 @@||news.email.ikea.com^
 @@||news.email.ikea.it^
 @@||nexigroup.com^
-@@||nextlgsdp.com^
 @@||nflxvideo.net^
 @@||nmrodam.com^
 @@||no-track.as93.net^
@@ -408,6 +405,7 @@
 @@||previmedical.it^
 @@||previnet.it^
 @@||primevideo.com^
+@@||procdn.swymrelay.com^
 @@||prodregistryv2.org^
 @@||prusa3d.com^
 @@||prusax.com^
