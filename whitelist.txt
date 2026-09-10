@@ -16,6 +16,7 @@
 @@||aa.agkn.com^
 @@||aaplimg.com^
 @@||abbi.io^
+@@||account.quadlockcase.eu^
 @@||ad-score.com^
 @@||adapty.io^
 @@||adblockplus.dev^
@@ -52,6 +53,8 @@
 @@||apolloautomation.com^
 @@||app-analytics-services.com^
 @@||app-measurement.com^
+@@||app.consentmo.com^
+@@||app.orderediting.com^
 @@||app.usercentrics.eu^
 @@||appcenter.ms^
 @@||apple-dns.net^
@@ -61,6 +64,7 @@
 @@||askubuntu.com^
 @@||asnapieu.com^
 @@||assets.cloudlift.app^
+@@||assets.oneweb.mercedes-benz.com^
 @@||assets.ryanair.com^
 @@||asus.com^
 @@||atlassian.com^
@@ -101,6 +105,7 @@
 @@||c.time1.me^
 @@||caasbbva.com^
 @@||canva.link^
+@@||carmanuals2.com^
 @@||cathopedia.org^
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
@@ -253,6 +258,7 @@
 @@||hywax.space^
 @@||i.ibb.co^
 @@||i.instagram.com^
+@@||i18n.oneweb.mercedes-benz.com^
 @@||ib.adnxs.com^
 @@||icloud.com^
 @@||idealista.it^
@@ -326,6 +332,7 @@
 @@||measure.office.com^
 @@||measure.office.net^
 @@||medallia2.map.fastly.net^
+@@||media.oneweb.mercedes-benz.com^
 @@||media.weicola.it^
 @@||medialabtc.it^
 @@||mediaset.it^
@@ -460,6 +467,7 @@
 @@||services.gruppodolomitienergia.it^
 @@||shelly.cloud^
 @@||shelly.com^
+@@||shopify-gtm-suite.getelevar.com^
 @@||shopifycdn.net^
 @@||shortest-route.com^
 @@||siteintercept.qualtrics.com^
@@ -553,6 +561,7 @@
 @@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
+@@||www.quadlockcase.eu^
 @@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
 @@||www.volkswagen.com^
