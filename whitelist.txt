@@ -145,6 +145,7 @@
 @@||community-scripts.org^
 @@||comune.padova.it^
 @@||comune.torino.it^
+@@||connect.volkswagen.com^
 @@||connectif.cloud^
 @@||consent.trustarc.com^
 @@||consentmanager.net^
@@ -398,6 +399,7 @@
 @@||pancakeswap.finance^
 @@||pandora.net^
 @@||panocloud.webcam^
+@@||passostelvio.webcam^
 @@||pastebin.com^
 @@||payback.it^
 @@||paypal.com^
