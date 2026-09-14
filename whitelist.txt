@@ -501,6 +501,7 @@
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
 @@||theapplewiki.com^
+@@||theapplewiki.com^
 @@||thefork.com^
 @@||tigota.it^
 @@||tiktokcdn-eu.com^
@@ -559,12 +560,15 @@
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
 @@||www.dhl.com^
+@@||www.dhl.com^
+@@||www.electroyou.it^
 @@||www.facebook.com^
 @@||www.fully-kiosk.com^
 @@||www.instagram.com^
 @@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
+@@||www.poliziadistato.it^
 @@||www.quadlockcase.eu^
 @@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
