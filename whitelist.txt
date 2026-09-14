@@ -500,6 +500,7 @@
 @@||tech26.de^
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
+@@||theapplewiki.com^
 @@||thefork.com^
 @@||tigota.it^
 @@||tiktokcdn-eu.com^
@@ -557,6 +558,7 @@
 @@||wsrv.3dprinterfiles.com^
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
+@@||www.dhl.com^
 @@||www.facebook.com^
 @@||www.fully-kiosk.com^
 @@||www.instagram.com^
