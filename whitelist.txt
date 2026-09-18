@@ -14,6 +14,7 @@
 @@||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
 @@||9to5mac.com^
 @@||aa.agkn.com^
+@@||aa.online-metrix.net^
 @@||aaplimg.com^
 @@||abbi.io^
 @@||account.quadlockcase.eu^
@@ -130,6 +131,7 @@
 @@||chumenwenwen.com^
 @@||clarity.ms^
 @@||cleverreach.com^
+@@||click.crm.toyota-europe.com^
 @@||click.e.crm.lego.com^
 @@||click.mambasendtrack.com^
 @@||clockwork.com^
@@ -194,6 +196,7 @@
 @@||emteria.com^
 @@||enelitalia.demdex.net^
 @@||eniplenitude.com^
+@@||ep1.adtrafficquality.google^
 @@||ericsoft.com^
 @@||eu-tracks.trackingplan.com^
 @@||eu.klarnaevt.com^
@@ -500,6 +503,7 @@
 @@||tech26.de^
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
+@@||tg.news.kubii.com^
 @@||theapplewiki.com^
 @@||theapplewiki.com^
 @@||thefork.com^
