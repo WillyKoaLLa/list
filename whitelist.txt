@@ -183,6 +183,8 @@
 @@||ebay.com^
 @@||ecoflow.com^
 @@||edenred.io^
+@@||eic-gfts.tv.wiselg.com^
+@@||eic.tv.wiselg.com^
 @@||electroverse.com^
 @@||emarsys.net^
 @@||emmeennedolo.it^
@@ -280,6 +282,7 @@
 @@||isybank.com^
 @@||it-wms.com^
 @@||it.lgeapi.com^
+@@||it.nextlgsdp.com^
 @@||italotreno.com^
 @@||italotreno.it^
 @@||iubenda.com^
@@ -367,6 +370,7 @@
 @@||news.email.ikea.it^
 @@||nexigroup.com^
 @@||nflxvideo.net^
+@@||ngfts.tv.wiselg.com^
 @@||nmrodam.com^
 @@||no-track.as93.net^
 @@||noip.com^
@@ -448,6 +452,7 @@
 @@||ryanair.com^
 @@||s.fluxtech.ai^
 @@||salewa.com^
+@@||sansalvatore.shop^
 @@||sapphire.api.microsoftapp.net^
 @@||satellitemap.space^
 @@||satnogs.org^
@@ -463,6 +468,7 @@
 @@||servg1.net^
 @@||service.arpa^
 @@||services.gruppodolomitienergia.it^
+@@||shelluk.md-apis.medallia.com^
 @@||shelly.cloud^
 @@||shelly.com^
 @@||shopify-gtm-suite.getelevar.com^
@@ -479,6 +485,7 @@
 @@||sorgenia.it^
 @@||sp1-brevo.net^
 @@||splunkcloud.com^
+@@||static.adtidy.org^
 @@||statics.cedscdn.it^
 @@||stbm.it^
 @@||steampowered.com^
@@ -497,7 +504,6 @@
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
 @@||tg.news.kubii.com^
-@@||theapplewiki.com^
 @@||theapplewiki.com^
 @@||thefork.com^
 @@||tigota.it^
@@ -557,7 +563,6 @@
 @@||www.bancadiasti.it^
 @@||www.comunicazione.va^
 @@||www.dhl.com^
-@@||www.dhl.com^
 @@||www.electroyou.it^
 @@||www.facebook.com^
 @@||www.fully-kiosk.com^
@@ -567,8 +572,8 @@
 @@||www.oliocentonze.com^
 @@||www.poliziadistato.it^
 @@||www.quadlockcase.eu^
-@@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
+@@||www.tellows.it^
 @@||www.volkswagen.com^
 @@||www.volkswagen.it^
 @@||x.com^

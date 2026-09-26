@@ -6,3 +6,5 @@ prov-lg.alphonso.tv
 aic-ngfts.lge.com
 b-graph.facebook.com
 eic.commonpush.lgtviot.com
+www.ueiwsp.com
+eic.api.lgtviot.com
