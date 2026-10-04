@@ -269,6 +269,7 @@
 @@||imagino.com^
 @@||imbmsubscriptions.com^
 @@||imgur.com^
+@@||imgwinday-rewarding.windtre.it^
 @@||immobiliare.it^
 @@||in.cuebiq.com^
 @@||ingestion.webanalytics.italia.it^
@@ -344,6 +345,7 @@
 @@||meshcore.dev^
 @@||meshy.ai^
 @@||meteotrentino.it^
+@@||metrics.ovs.it^
 @@||microsoftrewards.com^
 @@||miele.com^
 @@||mmechocaptiveportal.com^
@@ -570,6 +572,7 @@
 @@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
+@@||www.ovs.it^
 @@||www.poliziadistato.it^
 @@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
