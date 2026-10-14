@@ -83,6 +83,7 @@
 @@||bingclientmsa.sapphire.microsoftapp.net^
 @@||bixgrow.com^
 @@||blackvoid.club^
+@@||blog.euroimportpneumatici.com^
 @@||bluespirit.com^
 @@||bnl.it^
 @@||borgomedievaletorino.it^
@@ -117,6 +118,7 @@
 @@||cdp.it^
 @@||cedacrigroup.it^
 @@||central-service-juice.world^
+@@||cerchigomme.it^
 @@||cf.bnlpay-hellopay.it^
 @@||changelly.com^
 @@||cheerz.com^
@@ -192,6 +194,7 @@
 @@||enelitalia.demdex.net^
 @@||eniplenitude.com^
 @@||ep1.adtrafficquality.google^
+@@||eproprod.enex.cl^
 @@||ericsoft.com^
 @@||eu-tracks.trackingplan.com^
 @@||eu.klarnaevt.com^
@@ -526,6 +529,7 @@
 @@||ttr-group.de^
 @@||tvtime.com^
 @@||twingate.com^
+@@||tyres.online^
 @@||ubnt.com^
 @@||ui.com^
 @@||ui.direct^
@@ -563,11 +567,13 @@
 @@||wpad.work^
 @@||wsrv.3dprinterfiles.com^
 @@||www.bancadiasti.it^
+@@||www.chioggianotizie.it^
 @@||www.comunicazione.va^
 @@||www.dhl.com^
 @@||www.electroyou.it^
 @@||www.facebook.com^
 @@||www.fully-kiosk.com^
+@@||www.gomme-auto.it^
 @@||www.instagram.com^
 @@||www.linkedin.com^
 @@||www.mybrt.it^
