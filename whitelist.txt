@@ -44,6 +44,7 @@
 @@||api.cooldata.com^
 @@||api.electroverse.com^
 @@||api.onesignal.com^
+@@||api.tech.fan.vwapps.run^
 @@||apolloautomation.com^
 @@||app-analytics-services.com^
 @@||app-measurement.com^
@@ -109,6 +110,7 @@
 @@||cdn.optimizely.com^
 @@||cdn.paypal.dev.cjmadobe.com^
 @@||cdn.preciso.net^
+@@||cdn.seap.fan.vwapps.run^
 @@||cdn.tagcommander.com^
 @@||cdn.tangoo.it^
 @@||cdn.webquality.it^
@@ -151,6 +153,7 @@
 @@||criteo.com^
 @@||crsend.com^
 @@||ct1.cloudfront.crowd-umlaut.com^
+@@||d.la11-core1.sfdc-yzvdd4.salesforceliveagent.com^
 @@||d8c14d4960ca.edge.sdk.awswaf.com^
 @@||dam-braodcast.com^
 @@||data.microsoft.com^
@@ -318,6 +321,8 @@
 @@||login-app-fideuram-it.ispgs.net^
 @@||lucake.it^
 @@||luigisbox.tech^
+@@||lynkco.biz^
+@@||lynkco.com^
 @@||lyoness.com^
 @@||m365cdn.nel.measure.office.net^
 @@||macrumors.com^
@@ -420,6 +425,7 @@
 @@||previnet.it^
 @@||primevideo.com^
 @@||procdn.swymrelay.com^
+@@||prod-a.seap.fan.vwapps.run^
 @@||prodregistryv2.org^
 @@||prusa3d.com^
 @@||prusax.com^
@@ -472,6 +478,7 @@
 @@||sentry.io^
 @@||servg1.net^
 @@||service.arpa^
+@@||service.force.com^
 @@||services.gruppodolomitienergia.it^
 @@||shelluk.md-apis.medallia.com^
 @@||shelly.cloud^
