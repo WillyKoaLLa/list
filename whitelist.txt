@@ -235,13 +235,8 @@
 @@||gioiellidivalenza.com^
 @@||github.com^
 @@||glauco.it^
-@@||gmail.com^
-@@||gmail.it^
-@@||google.com^
-@@||google.it^
 @@||googleapis.com^
 @@||googleusercontent.com^
-@@||googlevideo.com^
 @@||growthbook.io^
 @@||gruppohera.it^
 @@||gruppomol.it^
