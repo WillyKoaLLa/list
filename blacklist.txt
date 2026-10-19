@@ -8,3 +8,4 @@ b-graph.facebook.com
 eic.commonpush.lgtviot.com
 www.ueiwsp.com
 eic.api.lgtviot.com
+api.eu.amazonalexa.com

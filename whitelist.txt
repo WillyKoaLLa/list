@@ -201,6 +201,8 @@
 @@||ericsoft.com^
 @@||eu-tracks.trackingplan.com^
 @@||eu.klarnaevt.com^
+@@||europcar-infos.com^
+@@||evdc.network^
 @@||eventbrite.com^
 @@||eventbrite.it^
 @@||events.newsroom.bi^
@@ -371,6 +373,7 @@
 @@||netatmo.net^
 @@||netflix.com^
 @@||newoaks.ai^
+@@||news.atlante.energy^
 @@||news.email.ikea.com^
 @@||news.email.ikea.it^
 @@||nexigroup.com^
@@ -570,6 +573,7 @@
 @@||wsrv.3dprinterfiles.com^
 @@||www.bancadiasti.it^
 @@||www.chioggianotizie.it^
+@@||www.comune.marsala.tp.it^
 @@||www.comunicazione.va^
 @@||www.dhl.com^
 @@||www.electroyou.it^
@@ -581,6 +585,7 @@
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
 @@||www.ovs.it^
+@@||www.parcodisegesta.com^
 @@||www.poliziadistato.it^
 @@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
