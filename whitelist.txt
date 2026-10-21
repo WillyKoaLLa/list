@@ -418,6 +418,7 @@
 @@||pixelflare.cc^
 @@||pndsn.com^
 @@||posit.com^
+@@||powy.energy^
 @@||prenatal.com^
 @@||previmedical.it^
 @@||previnet.it^
