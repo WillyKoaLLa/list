@@ -60,12 +60,15 @@
 @@||asnapieu.com^
 @@||assets.cloudlift.app^
 @@||assets.oneweb.mercedes-benz.com^
+@@||assets.prod.azdev.direct^
 @@||assets.ryanair.com^
 @@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
 @@||attest.approovr.io^
 @@||auto-doc.it^
+@@||autostrade.it^
+@@||autostrade.it^
 @@||avast.com^
 @@||avcdn.net^
 @@||avira.com^
@@ -192,6 +195,7 @@
 @@||eic.tv.wiselg.com^
 @@||electroverse.com^
 @@||emarsys.net^
+@@||embeds.acswapp.com^
 @@||emmeennedolo.it^
 @@||emteria.com^
 @@||enelitalia.demdex.net^
@@ -271,6 +275,7 @@
 @@||ilportaledellautomobilista.it^
 @@||imagino.com^
 @@||imbmsubscriptions.com^
+@@||img.mavriq.com^
 @@||imgur.com^
 @@||imgwinday-rewarding.windtre.it^
 @@||immobiliare.it^
@@ -422,6 +427,7 @@
 @@||prenatal.com^
 @@||previmedical.it^
 @@||previnet.it^
+@@||prima.it^
 @@||primevideo.com^
 @@||procdn.swymrelay.com^
 @@||prod-a.seap.fan.vwapps.run^
@@ -523,11 +529,13 @@
 @@||tiktokv.com^
 @@||tiktokv.eu^
 @@||tiqcdn.com^
+@@||tlvn-vzgndzm7hghlz7pgs271jzm.click-sap.sfmc-marketing.com^
 @@||toptechnews.de^
 @@||toyota.com^
 @@||toyota.eu^
 @@||toyota.it^
 @@||tozelabs.com^
+@@||track.lastminute.com^
 @@||trauerhilfe.it^
 @@||trovaprezzi.it^
 @@||trusteer.com^
@@ -1287,6 +1295,7 @@ www.adnkronos.com
 www.affiliatefuture.com
 www.anrdoezrs.net
 www.apmebf.com
+www.autostrade.it
 www.avantlink.com
 www.bfast.com
 www.bit.ly
