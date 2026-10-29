@@ -373,6 +373,7 @@
 @@||my-cdn.cloud^
 @@||myazimut.it^
 @@||myddns.me^
+@@||myvw-deep-link-router-prod.apps.mega.cariad.cloud^
 @@||n26.com^
 @@||netatmo.com^
 @@||netatmo.net^
