@@ -41,7 +41,6 @@
 @@||aosomcdn.com^
 @@||apertis.org^
 @@||api.app.consorzioarsenal.it^
-@@||api.cooldata.com^
 @@||api.electroverse.com^
 @@||api.onesignal.com^
 @@||api.tech.fan.vwapps.run^
@@ -67,7 +66,6 @@
 @@||attest.approoval.com^
 @@||attest.approovr.io^
 @@||auto-doc.it^
-@@||autostrade.it^
 @@||autostrade.it^
 @@||avast.com^
 @@||avcdn.net^
@@ -128,7 +126,6 @@
 @@||changelly.com^
 @@||cheerz.com^
 @@||chicco.it^
-@@||chumenwenwen.com^
 @@||clarity.ms^
 @@||cleverreach.com^
 @@||click.crm.toyota-europe.com^
@@ -282,7 +279,6 @@
 @@||in.cuebiq.com^
 @@||ingestion.webanalytics.italia.it^
 @@||intel.com^
-@@||intellijend.com^
 @@||intercom.io^
 @@||iolam.it^
 @@||ip-api.com^
@@ -338,7 +334,6 @@
 @@||maps.motork.io^
 @@||marketingcloudapis.com^
 @@||mas-sdk.amazon.com^
-@@||massgrave.dev^
 @@||mattinopadova.it^
 @@||measure.office.com^
 @@||measure.office.net^
@@ -475,7 +470,6 @@
 @@||satnogs.org^
 @@||sbcdn.it^
 @@||sdk.mrf.io^
-@@||sdk.yolanda.hk^
 @@||sefaq.report-uri.com^
 @@||segugio.it^
 @@||sellagroup.eu^
@@ -569,7 +563,7 @@
 @@||waveshare.net^
 @@||waze.com^
 @@||weathercdn.sapphire.microsoftapp.net^
-@@||webnode-com^
+@@||webnode.com^
 @@||whatsapp.com^
 @@||whatsapp.net^
 @@||widget.customer-alliance.com^
@@ -656,7 +650,6 @@ api.amazon.it
 api.amplisite.it
 api.asusappnw.com
 api.channelsight.com
-api.cooladata.com
 api.datlas.it
 api.diagnostics.office.com
 api.ecomparkour.io
@@ -994,9 +987,6 @@ jsdelivr.net
 kataweb.it
 keap.page
 keystone.mwbsys.com
-kms-default.cangshui.net
-kms.myds.cloud
-kms.wxlost.com
 kqzyfj.com
 lastfm-img2.akamaized.net
 library.eu.iterable.com
@@ -1103,7 +1093,6 @@ pntra.com
 pntrac.com
 pntrack.com
 pokeapi.co
-polyfill.io
 pricelist.skype.com
 privacyportal-de.onetrust.com
 prod.rewardsplatform.microsoft.com
@@ -1284,7 +1273,6 @@ widget.heres.ai
 widget.reviews.io
 widget.trustpilot.com
 widgetv2.heres.ai
-win.kms.pub
 win10-trt.msedge.net
 win10.ipv6.microsoft.com
 winhelp2002.mvps.org
@@ -1345,7 +1333,6 @@ www.yummly.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
-xkms.xboxlive.com
 xsts.auth.xboxlive.com
 yonder.rockysandstudio.com
 youtu.be
@@ -1353,4 +1340,3 @@ youtube-nocookie.com
 yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
-zeustracker.abuse.ch
