@@ -107,6 +107,8 @@
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
 @@||cdn-cookieyes.com^
+@@||cdn.ablyft.com^
+@@||cdn.co-buying.com^
 @@||cdn.dima.fan.vwapps.run^
 @@||cdn.imagin.studio^
 @@||cdn.optimizely.com^
@@ -179,6 +181,7 @@
 @@||dp-gw-na.amazon.com^
 @@||dpm.demdex.net^
 @@||drbuho.com^
+@@||dressipi-production.ovs.it^
 @@||ds-cdn.prod-east.frontend.public.atl-paas.net^
 @@||duckdns.org^
 @@||dwin1.com^
@@ -457,6 +460,7 @@
 @@||rewardscdn.sapphire.microsoftapp.net^
 @@||riscosopen.org^
 @@||rockstargames.com^
+@@||room.cxr.skeepers.io^
 @@||rottentomatoes.com^
 @@||roundprincemusic.com^
 @@||rpishop.cz^
@@ -556,6 +560,7 @@
 @@||ve.it^
 @@||veneziatoday.it^
 @@||vextm.dwabtech.com^
+@@||vf.r3f.technology^
 @@||villaregia.org^
 @@||visualstudio.com^
 @@||vittoriaassicurazioni.com^
@@ -597,6 +602,7 @@
 @@||www.quadlockcase.eu^
 @@||www.securitytrfx.com^
 @@||www.tellows.it^
+@@||www.terranovastyle.com^
 @@||www.volkswagen.com^
 @@||www.volkswagen.it^
 @@||x.com^
