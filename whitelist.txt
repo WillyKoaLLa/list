@@ -107,6 +107,7 @@
 @@||cdm.tangoo.it^
 @@||cdn-apple.com^
 @@||cdn-cookieyes.com^
+@@||cdn.dima.fan.vwapps.run^
 @@||cdn.imagin.studio^
 @@||cdn.optimizely.com^
 @@||cdn.paypal.dev.cjmadobe.com^
@@ -426,6 +427,7 @@
 @@||prima.it^
 @@||primevideo.com^
 @@||procdn.swymrelay.com^
+@@||prod-a.dima.fan.vwapps.run^
 @@||prod-a.seap.fan.vwapps.run^
 @@||prodregistryv2.org^
 @@||prusa3d.com^
@@ -582,6 +584,7 @@
 @@||www.dhl.com^
 @@||www.electroyou.it^
 @@||www.facebook.com^
+@@||www.fbsbx.com^
 @@||www.fully-kiosk.com^
 @@||www.gomme-auto.it^
 @@||www.instagram.com^
