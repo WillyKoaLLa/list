@@ -74,10 +74,12 @@
 @@||azimut.it^
 @@||azionecontrolafame.it^
 @@||azurefd.net^
+@@||backstory.ebay.it^
 @@||bancaifis.it^
 @@||banco.bradesco^
 @@||batch.com^
 @@||bbvaexperience.com^
+@@||bdyoomvaq5bp.eu.wpi.jscrambler.com^
 @@||beddy.io^
 @@||beefree-storage.os-content.com^
 @@||beekeeperstudio.io^
@@ -174,6 +176,7 @@
 @@||direct.quickconnect.to^
 @@||disneyplus.com^
 @@||disqus.com^
+@@||distillery.pixlee.co^
 @@||dns.google^
 @@||dolomitienergia.it^
 @@||dolomitienergiaholding.musvc3.net^
@@ -192,6 +195,7 @@
 @@||ebay.com^
 @@||ecoflow.com^
 @@||edenred.io^
+@@||edgetrksvc.ebay.it^
 @@||eic-gfts.tv.wiselg.com^
 @@||eic.tv.wiselg.com^
 @@||electroverse.com^
@@ -220,6 +224,7 @@
 @@||fbcdn.net^
 @@||fbpigeon.com^
 @@||fe-mn1.magnews.net^
+@@||features.inditex.com^
 @@||ferrerorocher.com^
 @@||fibra.click^
 @@||fideuram.it^
@@ -432,6 +437,7 @@
 @@||procdn.swymrelay.com^
 @@||prod-a.dima.fan.vwapps.run^
 @@||prod-a.seap.fan.vwapps.run^
+@@||prod.emea.mobile.charging.cariad.digital^
 @@||prodregistryv2.org^
 @@||prusa3d.com^
 @@||prusax.com^
@@ -475,6 +481,7 @@
 @@||satellitemap.space^
 @@||satnogs.org^
 @@||sbcdn.it^
+@@||scdn.autodoc.de^
 @@||sdk.mrf.io^
 @@||sefaq.report-uri.com^
 @@||segugio.it^
@@ -508,6 +515,7 @@
 @@||stbm.it^
 @@||steampowered.com^
 @@||stncdn.it^
+@@||stradivarius-itit.backend.verbolia.com^
 @@||stroilioro.com^
 @@||suedtirol.live^
 @@||superautospa.it^
@@ -521,6 +529,7 @@
 @@||tech26.de^
 @@||techlab-cdn.com^
 @@||tecnocasa.com^
+@@||terranovastyle.com^
 @@||tg.news.kubii.com^
 @@||theapplewiki.com^
 @@||thefork.com^
@@ -567,6 +576,7 @@
 @@||vodafone.it^
 @@||vouchers-at-work.com^
 @@||vwonehub.io^
+@@||w.appzi.io^
 @@||waveshare.net^
 @@||waze.com^
 @@||weathercdn.sapphire.microsoftapp.net^
@@ -583,6 +593,7 @@
 @@||wpad.work^
 @@||wsrv.3dprinterfiles.com^
 @@||www.bancadiasti.it^
+@@||www.beps.it^
 @@||www.chioggianotizie.it^
 @@||www.comune.marsala.tp.it^
 @@||www.comunicazione.va^
@@ -590,6 +601,7 @@
 @@||www.electroyou.it^
 @@||www.facebook.com^
 @@||www.fbsbx.com^
+@@||www.forumelettrico.it^
 @@||www.fully-kiosk.com^
 @@||www.gomme-auto.it^
 @@||www.instagram.com^
