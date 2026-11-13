@@ -61,6 +61,7 @@
 @@||assets.oneweb.mercedes-benz.com^
 @@||assets.prod.azdev.direct^
 @@||assets.ryanair.com^
+@@||assets.teepublic.com^
 @@||asus.com^
 @@||atlassian.com^
 @@||attest.approoval.com^
@@ -101,6 +102,7 @@
 @@||brt.it^
 @@||brxcdn.com^
 @@||bsmart.it^
+@@||c-iam.a2a.it^
 @@||c.time1.me^
 @@||caasbbva.com^
 @@||canva.link^
@@ -113,6 +115,9 @@
 @@||cdn.co-buying.com^
 @@||cdn.dima.fan.vwapps.run^
 @@||cdn.imagin.studio^
+@@||cdn.ionity.eu^
+@@||cdn.klaviyomail.com^
+@@||cdn.mcauto-images-production.sendgrid.net^
 @@||cdn.optimizely.com^
 @@||cdn.paypal.dev.cjmadobe.com^
 @@||cdn.preciso.net^
@@ -136,6 +141,7 @@
 @@||click.crm.toyota-europe.com^
 @@||click.e.crm.lego.com^
 @@||click.mambasendtrack.com^
+@@||clk.quadlockcase.eu^
 @@||clockwork.com^
 @@||clockwork.wiki^
 @@||cloud.volkswagengroup.it^
@@ -209,6 +215,7 @@
 @@||eproprod.enex.cl^
 @@||ericsoft.com^
 @@||eu-tracks.trackingplan.com^
+@@||eu.3wliners.com^
 @@||eu.klarnaevt.com^
 @@||europcar-infos.com^
 @@||evdc.network^
@@ -234,6 +241,8 @@
 @@||fonts.bunny.net^
 @@||forms.gle^
 @@||foto-webcam.eu^
+@@||fourthwall.com^
+@@||fourthwall.dev^
 @@||foxentry.cz^
 @@||frameset.app^
 @@||freedome.it^
@@ -296,6 +305,7 @@
 @@||istatmenus.app^
 @@||isybank.com^
 @@||it-wms.com^
+@@||it.e-mossa.eu^
 @@||it.lgeapi.com^
 @@||it.nextlgsdp.com^
 @@||italotreno.com^
@@ -320,6 +330,7 @@
 @@||licdn.com^
 @@||lighthouselabs.eu^
 @@||linkedin.com^
+@@||linktr.ee^
 @@||live.car-cloud.org^
 @@||live.com^
 @@||livechat.ekonsilio.io^
@@ -344,6 +355,7 @@
 @@||maps.motork.io^
 @@||marketingcloudapis.com^
 @@||mas-sdk.amazon.com^
+@@||matomo.openstreetmap.org^
 @@||mattinopadova.it^
 @@||measure.office.com^
 @@||measure.office.net^
@@ -488,6 +500,7 @@
 @@||sefaq.report-uri.com^
 @@||segugio.it^
 @@||sellagroup.eu^
+@@||sendgrid.net^
 @@||sendibm1.com^
 @@||sentry-cdn.com^
 @@||sentry.io^
@@ -542,6 +555,7 @@
 @@||tiktokv.eu^
 @@||tiqcdn.com^
 @@||tlvn-vzgndzm7hghlz7pgs271jzm.click-sap.sfmc-marketing.com^
+@@||tlzvbqgsrjv378n7zqv4t1s6bntq.click-sap.sfmc-marketing.com^
 @@||toptechnews.de^
 @@||toyota.com^
 @@||toyota.eu^
@@ -614,6 +628,7 @@
 @@||www.parcodisegesta.com^
 @@||www.poliziadistato.it^
 @@||www.quadlockcase.eu^
+@@||www.ricambialo.com^
 @@||www.securitytrfx.com^
 @@||www.tellows.it^
 @@||www.terranovastyle.com^
