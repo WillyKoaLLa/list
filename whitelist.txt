@@ -577,7 +577,9 @@
 @@||unhcr.it^
 @@||unieuro.com^
 @@||unipol.data.adobedc.net^
+@@||unipol.magnews.net^
 @@||unipolmove.it^
+@@||unipolsai.magnews-email.com^
 @@||unpkg.com^
 @@||update.microsoft.com^
 @@||userly.net^
@@ -608,6 +610,7 @@
 @@||wk-cdn.it^
 @@||wpad.work^
 @@||wsrv.3dprinterfiles.com^
+@@||www.alperia.eu^
 @@||www.bancadiasti.it^
 @@||www.beps.it^
 @@||www.chioggianotizie.it^
@@ -621,6 +624,7 @@
 @@||www.fully-kiosk.com^
 @@||www.gomme-auto.it^
 @@||www.instagram.com^
+@@||www.lecoq.srl^
 @@||www.linkedin.com^
 @@||www.mybrt.it^
 @@||www.oliocentonze.com^
