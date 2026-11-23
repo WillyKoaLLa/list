@@ -222,6 +222,7 @@
 @@||eventbrite.com^
 @@||eventbrite.it^
 @@||events.newsroom.bi^
+@@||exatom.io^
 @@||exct.net^
 @@||fabbri1905.com^
 @@||farnell.com^
@@ -258,6 +259,7 @@
 @@||glauco.it^
 @@||googleapis.com^
 @@||googleusercontent.com^
+@@||googlevideo.com^
 @@||growthbook.io^
 @@||gruppohera.it^
 @@||gruppomol.it^
@@ -326,6 +328,7 @@
 @@||lambda.ai^
 @@||lantern.roeyecdn.com^
 @@||lav.it^
+@@||lexus-europe.com^
 @@||lgwebostv.com^
 @@||licdn.com^
 @@||lighthouselabs.eu^
@@ -559,6 +562,7 @@
 @@||toptechnews.de^
 @@||toyota.com^
 @@||toyota.eu^
+@@||toyota.finance.makolab.com^
 @@||toyota.it^
 @@||tozelabs.com^
 @@||track.lastminute.com^
@@ -1053,7 +1057,6 @@ m.stripe.network
 m.unipoltech.it
 m365.cloud.microsoft
 manifest.auditude.com
-manifest.googlevideo.com
 market.spotify.com
 me-cam-pixel-tracker-prod.azure-api.net
 media-public.canva.com
