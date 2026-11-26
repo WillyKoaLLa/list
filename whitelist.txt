@@ -19,7 +19,6 @@
 @@||admin.convy.ai^
 @@||adsb.im^
 @@||ae.nflximg.net^
-@@||agriturismo-case-sgaraglino.siciliaesardegna.it^
 @@||airthin.gs^
 @@||airthings.com^
 @@||akadns.net^
@@ -63,6 +62,7 @@
 @@||assets.ryanair.com^
 @@||assets.teepublic.com^
 @@||asus.com^
+@@||atlante.energy^
 @@||atlassian.com^
 @@||attest.approoval.com^
 @@||attest.approovr.io^
@@ -286,6 +286,7 @@
 @@||icloud.com^
 @@||idealista.it^
 @@||idkids.fr^
+@@||if-cdn.com^
 @@||igodigital.com^
 @@||ilgazzettino.it^
 @@||iliad.it^
@@ -425,6 +426,7 @@
 @@||openfiber.it^
 @@||oraclecloudapps.com^
 @@||ortovox.com^
+@@||ota.lokalise.co^
 @@||overpass-turbo.eu^
 @@||p.typekit.net^
 @@||page.link^
@@ -462,6 +464,7 @@
 @@||px-cloud.net^
 @@||quadientcloud.eu^
 @@||quickconnect.to^
+@@||r.m.turingpi.com^
 @@||rai.it^
 @@||raiplay.it^
 @@||raspberrypi.com^
@@ -1166,7 +1169,6 @@ redeem.rewardlink.com
 redirect.at
 redirect.viglink.com
 redirectingat.com
-redirector.googlevideo.com
 region1.app-analytics-services-att.com
 region1.google-analytics.com
 rendering-images.inxshare.de
